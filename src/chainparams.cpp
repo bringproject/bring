@@ -54,10 +54,10 @@ static void convertSeed6(std::vector<CAddress>& vSeedsOut, const SeedSpec6* data
 // + Contains no strange transactions
 static Checkpoints::MapCheckpoints mapCheckpoints =
     boost::assign::map_list_of
-    (0, uint256("0x1a18ab77876d86fa6761617fb40cffddde350e0805f36957fd935072bfd3c20c"));
+    (0, uint256("0xf44ab744b20da14652520c8c64688edbfe5e43265b48b476b973389e1bf4241f"));
 static const Checkpoints::CCheckpointData data = {
     &mapCheckpoints,
-	1538396450, // * UNIX timestamp of last checkpoint block
+	1538752700, // * UNIX timestamp of last checkpoint block
     0,          // * total number of transactions between genesis and last checkpoint
                 //   (the tx=... number in the SetBestChain debug.log lines)
     2000        // * estimated number of transactions per day after checkpoint
@@ -124,14 +124,14 @@ public:
         genesis.hashPrevBlock = 0;
         genesis.hashMerkleRoot = genesis.BuildMerkleTree();
         genesis.nVersion = 1;
-		genesis.nTime = 1538396450;
+		genesis.nTime = 1538752700;
 		genesis.nBits = 504365040;
 		genesis.nNonce = 399062;
 
         hashGenesisBlock = genesis.GetHash();
 		//printf("genesis.GetHash = %s\n", genesis.GetHash().ToString().c_str());
 		//printf("genesis.hashMerkleRoot = %s\n", genesis.hashMerkleRoot.ToString().c_str());
-		assert(hashGenesisBlock == uint256("0x1a18ab77876d86fa6761617fb40cffddde350e0805f36957fd935072bfd3c20c"));
+		assert(hashGenesisBlock == uint256("0xf44ab744b20da14652520c8c64688edbfe5e43265b48b476b973389e1bf4241f"));
 		assert(genesis.hashMerkleRoot == uint256("0xb74152401ef234654b5f4b4fc7a5104b684ae103ae30243df22986394014ae32"));
 
 		vSeeds.push_back(CDNSSeedData("199.247.28.204", "199.247.28.204"));
@@ -163,7 +163,7 @@ public:
 		strSporkKey = "045C79634229965E8EA0046671881CE0EA8AECB7DB112B4A885203CFA8D5205DEE69CDC7F7C78397164EFCD2F1B5281A0E8A586492E809C7D6A654D5B6CFE79DCA";
         strObfuscationPoolDummyAddress = "D87q2gC9j6nNrnzCsg4aY6bHMLsT9nUhEw";
 		
-        nStartMasternodePayments = 1535132981; //Wed, 25 Jun 2014 20:36:16 GMT
+        nStartMasternodePayments = 1538752800; //Wed, 25 Jun 2014 20:36:16 GMT
     }
 
     const Checkpoints::CCheckpointData& Checkpoints() const
@@ -235,7 +235,7 @@ public:
         nPoolMaxTransactions = 2;
         strSporkKey = "04348C2F50F90267E64FACC65BFDC9D0EB147D090872FB97ABAE92E9A36E6CA60983E28E741F8E7277B11A7479B626AC115BA31463AC48178A5075C5A9319D4A38";
         strObfuscationPoolDummyAddress = "y57cqfGRkekRyDRNeJiLtYVEbvhXrNbmox";
-        nStartMasternodePayments = 1535132981; //Fri, 09 Jan 2015 21:05:58 GMT
+        nStartMasternodePayments = 1538752800; //Fri, 09 Jan 2015 21:05:58 GMT
     }
     const Checkpoints::CCheckpointData& Checkpoints() const
     {
