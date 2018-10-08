@@ -69,7 +69,7 @@ bool fCheckBlockIndex = false;
 unsigned int nCoinCacheSize = 5000;
 bool fAlerts = DEFAULT_ALERTS;
 
-unsigned int nStakeMinAge = 60 * 60; //60 Min Stake Age
+unsigned int nStakeMinAge = 1 * 60; //1 Min Stake Age
 int64_t nReserveBalance = 0;
 
 /** Fees smaller than this (in duffs) are considered zero fee (for relaying and mining)
@@ -1659,7 +1659,7 @@ int64_t GetBlockValue(int nHeight)
 	else if (nHeight < 200000 && nHeight > 180001) {
 		nSubsidy = 40 * COIN;
 	}
-	else if (nHeight < 200001) { //Till max supply 
+	else if (nHeight > 200001) { //Till max supply 
 		nSubsidy = 50 * COIN;
 	}
 	int64_t nMoneySupply = chainActive.Tip()->nMoneySupply;
@@ -1675,8 +1675,13 @@ int64_t GetBlockValue(int nHeight)
 
 int64_t GetMasternodePayment(int nHeight, int64_t blockValue, int nMasternodeCount)
 {
-	int64_t ret = 0;
-	ret = blockValue * 0.8; //MN Gets 80% block reward
+    int64_t ret = 0;
+    
+	if (nHeight < 200) {
+	    ret = blockValue * 0;
+    } else {
+	    ret = blockValue * 0.8; // 80% for MN
+    }
 	return ret;
 }
 
