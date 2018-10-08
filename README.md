@@ -6,6 +6,7 @@ BringCoin repository
 <table>
 <tr><td>Algo</td><td>Quark</td></tr>
 <tr><td>Block Time</td><td>60 Seconds</td></tr>
+<tr><td>MN Collateral</td><td>1000 BRG</td></tr>
 <tr><td>Difficulty Retargeting</td><td>Every Block</td></tr>
 <tr><td>Max Coin Supply (PoS Phase)</td><td>40,000,000 BRG</td></tr>
 <tr><td>Premine</td><td>200,000 BRG</td></tr>
@@ -13,7 +14,7 @@ BringCoin repository
 
 ### Reward Distribution
 
-### PoW Rewards
+### PoS Rewards
 <table>
 <th>Phase</th><th>Block Height</th><th>Reward</th><th>MN</th><th>POS</th>
 <tr><td>Phase 1</td><td>50-200</td><td>0 BRG</td><td>80%</td><td>20%</td></tr>
