@@ -16,7 +16,6 @@ BringCoin repository
 
 ### PoW Rewards
 <table>
-<th>Phase</th><th>Block Height</th><th>Reward</th><th>MN</th><th>POW</th>
 <th>Phase</th><th>Block Height</th><th>Reward</th><th>MN</th><th>POS</th>
 <tr><td>Phase 1</td><td>50-200</td><td>0 BRG</td><td>80%</td><td>20%</td></tr>
 <tr><td>Phase 2</td><td>201-20000</td><td>0.2 BRG</td><td>80%</td><td>20%</td></tr>
