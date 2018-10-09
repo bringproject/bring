@@ -34,12 +34,6 @@ BringCoin repository
 <tr><td>Phase 10</td><td>140001-160000</td><td>20 BRG</td><td>80%</td><td>20%</td></tr>
 <tr><td>Phase 11</td><td>160001-180000</td><td>30 BRG</td><td>80%</td><td>20%</td></tr>
 <tr><td>Phase 12</td><td>180001-200000</td><td>40 BRG</td><td>80%</td><td>20%</td></tr>
-<tr><td>Phase 6</td><td>80001-100000</td><td>7 BRG</td><td>80%</td><td>20%</td></tr>
-<tr><td>Phase 7</td><td>100001-120000</td><td>10 BRG</td><td>80%</td><td>20%</td></tr>
-<tr><td>Phase 8</td><td>120001-140000</td><td>13 BRG</td><td>80%</td><td>20%</td></tr>
-<tr><td>Phase 9</td><td>140001-160000</td><td>20 BRG</td><td>80%</td><td>20%</td></tr>
-<tr><td>Phase 10</td><td>160001-180000</td><td>30 BRG</td><td>80%</td><td>20%</td></tr>
-<tr><td>Phase 11</td><td>180001-200000</td><td>40 BRG</td><td>80%</td><td>20%</td></tr>
 <tr><td>Phase X</td><td>200001-Infinite</td><td>50 BRG</td><td>80%</td><td>20%</td></tr>
 </table>
 </table>
