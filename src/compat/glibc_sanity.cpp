@@ -8,6 +8,7 @@
 
 #include <cstddef>
 
+#undef HAVE_SYS_SELECT_H
 #if defined(HAVE_SYS_SELECT_H)
 #include <sys/select.h>
 #endif

@@ -6,8 +6,8 @@
 #include "walletmodel.h"
 #include <QLineEdit>
 #include <QMessageBox>
-#include <boost/lexical_cast.hpp>
 #include <QStyle>
+#include <boost/lexical_cast.hpp>
 
 using namespace std;
 using namespace boost;

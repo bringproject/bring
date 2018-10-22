@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Bring
+Comment=BringP2P Cryptocurrency
+Comment[fr]=Bring, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Bring, eşten eşe kriptografik sanal para birimi
+Exec=bring-qt %u
+Terminal=false
+Type=Application
+Icon=bring128
+MimeType=x-scheme-handler/bring;
+Categories=Office;Finance;

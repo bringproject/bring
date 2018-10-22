@@ -2,7 +2,7 @@
 // Copyright (c) 2009-2014 The Bitcoin developers
 // Copyright (c) 2014-2015 The Dash developers
 // Copyright (c) 2015-2017 The PIVX developers
-// Copyright (c) 2018 The Bring developers
+// Copyright (c) 2017-2018 The Bringdevelopers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -15,6 +15,8 @@
 #include <stdint.h>
 
 #include "json/json_spirit_value.h"
+#include "utilmoneystr.h"
+#include "base58.h"
 
 using namespace json_spirit;
 using namespace std;
@@ -64,6 +66,7 @@ Object blockToJSON(const CBlock& block, const CBlockIndex* blockindex, bool txDe
     result.push_back(Pair("height", blockindex->nHeight));
     result.push_back(Pair("version", block.nVersion));
     result.push_back(Pair("merkleroot", block.hashMerkleRoot.GetHex()));
+    result.push_back(Pair("acc_checkpoint", block.nAccumulatorCheckpoint.GetHex()));
     Array txs;
     BOOST_FOREACH (const CTransaction& tx, block.vtx) {
         if (txDetails) {
@@ -85,6 +88,16 @@ Object blockToJSON(const CBlock& block, const CBlockIndex* blockindex, bool txDe
     CBlockIndex* pnext = chainActive.Next(blockindex);
     if (pnext)
         result.push_back(Pair("nextblockhash", pnext->GetBlockHash().GetHex()));
+
+    result.push_back(Pair("moneysupply",ValueFromAmount(blockindex->nMoneySupply)));
+
+    Object zbringObj;
+    for (auto denom : libzerocoin::zerocoinDenomList) {
+        zbringObj.push_back(Pair(to_string(denom), ValueFromAmount(blockindex->mapZerocoinSupply.at(denom) * (denom*COIN))));
+    }
+    zbringObj.emplace_back(Pair("total", ValueFromAmount(blockindex->GetZerocoinSupply())));
+    result.emplace_back(Pair("zBRGsupply", zbringObj));
+
     return result;
 }
 
@@ -265,6 +278,19 @@ Value getblock(const Array& params, bool fHelp)
             "  \"difficulty\" : x.xxx,  (numeric) The difficulty\n"
             "  \"previousblockhash\" : \"hash\",  (string) The hash of the previous block\n"
             "  \"nextblockhash\" : \"hash\"       (string) The hash of the next block\n"
+            "  \"moneysupply\" : \"supply\"       (numeric) The money supply when this block was added to the blockchain\n"
+            "  \"zBRGsupply\" :\n"
+            "  {\n"
+            "     \"1\" : n,            (numeric) supply of 1 zBRG denomination\n"
+            "     \"5\" : n,            (numeric) supply of 5 zBRG denomination\n"
+            "     \"10\" : n,           (numeric) supply of 10 zBRG denomination\n"
+            "     \"50\" : n,           (numeric) supply of 50 zBRG denomination\n"
+            "     \"100\" : n,          (numeric) supply of 100 zBRG denomination\n"
+            "     \"500\" : n,          (numeric) supply of 500 zBRG denomination\n"
+            "     \"1000\" : n,         (numeric) supply of 1000 zBRG denomination\n"
+            "     \"5000\" : n,         (numeric) supply of 5000 zBRG denomination\n"
+            "     \"total\" : n,        (numeric) The total supply of all zBRG denominations\n"
+            "  }\n"
             "}\n"
             "\nResult (for verbose=false):\n"
             "\"data\"             (string) A string that is serialized, hex-encoded data for block 'hash'.\n"
@@ -462,21 +488,18 @@ Value verifychain(const Array& params, bool fHelp)
 {
     if (fHelp || params.size() > 2)
         throw runtime_error(
-            "verifychain ( checklevel numblocks )\n"
+            "verifychain ( numblocks )\n"
             "\nVerifies blockchain database.\n"
             "\nArguments:\n"
-            "1. checklevel   (numeric, optional, 0-4, default=3) How thorough the block verification is.\n"
-            "2. numblocks    (numeric, optional, default=288, 0=all) The number of blocks to check.\n"
+            "1. numblocks    (numeric, optional, default=288, 0=all) The number of blocks to check.\n"
             "\nResult:\n"
             "true|false       (boolean) Verified or not\n"
             "\nExamples:\n" +
             HelpExampleCli("verifychain", "") + HelpExampleRpc("verifychain", ""));
 
-    int nCheckLevel = GetArg("-checklevel", 3);
+    int nCheckLevel = 4;
     int nCheckDepth = GetArg("-checkblocks", 288);
     if (params.size() > 0)
-        nCheckLevel = params[0].get_int();
-    if (params.size() > 1)
         nCheckDepth = params[1].get_int();
 
     return CVerifyDB().VerifyDB(pcoinsTip, nCheckLevel, nCheckDepth);

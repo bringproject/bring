@@ -1,0 +1,26 @@
+# /etc/conf.d/bringd: config file for /etc/init.d/bringd
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/bring/bring.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/bringd"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/bringd.pid"
+
+# Where to write bringd data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/bringd"
+
+# User and group to own bringd process
+#BITCOIND_USER="bring"
+#BITCOIND_GROUP="bring"
+
+# Path to bringd executable
+#BITCOIND_BIN="/usr/bin/bringd"
+
+# Nice value to run bringd under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""

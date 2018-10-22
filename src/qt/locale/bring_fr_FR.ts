@@ -152,16 +152,16 @@
         <translation>Confirmer le cryptage du portefeuille</translation>
     </message>
     <message>
-        <source>Bring will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your LPCs from being stolen by malware infecting your computer.</source>
-        <translation>Bring va maintenant se fermer pour finir le processus cryptage. Notez que le cryptage de votre portefeuille ne peut pas complètement protéger vos LPCs d'un vol par un malware ayant infecté votre ordinateur. </translation>
+        <source>Bringwill close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Brings from being stolen by malware infecting your computer.</source>
+        <translation>Bringva maintenant se fermer pour finir le processus cryptage. Notez que le cryptage de votre portefeuille ne peut pas complètement protéger vos Brings d'un vol par un malware ayant infecté votre ordinateur. </translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Êtes-vous sûr de vouloir crypter votre portefeuille?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BRG&lt;/b&gt;!</source>
-        <translation>Attention : si vous cryptez votre portefeuille et perdez votre phrase secrète, vous &lt;b&gt;PERDREZ TOUS VOS BRG&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR Bring&lt;/b&gt;!</source>
+        <translation>Attention : si vous cryptez votre portefeuille et perdez votre phrase secrète, vous &lt;b&gt;PERDREZ TOUS VOS Bring&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -211,16 +211,16 @@
         <translation>BIP 38 crypter</translation>
     </message>
     <message>
-        <source>Enter a Bring Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Entrez une adresse Bring que vous voulez crypter en utilisant BIP 38. Entrez une phrase secrète dans le champ du milieu. Cliquez sur crypter pour calculer la clé de cryptage privée.</translation>
+        <source>Enter a BringAddress that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Entrez une adresse Bringque vous voulez crypter en utilisant BIP 38. Entrez une phrase secrète dans le champ du milieu. Cliquez sur crypter pour calculer la clé de cryptage privée.</translation>
     </message>
     <message>
         <source>Address:</source>
         <translation>Adresse :</translation>
     </message>
     <message>
-        <source>The Bring address to sign the message with</source>
-        <translation>L'adresse Bring avec laquelle signer le message</translation>
+        <source>The Bringaddress to sign the message with</source>
+        <translation>L'adresse Bringavec laquelle signer le message</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -251,7 +251,7 @@
         <translation>Copier la signature actuelle dans le presse-papier</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Bring address</source>
+        <source>Sign the message to prove you own this Bringaddress</source>
         <translation>Signer le message pour prouver que vous possédez cette adresse Bring</translation>
     </message>
     <message>
@@ -271,12 +271,12 @@
         <translation>BIP 38 Décrypter</translation>
     </message>
     <message>
-        <source>The Bring address the message was signed with</source>
-        <translation>L'adresse Bring avec laquelle le message a été signé</translation>
+        <source>The Bringaddress the message was signed with</source>
+        <translation>L'adresse Bringavec laquelle le message a été signé</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Bring address</source>
-        <translation>Vérifiez le message afin de vous assurer qu'il a été signé avec l'adresse Bring renseignée</translation>
+        <source>Verify the message to ensure it was signed with the specified Bringaddress</source>
+        <translation>Vérifiez le message afin de vous assurer qu'il a été signé avec l'adresse Bringrenseignée</translation>
     </message>
     <message>
         <source>Decrypt &amp;Key</source>
@@ -534,7 +534,7 @@
         <translation>&amp;Aide</translation>
     </message>
     <message>
-        <source>Send coins to a Bring address</source>
+        <source>Send coins to a Bringaddress</source>
         <translation>Envoyer des pièces à une adresse Bring</translation>
     </message>
     <message>
@@ -550,12 +550,12 @@
         <translation>Modifier les options de configuration pour Bring</translation>
     </message>
     <message>
-        <source>Sign messages with your Bring addresses to prove you own them</source>
-        <translation>Signer les messages avec votre adresse Bring pour prouver qu'elles sont bien à vous.</translation>
+        <source>Sign messages with your Bringaddresses to prove you own them</source>
+        <translation>Signer les messages avec votre adresse Bringpour prouver qu'elles sont bien à vous.</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Bring addresses</source>
-        <translation>Vérifier les messages afin de s'assurer qu'ils sont signés avec l'adresse Bring spécifié</translation>
+        <source>Verify messages to ensure they were signed with specified Bringaddresses</source>
+        <translation>Vérifier les messages afin de s'assurer qu'ils sont signés avec l'adresse Bringspécifié</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -854,8 +854,8 @@ Adresse : %4
         <translation>Modifier l'adresse d'envoi</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Bring address.</source>
-        <translation>L'adresse entrée "%1" n'est pas une adresse Bring valide</translation>
+        <source>The entered address "%1" is not a valid Bringaddress.</source>
+        <translation>L'adresse entrée "%1" n'est pas une adresse Bringvalide</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1038,32 +1038,32 @@ Veuillez vérifier l'adresse et réessayer.</translation>
         <translation>Veuillez sélectionner un niveau de confidentialité.</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 10000 BRG</source>
-        <translation>Utiliser 2 masternodes différentes pour mélanger les fonds jusqu'a 10000 BRG</translation>
+        <source>Use 2 separate masternodes to mix funds up to 10000 Bring</source>
+        <translation>Utiliser 2 masternodes différentes pour mélanger les fonds jusqu'a 10000 Bring</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 10000 BRG</source>
-        <translation>Utiliser 8 masternodes différentes pour mélanger les fonds jusqu'a 10000 BRG</translation>
+        <source>Use 8 separate masternodes to mix funds up to 10000 Bring</source>
+        <translation>Utiliser 8 masternodes différentes pour mélanger les fonds jusqu'a 10000 Bring</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
         <translation>Utiliser 16 masternodes différentes</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 BRG to anonymize 10000 BRG</source>
-        <translation>Cette option est la plus rapide, et coutera ~0.025 BRG pour anonymiser 10000 BRG</translation>
+        <source>This option is the quickest and will cost about ~0.025 Bringto anonymize 10000 Bring</source>
+        <translation>Cette option est la plus rapide, et coutera ~0.025 Bringpour anonymiser 10000 Bring</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 BRG to anonymize 10000 BRG</source>
-        <translation>Cette option est moyennement rapide, et coutera 0.05 BRG pour anonymiser 10000 BRG</translation>
+        <source>This option is moderately fast and will cost about 0.05 Bringto anonymize 10000 Bring</source>
+        <translation>Cette option est moyennement rapide, et coutera 0.05 Bringpour anonymiser 10000 Bring</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
         <translation>Il s'agit de l'option la plus lente est la plus sécurisé. Utiliser l'anonymat maximum coutera</translation>
     </message>
     <message>
-        <source>0.1 BRG per 10000 BRG you anonymize.</source>
-        <translation>0.1 BRG par 10000 BRG vous anonymisez.</translation>
+        <source>0.1 Bringper 10000 Bringyou anonymize.</source>
+        <translation>0.1 Bringpar 10000 Bringvous anonymisez.</translation>
     </message>
     </context>
 <context>
@@ -1103,6 +1103,73 @@ Veuillez vérifier l'adresse et réessayer.</translation>
     <message>
         <source>Version</source>
         <translation>Version</translation>
+    </message>
+    </context>
+<context>
+    <name>PrivacyDialog</name>
+    <message>
+        <source>0</source>
+        <translation>0</translation>
+    </message>
+    <message>
+        <source>Quantity:</source>
+        <translation>Quantité :</translation>
+    </message>
+    <message>
+        <source>Amount:</source>
+        <translation>Montant :</translation>
+    </message>
+    <message>
+        <source>Pay &amp;To:</source>
+        <translation>Payer à :</translation>
+    </message>
+    <message>
+        <source>Choose previously used address</source>
+        <translation>Choisir l'adresse précédemment utilisée</translation>
+    </message>
+    <message>
+        <source>Alt+A</source>
+        <translation>Alt+A</translation>
+    </message>
+    <message>
+        <source>Paste address from clipboard</source>
+        <translation>Copier l'adresse depuis le presse-papier</translation>
+    </message>
+    <message>
+        <source>Alt+P</source>
+        <translation>Alt+P</translation>
+    </message>
+    <message>
+        <source>Priority:</source>
+        <translation>Priorité :</translation>
+    </message>
+    <message>
+        <source>Fee:</source>
+        <translation>Commission :</translation>
+    </message>
+    <message>
+        <source>no</source>
+        <translation>non</translation>
+    </message>
+    <message>
+        <source>Insufficient funds!</source>
+        <translation>Fonds insuffisants!</translation>
+    </message>
+    <message>
+        <source>medium</source>
+        <translation>moyen</translation>
+    </message>
+    <message>
+        <source>Copy quantity</source>
+        <translation>Copier la quantité</translation>
+    </message>
+    <message>
+        <source>Copy amount</source>
+        <translation>Copier le montant</translation>
+    </message>
+    <message>
+        <source>Confirm send coins</source>
+        <translation>Confirmer l'envoi des pièces</translation>
     </message>
     </context>
 <context>
@@ -1334,10 +1401,6 @@ Veuillez vérifier l'adresse et réessayer.</translation>
         <translation>Envoyer des pièces</translation>
     </message>
     <message>
-        <source>Inputs...</source>
-        <translation>Entrés...</translation>
-    </message>
-    <message>
         <source>Insufficient funds!</source>
         <translation>Fonds insuffisants!</translation>
     </message>
@@ -1370,8 +1433,8 @@ Veuillez vérifier l'adresse et réessayer.</translation>
         <translation>Après commission</translation>
     </message>
     <message>
-        <source>0 BRG</source>
-        <translation>0 BRG</translation>
+        <source>0 Bring</source>
+        <translation>0 Bring</translation>
     </message>
     <message>
         <source>Transaction Fee:</source>
@@ -1461,8 +1524,8 @@ Veuillez vérifier l'adresse et réessayer.</translation>
         <translation>Payer à :</translation>
     </message>
     <message>
-        <source>The Bring address to send the payment to</source>
-        <translation>L'adresse Bring à laquelle envoyer le paiement</translation>
+        <source>The Bringaddress to send the payment to</source>
+        <translation>L'adresse Bringà laquelle envoyer le paiement</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1507,8 +1570,8 @@ Veuillez vérifier l'adresse et réessayer.</translation>
         <translation>Signer le message</translation>
     </message>
     <message>
-        <source>The Bring address to sign the message with</source>
-        <translation>L'adresse Bring avec laquelle signer le message</translation>
+        <source>The Bringaddress to sign the message with</source>
+        <translation>L'adresse Bringavec laquelle signer le message</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1535,16 +1598,16 @@ Veuillez vérifier l'adresse et réessayer.</translation>
         <translation>Copier la signature actuelle dans le presse-papier</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Bring address</source>
+        <source>Sign the message to prove you own this Bringaddress</source>
         <translation>Signer le message pour prouver que vous possédez cette adresse Bring</translation>
     </message>
     <message>
-        <source>The Bring address the message was signed with</source>
-        <translation>L'adresse Bring avec laquelle le message a été signé</translation>
+        <source>The Bringaddress the message was signed with</source>
+        <translation>L'adresse Bringavec laquelle le message a été signé</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Bring address</source>
-        <translation>Vérifiez le message afin de vous assurer qu'il a été signé avec l'adresse Bring renseignée</translation>
+        <source>Verify the message to ensure it was signed with the specified Bringaddress</source>
+        <translation>Vérifiez le message afin de vous assurer qu'il a été signé avec l'adresse Bringrenseignée</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -1735,6 +1798,13 @@ Veuillez vérifier l'adresse et réessayer.</translation>
     <message>
         <source>Export the data in the current tab to a file</source>
         <translation>Exporter l</translation>
+    </message>
+    </context>
+<context>
+    <name>ZPhrControlDialog</name>
+    <message>
+        <source>0</source>
+        <translation>0</translation>
     </message>
     </context>
 <context>

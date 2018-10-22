@@ -62,12 +62,12 @@
         <translation>Indirizzi di ricezione</translation>
     </message>
     <message>
-        <source>These are your Bring addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Questi sono gli indirizzi Bring per l'invio di pagamenti. Controlla sempre l'importo e l'indirizzo di ricezione prima di inviare valuta.</translation>
+        <source>These are your Bringaddresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Questi sono gli indirizzi Bringper l'invio di pagamenti. Controlla sempre l'importo e l'indirizzo di ricezione prima di inviare valuta.</translation>
     </message>
     <message>
-        <source>These are your Bring addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Questi sono gli indirizzi Bring per la ricezione di pagamenti. Si raccomanda di utilizzare un indirizzo diverso per ogni transazione.</translation>
+        <source>These are your Bringaddresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Questi sono gli indirizzi Bringper la ricezione di pagamenti. Si raccomanda di utilizzare un indirizzo diverso per ogni transazione.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -176,16 +176,16 @@
         <translation>Conferma cifratura portafoglio</translation>
     </message>
     <message>
-        <source>Bring will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your LPCs from being stolen by malware infecting your computer.</source>
-        <translation>Bring verrà ora chiuso per completare il processo di cifratura. Ricorda che crittografare il tuo portafoglio non protegge completamente i tuoi BRG dal furto da parte di software malevoli che potrebbero infettare il tuo computer.</translation>
+        <source>Bringwill close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Brings from being stolen by malware infecting your computer.</source>
+        <translation>Bringverrà ora chiuso per completare il processo di cifratura. Ricorda che crittografare il tuo portafoglio non protegge completamente i tuoi Bringdal furto da parte di software malevoli che potrebbero infettare il tuo computer.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Confermi di voler crittografare il portafoglio?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BRG&lt;/b&gt;!</source>
-        <translation>Attenzione: Se crittografi il portafoglio e poi perdi la parola d'ordine, &lt;b&gt;PERDERAI TUTTI I TUOI BRG&lt;7b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR Bring&lt;/b&gt;!</source>
+        <translation>Attenzione: Se crittografi il portafoglio e poi perdi la parola d'ordine, &lt;b&gt;PERDERAI TUTTI I TUOI Bring&lt;7b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -239,16 +239,16 @@
         <translation>&amp;BIP 38 Criptato</translation>
     </message>
     <message>
-        <source>Enter a Bring Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Inserisci un indirizzo Bring che desideri crittografare utilizzando BIP 38. Inserisci una passphrase nella casella centrale. Premi Cripta per calcolare la chiave privata crittografata.</translation>
+        <source>Enter a BringAddress that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Inserisci un indirizzo Bringche desideri crittografare utilizzando BIP 38. Inserisci una passphrase nella casella centrale. Premi Cripta per calcolare la chiave privata crittografata.</translation>
     </message>
     <message>
         <source>Address:</source>
         <translation>Indirizzo:</translation>
     </message>
     <message>
-        <source>The Bring address to sign the message with</source>
-        <translation>L'indirizzo Bring per firmare il messaggio con</translation>
+        <source>The Bringaddress to sign the message with</source>
+        <translation>L'indirizzo Bringper firmare il messaggio con</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -279,7 +279,7 @@
         <translation>Copiare la firma corrente negli Appunti di sistema</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Bring address</source>
+        <source>Sign the message to prove you own this Bringaddress</source>
         <translation>Firmare il messaggio per dimostrare di possedere questo indirizzo Bring</translation>
     </message>
     <message>
@@ -303,12 +303,12 @@
         <translation>Immettere la chiave privata codificata BIP 38. Inserire la passphrase nella casella centrale. Fare clic su Decripta Chiave per calcolare la chiave privata. Dopo che la chiave viene decrittata, cliccando su "Importa indirizzo" verrà aggiunta questa chiave privata al portafoglio.</translation>
     </message>
     <message>
-        <source>The Bring address the message was signed with</source>
-        <translation>L'indirizzo Bring con cui è stato firmato il messaggio</translation>
+        <source>The Bringaddress the message was signed with</source>
+        <translation>L'indirizzo Bringcon cui è stato firmato il messaggio</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Bring address</source>
-        <translation>Verificare il messaggio per assicurarsi che sia stato firmato con l'indirizzo Bring specificato </translation>
+        <source>Verify the message to ensure it was signed with the specified Bringaddress</source>
+        <translation>Verificare il messaggio per assicurarsi che sia stato firmato con l'indirizzo Bringspecificato </translation>
     </message>
     <message>
         <source>Decrypt &amp;Key</source>
@@ -590,11 +590,11 @@
         <translation>Schede degli strumenti</translation>
     </message>
     <message>
-        <source>Bring Core</source>
-        <translation>Bring Core</translation>
+        <source>Bring</source>
+        <translation>Bring</translation>
     </message>
     <message>
-        <source>Send coins to a Bring address</source>
+        <source>Send coins to a Bringaddress</source>
         <translation>Invia monete all' indirizzo Bring</translation>
     </message>
     <message>
@@ -610,24 +610,24 @@
         <translation>Esplora i masternodes</translation>
     </message>
     <message>
-        <source>&amp;About Bring Core</source>
-        <translation>&amp;Informazioni Bring Core</translation>
+        <source>&amp;About Bring</source>
+        <translation>&amp;Informazioni Bring</translation>
     </message>
     <message>
-        <source>Show information about Bring Core</source>
-        <translation>Visualizza informazioni su Bring Core</translation>
+        <source>Show information about Bring</source>
+        <translation>Visualizza informazioni su Bring</translation>
     </message>
     <message>
         <source>Modify configuration options for Bring</source>
         <translation>Modifica le opzioni di configurazione per Bring</translation>
     </message>
     <message>
-        <source>Sign messages with your Bring addresses to prove you own them</source>
-        <translation>Firma i messaggi con i tuoi indirizzi Bring per dimostrare di essere il proprietario </translation>
+        <source>Sign messages with your Bringaddresses to prove you own them</source>
+        <translation>Firma i messaggi con i tuoi indirizzi Bringper dimostrare di essere il proprietario </translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Bring addresses</source>
-        <translation>Verifica i messaggi per assicurarsi che siano stati firmati con indirizzi Bring specifici</translation>
+        <source>Verify messages to ensure they were signed with specified Bringaddresses</source>
+        <translation>Verifica i messaggi per assicurarsi che siano stati firmati con indirizzi Bringspecifici</translation>
     </message>
     <message>
         <source>Encrypt and decrypt private keys using a passphrase</source>
@@ -646,8 +646,8 @@
         <translation>Finestra Block Explorer</translation>
     </message>
     <message>
-        <source>Show the Bring Core help message to get a list with possible Bring command-line options</source>
-        <translation>Mostra il messaggio di aiuto Bring Core per ottenere un elenco con le possibili opzioni di riga di comando Bring</translation>
+        <source>Show the Bring help message to get a list with possible Bringcommand-line options</source>
+        <translation>Mostra il messaggio di aiuto Bring per ottenere un elenco con le possibili opzioni di riga di comando Bring</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -839,13 +839,8 @@ MultiSend: %1</translation>
         <translation>Prego selezionare "Modalità lista" per utilizzare questa funzione</translation>
     </message>
     <message>
-        <source>n/a</source>
-        <translation>n/a</translation>
-    </message>
-    <message>
         <source>yes</source>
-        <translation>si
-</translation>
+        <translation>si</translation>
     </message>
     <message>
         <source>no</source>
@@ -893,8 +888,8 @@ MultiSend: %1</translation>
         <translation>versione</translation>
     </message>
     <message>
-        <source>Bring Core</source>
-        <translation>Bring Core</translation>
+        <source>Bring</source>
+        <translation>Bring</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
@@ -920,8 +915,8 @@ MultiSend: %1</translation>
         <translation>Benvenuto</translation>
     </message>
     <message>
-        <source>Bring Core</source>
-        <translation>Bring Core</translation>
+        <source>Bring</source>
+        <translation>Bring</translation>
     </message>
     <message>
         <source>Error</source>
@@ -965,16 +960,59 @@ MultiSend: %1</translation>
     </context>
 <context>
     <name>OverviewPage</name>
-    <message>
-        <source>n/a</source>
-        <translation>n/a</translation>
-    </message>
     </context>
 <context>
     <name>PaymentServer</name>
     </context>
 <context>
     <name>PeerTableModel</name>
+    </context>
+<context>
+    <name>PrivacyDialog</name>
+    <message>
+        <source>Quantity:</source>
+        <translation>Quantità:</translation>
+    </message>
+    <message>
+        <source>Amount:</source>
+        <translation>Totale:</translation>
+    </message>
+    <message>
+        <source>Choose previously used address</source>
+        <translation>Scegli l'indirizzo utilizzato in precedenza</translation>
+    </message>
+    <message>
+        <source>Alt+A</source>
+        <translation>Alt+A</translation>
+    </message>
+    <message>
+        <source>Paste address from clipboard</source>
+        <translation>Incolla l'indirizzo dagli appunti</translation>
+    </message>
+    <message>
+        <source>Alt+P</source>
+        <translation>Alt+P</translation>
+    </message>
+    <message>
+        <source>Priority:</source>
+        <translation>Priorità:</translation>
+    </message>
+    <message>
+        <source>Fee:</source>
+        <translation>Tassa:</translation>
+    </message>
+    <message>
+        <source>no</source>
+        <translation>no</translation>
+    </message>
+    <message>
+        <source>Change:</source>
+        <translation>Differenza:</translation>
+    </message>
+    <message>
+        <source>Copy amount</source>
+        <translation>Copia ammontare</translation>
+    </message>
     </context>
 <context>
     <name>QObject</name>
@@ -1106,8 +1144,8 @@ MultiSend: %1</translation>
 <context>
     <name>SignVerifyMessageDialog</name>
     <message>
-        <source>The Bring address to sign the message with</source>
-        <translation>L'indirizzo Bring per firmare il messaggio con</translation>
+        <source>The Bringaddress to sign the message with</source>
+        <translation>L'indirizzo Bringper firmare il messaggio con</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1130,16 +1168,16 @@ MultiSend: %1</translation>
         <translation>Copiare la firma corrente negli Appunti di sistema</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Bring address</source>
+        <source>Sign the message to prove you own this Bringaddress</source>
         <translation>Firmare il messaggio per dimostrare di possedere questo indirizzo Bring</translation>
     </message>
     <message>
-        <source>The Bring address the message was signed with</source>
-        <translation>L'indirizzo Bring con cui è stato firmato il messaggio</translation>
+        <source>The Bringaddress the message was signed with</source>
+        <translation>L'indirizzo Bringcon cui è stato firmato il messaggio</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Bring address</source>
-        <translation>Verificare il messaggio per assicurarsi che sia stato firmato con l'indirizzo Bring specificato </translation>
+        <source>Verify the message to ensure it was signed with the specified Bringaddress</source>
+        <translation>Verificare il messaggio per assicurarsi che sia stato firmato con l'indirizzo Bringspecificato </translation>
     </message>
     <message>
         <source>Reset all sign message fields</source>
@@ -1177,8 +1215,8 @@ MultiSend: %1</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bring Core</source>
-        <translation>Bring Core</translation>
+        <source>Bring</source>
+        <translation>Bring</translation>
     </message>
     </context>
 <context>
@@ -1271,6 +1309,9 @@ MultiSend: %1</translation>
         <source>Export the data in the current tab to a file</source>
         <translation>Esporta i dati della scheda corrente in un file</translation>
     </message>
+    </context>
+<context>
+    <name>ZPhrControlDialog</name>
     </context>
 <context>
     <name>bring-core</name>

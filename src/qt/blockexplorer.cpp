@@ -3,6 +3,7 @@
 #include "chainparams.h"
 #include "clientmodel.h"
 #include "core_io.h"
+#include "guiutil.h"
 #include "main.h"
 #include "net.h"
 #include "txdb.h"
@@ -390,10 +391,8 @@ std::string AddressToString(const CBitcoinAddress& Address)
     /*
     CScript AddressScript;
     AddressScript.SetDestination(Address.Get());
-
     CAmount Sum = 0;
     bool fAddrIndex = false;
-
     if (!fAddrIndex)
         return ""; // it will take too long to find transactions by address
     else
@@ -432,6 +431,8 @@ BlockExplorer::BlockExplorer(QWidget* parent) : QMainWindow(parent),
 {
     ui->setupUi(this);
 
+    this->setStyleSheet(GUIUtil::loadStyleSheet());
+    
     connect(ui->pushSearch, SIGNAL(released()), this, SLOT(onSearch()));
     connect(ui->content, SIGNAL(linkActivated(const QString&)), this, SLOT(goTo(const QString&)));
     connect(ui->back, SIGNAL(released()), this, SLOT(back()));
@@ -471,7 +472,7 @@ void BlockExplorer::showEvent(QShowEvent*)
 
         if (!GetBoolArg("-txindex", false)) {
             QString Warning = tr("Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (bring.conf).");
-            QMessageBox::warning(this, "Bring Core Blockchain Explorer", Warning, QMessageBox::Ok);
+            QMessageBox::warning(this, "Bring Blockchain Explorer", Warning, QMessageBox::Ok);
         }
     }
 }
@@ -547,9 +548,10 @@ void BlockExplorer::setBlock(CBlockIndex* pBlock)
 
 void BlockExplorer::setContent(const std::string& Content)
 {
-    QString CSS = "body {font-size:12px; background-color: #C8E5E2; color:#444;}\n a, span { font-family: monospace; }\n span.addr {color:#13BE5D; font-weight: bold;}\n table tr td {padding: 3px; border: none; background-color: #A1CDC8;}\n td.d0 {font-weight: bold; color:#f8f8f8;}\n h2, h3 { white-space:nowrap; color:#1B7884;}\n a { text-decoration:none; }\n a.nav {color:green;}\n";
+    QString CSS = "body {font-size:12px; color:#f8f6f6; bgcolor:#F38F10;}\n a, span { font-family: monospace; }\n span.addr {color:#F38F10; font-weight: bold;}\n table tr td {padding: 3px; border: 1px solid black; background-color: #F38F10;}\n td.d0 {font-weight: bold; color:#f8f6f6;}\n h2, h3 { white-space:nowrap; color:#F38F10;}\n a { color:#FFFC00; text-decoration:none; }\n a.nav {color:#F38F10;}\n";
     QString FullContent = "<html><head><style type=\"text/css\">" + CSS + "</style></head>" + "<body>" + Content.c_str() + "</body></html>";
     // printf(FullContent.toUtf8());
+
     ui->content->setText(FullContent);
 }
 

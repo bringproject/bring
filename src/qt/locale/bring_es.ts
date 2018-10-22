@@ -3,11 +3,11 @@
     <name>AddressBookPage</name>
     <message>
         <source>Right-click to edit address or label</source>
-        <translation>Click derecho para editar la dirección o etiqueta</translation>
+        <translation>Click derecho para editar dirección o etiqueta</translation>
     </message>
     <message>
         <source>Create a new address</source>
-        <translation>Crear una nueva dirección</translation>
+        <translation>Crear nueva dirección</translation>
     </message>
     <message>
         <source>&amp;New</source>
@@ -55,19 +55,19 @@
     </message>
     <message>
         <source>Sending addresses</source>
-        <translation>Enviando direcciones</translation>
+        <translation>Direcciones de envío</translation>
     </message>
     <message>
         <source>Receiving addresses</source>
-        <translation>Recibiendo direcciones</translation>
+        <translation>Direcciones de recepción</translation>
     </message>
     <message>
-        <source>These are your Bring addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Estas son sus direcciones Bring para realizar pagos. Siempre verifique la cantidad y la dirección de recepción antes de enviar monedas.</translation>
+        <source>These are your Bringaddresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Estas son sus direcciones Bringpara realizar pagos. Verifique siempre la cantidad y la dirección de recepción antes de enviar monedas.</translation>
     </message>
     <message>
-        <source>These are your Bring addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Estas son sus direcciones Bring para recibir pagos. Es recomendable usar una nueva dirección de recepción para cada transacción.</translation>
+        <source>These are your Bringaddresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Estas son sus direcciones Bringpara recibir pagos. Es recomendable usar una nueva dirección de recepción para cada transacción.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -75,7 +75,7 @@
     </message>
     <message>
         <source>Copy &amp;Label</source>
-        <translation>Copiar y Etiquetar</translation>
+        <translation>Copiar etiqueta</translation>
     </message>
     <message>
         <source>&amp;Edit</source>
@@ -95,7 +95,7 @@
     </message>
     <message>
         <source>There was an error trying to save the address list to %1. Please try again.</source>
-        <translation>Hubo un error intentando guardar la lista de direcciones %1. Por favor intente nuevamente</translation>
+        <translation>Ha habido un error intentando guardar la lista de direcciones %1. Por favor inténtelo de nuevo.</translation>
     </message>
 </context>
 <context>
@@ -137,7 +137,7 @@
     </message>
     <message>
         <source>For anonymization and staking only</source>
-        <translation>Para anonimización y staking solamente</translation>
+        <translation>Desbloquear solo para anonimización y staking</translation>
     </message>
     <message>
         <source>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;ten or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
@@ -145,23 +145,23 @@
     </message>
     <message>
         <source>Encrypt wallet</source>
-        <translation>Encriptar la Wallet</translation>
+        <translation>Cifrar monedero</translation>
     </message>
     <message>
         <source>This operation needs your wallet passphrase to unlock the wallet.</source>
-        <translation>Esta operación requiere su contraseña para desbloquear la Wallet</translation>
+        <translation>Esta operación requiere su contraseña para desbloquear el monedero</translation>
     </message>
     <message>
         <source>Unlock wallet</source>
-        <translation>Desbloquear wallet</translation>
+        <translation>Desbloquear monedero</translation>
     </message>
     <message>
         <source>This operation needs your wallet passphrase to decrypt the wallet.</source>
-        <translation>Esta operación requiere su contraseña para desbloquear la Wallet</translation>
+        <translation>Esta operación requiere su contraseña para descifrar el monedero</translation>
     </message>
     <message>
         <source>Decrypt wallet</source>
-        <translation>Desencriptar Wallet</translation>
+        <translation>Descifrar monedero</translation>
     </message>
     <message>
         <source>Change passphrase</source>
@@ -169,55 +169,55 @@
     </message>
     <message>
         <source>Enter the old and new passphrase to the wallet.</source>
-        <translation>Ingrese la antigua y nueva contraseña para la Wallet</translation>
+        <translation>Ingrese la antigua y la nueva contraseña para el monedero</translation>
     </message>
     <message>
         <source>Confirm wallet encryption</source>
-        <translation>Confirmar la encriptación de la Wallet</translation>
+        <translation>Confirme el cifrado del monedero</translation>
     </message>
     <message>
-        <source>Bring will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your LPCs from being stolen by malware infecting your computer.</source>
-        <translation>Bring se cerrará ahora para finalizar el proceso de encriptación. Recuerde que encriptar su Wallet no previene completamente que tus LPCs sean robados mediante malware infectando su ordenador.</translation>
+        <source>Bringwill close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Brings from being stolen by malware infecting your computer.</source>
+        <translation>Bringse cerrará para finalizar el proceso de cifrado. Recuerde que cifrar su monedero no garantiza que sus Brings no sean robados mediante malware de su ordenador.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
-        <translation>¿Esta seguro de que desea encriptar tu Wallet?</translation>
+        <translation>¿Está seguro de que desea cifrar su monedero?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BRG&lt;/b&gt;!</source>
-        <translation>Atención: Si encripta su Wallet y pierde su contraseña, perderá &lt;b&gt; TODOS SUS BRG&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR Bring&lt;/b&gt;!</source>
+        <translation>Atención: Si cifra su monedero y pierde su contraseña, perderá &lt;b&gt; TODOS SUS Bring&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
-        <translation>Wallet encriptada</translation>
+        <translation>Monedero cifrado</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
-        <translation>IMPORTANTE: Cualquier backup anterior que haya realizado de su Wallet debe ser reemplazado por el nuevo archivo de Wallet encriptado. Por razones de seguridad, las copias anteriores de seguridad de la Wallet sin encriptar pasaran a ser obsoletas tan pronto empiece a utilizar la nueva Wallet encriptada.</translation>
+        <translation>IMPORTANTE: Cualquier copia de seguridad anterior que haya realizado de su monedero debe ser reemplazada por la nueva copia de seguridad cifrada. Por razones de seguridad, las copias de seguridad anteriores del monedero sin cifrar pasarán a ser obsoletas tan pronto empiece a utilizar el nuevo monedero cifrado.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
-        <translation>La encriptación de la Wallet ha fallado</translation>
+        <translation>El cifrado del monedero ha fallado</translation>
     </message>
     <message>
         <source>Wallet encryption failed due to an internal error. Your wallet was not encrypted.</source>
-        <translation>La encriptación de la wallet ha fallado debido a un error interno. Tu wallet no ha sido encriptada.</translation>
+        <translation>El cifrado del monedero ha fallado debido a un error interno. Su monedero no ha sido cifrado.</translation>
     </message>
     <message>
         <source>The supplied passphrases do not match.</source>
-        <translation>Las contraseñas suministradas no coinciden.</translation>
+        <translation>Las contraseñas introducidas no coinciden.</translation>
     </message>
     <message>
         <source>Wallet unlock failed</source>
-        <translation>Fallo en el desbloqueo de la wallet</translation>
+        <translation>Desbloqueo del monedero fallido</translation>
     </message>
     <message>
         <source>The passphrase entered for the wallet decryption was incorrect.</source>
-        <translation>La contraseña introducida para la desencriptación de la wallet es incorrecta.</translation>
+        <translation>La contraseña introducida para el descifrado del monedero es incorrecta.</translation>
     </message>
     <message>
         <source>Wallet decryption failed</source>
-        <translation>Fallo en la desencriptación de la wallet</translation>
+        <translation>Descifrado del monedero fallido</translation>
     </message>
     <message>
         <source>Wallet passphrase was successfully changed.</source>
@@ -225,7 +225,7 @@
     </message>
     <message>
         <source>Warning: The Caps Lock key is on!</source>
-        <translation>Atención: La tecla Mayúsculas está encendida!</translation>
+        <translation>Aviso: La tecla Mayúsculas está encendida!</translation>
     </message>
 </context>
 <context>
@@ -236,23 +236,23 @@
     </message>
     <message>
         <source>&amp;BIP 38 Encrypt</source>
-        <translation>&amp;Encriptación BIP 38</translation>
+        <translation>&amp;Cifrado BIP 38</translation>
     </message>
     <message>
-        <source>Enter a Bring Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Introduzca la dirección Bring que querría encriptar usando BIP 38. Introduzca una contraseña en la caja central. Clickee en encriptar para computar la clave privada encriptada.</translation>
+        <source>Enter a BringAddress that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Introduzca la dirección Bringque querría cifrar usando BIP 38. Introduzca una contraseña en el campo central. Haga clic en cifrar para generar la clave privada cifrada.</translation>
     </message>
     <message>
         <source>Address:</source>
         <translation>Dirección:</translation>
     </message>
     <message>
-        <source>The Bring address to sign the message with</source>
-        <translation>La dirección Bring con la que firmar el mensaje</translation>
+        <source>The Bringaddress to sign the message with</source>
+        <translation>La dirección Bringcon la que desee firmar el mensaje</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
-        <translation>Escoge una dirección usada previamente</translation>
+        <translation>Escoja una dirección usada previamente</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -260,7 +260,7 @@
     </message>
     <message>
         <source>Paste address from clipboard</source>
-        <translation>Pegar dirección desde el clipboard</translation>
+        <translation>Pegar dirección desde el portapapeles</translation>
     </message>
     <message>
         <source>Alt+P</source>
@@ -272,23 +272,23 @@
     </message>
     <message>
         <source>Encrypted Key:</source>
-        <translation>Clave Encriptada:</translation>
+        <translation>Clave cifrada:</translation>
     </message>
     <message>
         <source>Copy the current signature to the system clipboard</source>
-        <translation>Copiar la firma actual al clipboard del sistema</translation>
+        <translation>Copiar la firma actual al portapapeles del sistema</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Bring address</source>
-        <translation>Firmar el mensaje para demostrar que eres el propietario de esta dirección Bring</translation>
+        <source>Sign the message to prove you own this Bringaddress</source>
+        <translation>Firme el mensaje para demostrar que eres el propietario de esta dirección Bring</translation>
     </message>
     <message>
         <source>Encrypt &amp;Key</source>
-        <translation>Encriptar &amp; Clave</translation>
+        <translation>Cifrar &amp;Clave</translation>
     </message>
     <message>
         <source>Reset all sign message fields</source>
-        <translation>Resetear todos los campos de firma de mensaje</translation>
+        <translation>Limpiar todos los campos de firma de mensaje</translation>
     </message>
     <message>
         <source>Clear &amp;All</source>
@@ -296,39 +296,39 @@
     </message>
     <message>
         <source>&amp;BIP 38 Decrypt</source>
-        <translation>&amp;Desencriptación BIP 38</translation>
+        <translation>&amp;Descifrado BIP 38</translation>
     </message>
     <message>
         <source>Enter the BIP 38 encrypted private key. Enter the passphrase in the middle box. Click Decrypt Key to compute the private key. After the key is decrypted, clicking 'Import Address' will add this private key to the wallet.</source>
-        <translation>Introducir la clave encriptada privada BIP 38. Introducir la contraseña en la caja central. Pulsar en Desencriptar Clave para computar la clave privada. Después de que la clave sea desencriptada, pulsando en 'Importar Dirección' añadirá esta clave privada a la wallet.</translation>
+        <translation>Introduzca la clave cifrada privada BIP 38. Introduzca la contraseña en el campo central. Haga clic en descifrar clave para generar la clave privada. Después de que la clave sea descifrada, pulsando en 'Importar dirección' añadirá esta clave privada al monedero.</translation>
     </message>
     <message>
-        <source>The Bring address the message was signed with</source>
-        <translation>La dirección Bring con la que el mensaje fue firmado</translation>
+        <source>The Bringaddress the message was signed with</source>
+        <translation>La dirección Bringcon la que se firmó el mensaje</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Bring address</source>
-        <translation>Verificar el mensaje para asegurarse que fue firmado con la dirección Bring especificada</translation>
+        <source>Verify the message to ensure it was signed with the specified Bringaddress</source>
+        <translation>Verifica el mensaje para asegurar que fue firmado con la dirección Bringespecificada</translation>
     </message>
     <message>
         <source>Decrypt &amp;Key</source>
-        <translation>Desencriptar &amp; Clave</translation>
+        <translation>Descifrar &amp;Clave</translation>
     </message>
     <message>
         <source>Reset all verify message fields</source>
-        <translation>Resetear todos los campos de verificación de mensaje</translation>
+        <translation>Limpiar todos los campos de verificación de mensaje</translation>
     </message>
     <message>
         <source>Decrypted Key:</source>
-        <translation>Clave desencriptada</translation>
+        <translation>Clave descifrada:</translation>
     </message>
     <message>
         <source>Import Address</source>
-        <translation>Importar Dirección</translation>
+        <translation>Importar dirección</translation>
     </message>
     <message>
         <source>Click "Decrypt Key" to compute key</source>
-        <translation>Clickar "Desencriptar Clave" para computar la clave</translation>
+        <translation>Haga clic en "Descifrar clave" para generar la clave</translation>
     </message>
     <message>
         <source>The entered passphrase is invalid. </source>
@@ -344,15 +344,15 @@
     </message>
     <message>
         <source>Please check the address and try again.</source>
-        <translation>Por favor comprobar la dirección y probar de nuevo.</translation>
+        <translation>Por favor compruebe la dirección e inténtelo de nuevo.</translation>
     </message>
     <message>
         <source>The entered address does not refer to a key.</source>
-        <translation>La dirección introducido no se refiere a ninguna clave.</translation>
+        <translation>La dirección introducida no se refiere a ninguna clave.</translation>
     </message>
     <message>
         <source>Wallet unlock was cancelled.</source>
-        <translation>El desbloqueo de la wallet fue cancelado.</translation>
+        <translation>El desbloqueo del monedero fue cancelado.</translation>
     </message>
     <message>
         <source>Private key for the entered address is not available.</source>
@@ -360,23 +360,23 @@
     </message>
     <message>
         <source>Failed to decrypt.</source>
-        <translation>Fallo en la desencriptación</translation>
+        <translation>Falló el descifrado</translation>
     </message>
     <message>
         <source>Please check the key and passphrase and try again.</source>
-        <translation>Por favor comprobar la clave y la contraseña y probar de nuevo.</translation>
+        <translation>Por favor compruebe la clave y la contraseña e inténtelo de nuevo.</translation>
     </message>
     <message>
         <source>Data Not Valid.</source>
-        <translation>Datos No Válidos.</translation>
+        <translation>Datos no válidos.</translation>
     </message>
     <message>
         <source>Please try again.</source>
-        <translation>Por favor intentar de nuevo.</translation>
+        <translation>Por favor inténtelo de nuevo.</translation>
     </message>
     <message>
         <source>Please wait while key is imported</source>
-        <translation>Por favor esperar mientras se importa la clave</translation>
+        <translation>Por favor espere mientras la clave es importada</translation>
     </message>
     <message>
         <source>Key Already Held By Wallet</source>
@@ -483,7 +483,7 @@
     </message>
     <message>
         <source>Unlock wallet</source>
-        <translation>Desbloquear wallet</translation>
+        <translation>Desbloquear monedero</translation>
     </message>
     <message>
         <source>&amp;Lock Wallet</source>
@@ -575,7 +575,7 @@
     </message>
     <message numerus="yes">
         <source>Processed %n blocks of transaction history.</source>
-        <translation><numerusform>Procesados %n bloque del histórico de transacciones.</numerusform><numerusform>Procesados %n bloques del histórico de transacciones.</numerusform></translation>
+        <translation><numerusform>Procesado %n bloque del historial de transacciones.</numerusform><numerusform>Procesados %n bloques del historial de transacciones.</numerusform></translation>
     </message>
     <message>
         <source>Synchronizing additional data: %p%</source>
@@ -602,16 +602,24 @@
         <translation>Herramienta de pestañas</translation>
     </message>
     <message>
-        <source>Bring Core</source>
+        <source>Bring</source>
         <translation>Núcleo Bring</translation>
     </message>
     <message>
-        <source>Send coins to a Bring address</source>
+        <source>Send coins to a Bringaddress</source>
         <translation>Enviar coins a una dirección Bring</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and bring: URIs)</source>
         <translation>Solicitud de pago (genera un código QR y URIs)</translation>
+    </message>
+    <message>
+        <source>&amp;Privacy</source>
+        <translation>&amp;Privacidad</translation>
+    </message>
+    <message>
+        <source>Privacy Action for zBring and Obfuscation</source>
+        <translation>Privacidad con zBring y Ofuscación</translation>
     </message>
     <message>
         <source>&amp;Masternodes</source>
@@ -622,11 +630,11 @@
         <translation>Explorar nodos maestros</translation>
     </message>
     <message>
-        <source>&amp;About Bring Core</source>
+        <source>&amp;About Bring</source>
         <translation>&amp;Sobre el núcleo de Bring</translation>
     </message>
     <message>
-        <source>Show information about Bring Core</source>
+        <source>Show information about Bring</source>
         <translation>Mostrar información sobre el núcleo de Bring</translation>
     </message>
     <message>
@@ -634,12 +642,12 @@
         <translation>Modificar las opciones de configuración de Bring</translation>
     </message>
     <message>
-        <source>Sign messages with your Bring addresses to prove you own them</source>
-        <translation>Firmar mensajes con sus direcciones Bring para demostrar que le pertenecen</translation>
+        <source>Sign messages with your Bringaddresses to prove you own them</source>
+        <translation>Firmar mensajes con sus direcciones Bringpara demostrar que le pertenecen</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Bring addresses</source>
-        <translation>Verificar mensajes para asegurar que están firmados con la dirección Bring especificada</translation>
+        <source>Verify messages to ensure they were signed with specified Bringaddresses</source>
+        <translation>Verificar mensajes para asegurar que están firmados con la dirección Bringespecificada</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -682,15 +690,15 @@
         <translation>Ventana del explorador de bloques</translation>
     </message>
     <message>
-        <source>Show the Bring Core help message to get a list with possible Bring command-line options</source>
-        <translation>Mostrar la ayuda de Bring Core para obtener una lista de posibles opciones en línea de comandos</translation>
+        <source>Show the Bring help message to get a list with possible Bringcommand-line options</source>
+        <translation>Mostrar la ayuda de Bring para obtener una lista de posibles opciones en línea de comandos</translation>
     </message>
     <message>
-        <source>Bring Core client</source>
-        <translation>Cliente Bring Core</translation>
+        <source>Bring client</source>
+        <translation>Cliente Bring</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Bring network</source>
+        <source>%n active connection(s) to Bringnetwork</source>
         <translation><numerusform>%n conexión(es) activa a la red Bring</numerusform><numerusform>%n conexion(es) activas a la red Bring</numerusform></translation>
     </message>
     <message>
@@ -825,6 +833,14 @@ MultiEnvío: %1</translation>
         <translation>Explorador de Cadena de Bloques</translation>
     </message>
     <message>
+        <source>Back</source>
+        <translation>Atrás</translation>
+    </message>
+    <message>
+        <source>Forward</source>
+        <translation>Adelante</translation>
+    </message>
+    <message>
         <source>Address / Block / Transaction</source>
         <translation>Dirección / Bloque / Transacción</translation>
     </message>
@@ -844,8 +860,8 @@ MultiEnvío: %1</translation>
 <context>
     <name>ClientModel</name>
     <message>
-        <source>Total: %1 (OBF compatible: %2 / Enabled: %3)</source>
-        <translation>Total: %1 (Ofuscación compatible: %2 / Activado: %3)</translation>
+        <source>Total: %1 (IPv4: %2 / IPv6: %3 / Tor: %4 / Unknown: %5)</source>
+        <translation>Total: %1 (IPv4: %2 / IPv6: %3 / Tor: %4 / Desconocido: %5)</translation>
     </message>
     <message>
         <source>Network Alert</source>
@@ -923,10 +939,6 @@ MultiEnvío: %1</translation>
         <translation>Recibido con dirección</translation>
     </message>
     <message>
-        <source>DS Rounds</source>
-        <translation>Rondas DS:</translation>
-    </message>
-    <message>
         <source>Date</source>
         <translation>Fecha</translation>
     </message>
@@ -999,10 +1011,6 @@ MultiEnvío: %1</translation>
         <translation>Por favor cambie a "Modo de Lista" para utilizar esta función.</translation>
     </message>
     <message>
-        <source>Non-anonymized input selected. &lt;b&gt;Obfuscation will be disabled.&lt;/b&gt;&lt;br&gt;&lt;br&gt;If you still want to use Obfuscation, please deselect all non-nonymized inputs first and then check Obfuscation checkbox again.</source>
-        <translation>Has seleccionado una entrada que no ha sido anonimizada. &lt;b&gt;La Ofuscación será deshabilitada.&lt;/b&gt;&lt;br&gt;&lt;br&gt;Si todavía quiere utilizar la Ofuscación, por favor primero deseleccione todas las entrada no anonimizadas y entonces marque la casilla de Ofuscación de nuevo.</translation>
-    </message>
-    <message>
         <source>highest</source>
         <translation>la más alta</translation>
     </message>
@@ -1021,10 +1029,6 @@ MultiEnvío: %1</translation>
     <message>
         <source>Can vary +/- %1 duff(s) per input.</source>
         <translation>Puede variar +/- %1 duff(s) por entrada.</translation>
-    </message>
-    <message>
-        <source>n/a</source>
-        <translation>n/a</translation>
     </message>
     <message>
         <source>medium</source>
@@ -1138,8 +1142,8 @@ MultiEnvío: %1</translation>
         <translation>Editar dirección de envío</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Bring address.</source>
-        <translation>La dirección introducida "%1" no es una dirección Bring válida.</translation>
+        <source>The entered address "%1" is not a valid Bringaddress.</source>
+        <translation>La dirección introducida "%1" no es una dirección Bringválida.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1184,7 +1188,7 @@ MultiEnvío: %1</translation>
         <translation>versión</translation>
     </message>
     <message>
-        <source>Bring Core</source>
+        <source>Bring</source>
         <translation>Núcleo Bring</translation>
     </message>
     <message>
@@ -1192,8 +1196,8 @@ MultiEnvío: %1</translation>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Bring Core</source>
-        <translation>Acerca de Bring Core</translation>
+        <source>About Bring</source>
+        <translation>Acerca de Bring</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1239,16 +1243,16 @@ MultiEnvío: %1</translation>
         <translation>Bienvenido/a</translation>
     </message>
     <message>
-        <source>Welcome to Bring Core.</source>
-        <translation>Bienvenido/a a Bring Core.</translation>
+        <source>Welcome to Bring.</source>
+        <translation>Bienvenido/a a Bring.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Bring Core will store its data.</source>
-        <translation>Al ser la primera vez que se inicia el programa, usted puede elegir dónde guardará Bring Core sus datos.</translation>
+        <source>As this is the first time the program is launched, you can choose where Bring will store its data.</source>
+        <translation>Al ser la primera vez que se inicia el programa, usted puede elegir dónde guardará Bring sus datos.</translation>
     </message>
     <message>
-        <source>Bring Core will download and store a copy of the Bring block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Bring Core descargará y guardará una copia de la cadena de bloques Bring. Por lo menos %1GB de datos serán guardados en esta carpeta, y crecerá con el tiempo. El monedero también se guardará en esta carpeta.</translation>
+        <source>Bring will download and store a copy of the Bringblock chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Bring descargará y guardará una copia de la cadena de bloques Bring. Por lo menos %1GB de datos serán guardados en esta carpeta, y crecerá con el tiempo. El monedero también se guardará en esta carpeta.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1259,7 +1263,7 @@ MultiEnvío: %1</translation>
         <translation>Usar una carpeta de datos personalizada:</translation>
     </message>
     <message>
-        <source>Bring Core</source>
+        <source>Bring</source>
         <translation>Núcleo Bring</translation>
     </message>
     <message>
@@ -1401,12 +1405,12 @@ MultiEnvío: %1</translation>
         <translation>Introduzca Dirección a la cual Enviar</translation>
     </message>
     <message>
-        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other Bring addresses after it matures.
-To Add: enter percentage to give and Bring address to add to the MultiSend vector.
+        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other Bringaddresses after it matures.
+To Add: enter percentage to give and Bringaddress to add to the MultiSend vector.
 To Delete: Enter address to delete and press delete.
 MultiSend will not be activated unless you have clicked Activate</source>
-        <translation>MultiEnvío le permite enviar automáticamente hasta el 100% de recompensa de participación o de nodo maestro a una lista de otras direcciones Bring después de su maduración.
-Para Añadir: introduzca porcentaje a enviar y las direcciones Bring a añadir al vector MultiEnvío.
+        <translation>MultiEnvío le permite enviar automáticamente hasta el 100% de recompensa de participación o de nodo maestro a una lista de otras direcciones Bringdespués de su maduración.
+Para Añadir: introduzca porcentaje a enviar y las direcciones Bringa añadir al vector MultiEnvío.
 Para Eliminar: Introduzca la dirección a eliminar y pulse la tecla delete.
 MultiEnvío no se activará a menos que haga usted click en Activar</translation>
     </message>
@@ -1544,32 +1548,32 @@ Por favor compruebe la dirección e inténtelo de nuevo.</translation>
         <translation>Por favor selecciones un nivel de privacidad.</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 10000 BRG</source>
-        <translation>Use 2 nodos maestros diferentes para mezclar los fondos hasta los 10000 BRG</translation>
+        <source>Use 2 separate masternodes to mix funds up to 10000 Bring</source>
+        <translation>Use 2 nodos maestros diferentes para mezclar los fondos hasta los 10000 Bring</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 10000 BRG</source>
-        <translation>Use 8 nodos maestros diferentes para mezclar fondos hasta los 10000 BRG</translation>
+        <source>Use 8 separate masternodes to mix funds up to 10000 Bring</source>
+        <translation>Use 8 nodos maestros diferentes para mezclar fondos hasta los 10000 Bring</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
         <translation>Use 16 nodos maestros diferentes</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 BRG to anonymize 10000 BRG</source>
-        <translation>Esta opción es la más rápida y costará alrededor de ~0.025 BRG para anonimizar 10000 BRG</translation>
+        <source>This option is the quickest and will cost about ~0.025 Bringto anonymize 10000 Bring</source>
+        <translation>Esta opción es la más rápida y costará alrededor de ~0.025 Bringpara anonimizar 10000 Bring</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 BRG to anonymize 10000 BRG</source>
-        <translation>Esta opción es moderadamente rápida y costará cerca de 0.05 BRG para anonimizar 10000 BRG.</translation>
+        <source>This option is moderately fast and will cost about 0.05 Bringto anonymize 10000 Bring</source>
+        <translation>Esta opción es moderadamente rápida y costará cerca de 0.05 Bringpara anonimizar 10000 Bring.</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
         <translation>Esta es la opción más lenta pero más segura. Usar el máximo anonimato costará</translation>
     </message>
     <message>
-        <source>0.1 BRG per 10000 BRG you anonymize.</source>
-        <translation>0.1 BRG por 10000 BRG que anonimizas.</translation>
+        <source>0.1 Bringper 10000 Bringyou anonymize.</source>
+        <translation>0.1 Bringpor 10000 Bringque anonimizas.</translation>
     </message>
     <message>
         <source>Obfuscation Configuration</source>
@@ -1646,8 +1650,8 @@ Por favor compruebe la dirección e inténtelo de nuevo.</translation>
         <translation>Si deselecciona el gasto de cambio no confirmado, las entradas de una transacción&lt;br/&gt;no podrán ser usadas hasta que esa transacción tenga al menos una confirmación.&lt;br/&gt;Esto también afecta a cómo se calcula su balance actual.</translation>
     </message>
     <message>
-        <source>Automatically open the Bring client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Abrir automáticamente el puerto del cliente Bring en el enrutador. Ésto sólo funciona si su enrutador soporta UPnP y esta función está activada.</translation>
+        <source>Automatically open the Bringclient port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Abrir automáticamente el puerto del cliente Bringen el enrutador. Ésto sólo funciona si su enrutador soporta UPnP y esta función está activada.</translation>
     </message>
     <message>
         <source>Accept connections from outside</source>
@@ -1666,28 +1670,12 @@ Por favor compruebe la dirección e inténtelo de nuevo.</translation>
         <translation>Experto</translation>
     </message>
     <message>
-        <source>Automatically start Bring after logging in to the system.</source>
-        <translation>Arrancar Bring automáticamente después de identificarse en Windows.</translation>
+        <source>Automatically start Bringafter logging in to the system.</source>
+        <translation>Arrancar Bringautomáticamente después de identificarse en Windows.</translation>
     </message>
     <message>
-        <source>&amp;Start Bring on system login</source>
-        <translation>&amp;Arrancar Bring al inicio del sistema</translation>
-    </message>
-    <message>
-        <source>This setting determines the amount of individual masternodes that an input will be anonymized through.&lt;br/&gt;More rounds of anonymization gives a higher degree of privacy, but also costs more in fees.</source>
-        <translation>Esta configuración determina la cantidad máxima de nodos maestros individuales a través de los cuales una entrada se anonimizará.&lt;br/&gt;Más rondas de anonimización ofrecen un mayor grado de privacidad, pero también cuesta más en comisiones.</translation>
-    </message>
-    <message>
-        <source>Obfuscation rounds to use</source>
-        <translation>Rondas de Ofuscación a utilizar</translation>
-    </message>
-    <message>
-        <source>This amount acts as a threshold to turn off Obfuscation once it's reached.</source>
-        <translation>Esta cantidad actúa como un techo para desactivar la Ofuscación una vez alcanzado.</translation>
-    </message>
-    <message>
-        <source>Amount of Bring to keep anonymized</source>
-        <translation>Cantidad de Bring a mantener anonimizados</translation>
+        <source>&amp;Start Bringon system login</source>
+        <translation>&amp;Arrancar Bringal inicio del sistema</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1728,8 +1716,24 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
         <translation>Mapear un puerto utilizando &amp;UPnP</translation>
     </message>
     <message>
-        <source>Connect to the Bring network through a SOCKS5 proxy.</source>
-        <translation>Conectar a la red Bring mediante un proxy SOCKS5.</translation>
+        <source>Percentage of incoming Bringwhich get automatically converted to zBring via Zerocoin Protocol (min: 10%)</source>
+        <translation>Porcentaje de Brings entrantes que serán automáticamente convertidos a zBring a través del Protocolo Zerocoin (mín: 10%)</translation>
+    </message>
+    <message>
+        <source>Percentage of autominted zBring</source>
+        <translation>Porcentaje de zBring autogenerados</translation>
+    </message>
+    <message>
+        <source>Wait with automatic conversion to Zerocoin until enough Bringfor this denomination is available</source>
+        <translation>Retrasar la conversión automática a Zerocoin hasta que hayan suficientes Bringdisponibles para este tamaño de billete</translation>
+    </message>
+    <message>
+        <source>Preferred Automint zBring Denomination</source>
+        <translation>Tamaño de billete zBring preferido en la creación automática de dinero</translation>
+    </message>
+    <message>
+        <source>Connect to the Bringnetwork through a SOCKS5 proxy.</source>
+        <translation>Conectar a la red Bringmediante un proxy SOCKS5.</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -1820,6 +1824,10 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
         <translation>&amp;Cancelar</translation>
     </message>
     <message>
+        <source>I don't care</source>
+        <translation>No me preocupa</translation>
+    </message>
+    <message>
         <source>default</source>
         <translation>por defecto</translation>
     </message>
@@ -1855,6 +1863,10 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
         <translation>Formulario</translation>
     </message>
     <message>
+        <source>BringBalances</source>
+        <translation>Balances Bring</translation>
+    </message>
+    <message>
         <source>Available:</source>
         <translation>Disponible:</translation>
     </message>
@@ -1879,12 +1891,8 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
         <translation>Recompensa de participación o de nodo maestro que aún no ha madurado</translation>
     </message>
     <message>
-        <source>Balances</source>
-        <translation>Balances</translation>
-    </message>
-    <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bring network after a connection is established, but this process has not completed yet.</source>
-        <translation>La información mostrada puede estar desactualizada. Su monedero se sincroniza automáticamente con la red Bring después de establecer una conexión, pero este proceso aún no se ha completado.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bringnetwork after a connection is established, but this process has not completed yet.</source>
+        <translation>La información mostrada puede estar desactualizada. Su monedero se sincroniza automáticamente con la red Bringdespués de establecer una conexión, pero este proceso aún no se ha completado.</translation>
     </message>
     <message>
         <source>Unconfirmed transactions to watch-only addresses</source>
@@ -1919,155 +1927,32 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
         <translation>Disponible:</translation>
     </message>
     <message>
-        <source>Status:</source>
-        <translation>Estado:</translation>
+        <source>Combined Balances (including immature coins)</source>
+        <translation>Balances Combinados (incluyendo monedas inmaduras)</translation>
     </message>
     <message>
-        <source>Obfuscation Balance:</source>
-        <translation>Balance de Ofuscación:</translation>
+        <source>Bring:</source>
+        <translation>Bring:</translation>
     </message>
     <message>
-        <source>0 BRG / 0 Rounds</source>
-        <translation>0 BRG / 0 Rondas</translation>
+        <source>zBring:</source>
+        <translation>zBring:</translation>
     </message>
     <message>
-        <source>Enabled/Disabled</source>
-        <translation>Activado/Desactivado</translation>
+        <source>0 %</source>
+        <translation>0 %</translation>
     </message>
     <message>
-        <source>Try to manually submit a Obfuscation request.</source>
-        <translation>Intentar enviar manualmente una solicitud de Ofuscación.</translation>
-    </message>
-    <message>
-        <source>Reset the current status of Obfuscation (can interrupt Obfuscation if it's in the process of Mixing, which can cost you money!)</source>
-        <translation>Reiniciar el estado actual de Ofuscación (puede interrumpir la Ofuscación si está en el proceso de Mezcla, que puede costarle dinero!)</translation>
-    </message>
-    <message>
-        <source>Obfuscation</source>
-        <translation>Ofuscación</translation>
-    </message>
-    <message>
-        <source>Completion:</source>
-        <translation>Completado:</translation>
-    </message>
-    <message>
-        <source>Amount and Rounds:</source>
-        <translation>Cantidad y Rondas:</translation>
-    </message>
-    <message>
-        <source>Submitted Denom:</source>
-        <translation>Denominación Enviada:</translation>
-    </message>
-    <message>
-        <source>n/a</source>
-        <translation>n/a</translation>
+        <source>Zerocoin Balance</source>
+        <translation>Balance Zerocoin</translation>
     </message>
     <message>
         <source>Recent transactions</source>
         <translation>Transacciones recientes</translation>
     </message>
     <message>
-        <source>Start/Stop Mixing</source>
-        <translation>Empezar/Parar Mezcla</translation>
-    </message>
-    <message>
-        <source>The denominations you submitted to the Masternode.&lt;br&gt;To mix, other users must submit the exact same denominations.</source>
-        <translation>Las denominaciones que enviaste al Nodo Maestro.&lt;br&gt;Para mezclar, otros usuarios deben enviar exactamente las mismas denominaciones.</translation>
-    </message>
-    <message>
-        <source>(Last Message)</source>
-        <translation>(Último Mensaje)</translation>
-    </message>
-    <message>
-        <source>Try Mix</source>
-        <translation>Intentar Mezclar</translation>
-    </message>
-    <message>
-        <source>Reset</source>
-        <translation>Reiniciar</translation>
-    </message>
-    <message>
         <source>out of sync</source>
         <translation>desincronizado</translation>
-    </message>
-    <message>
-        <source>Disabled</source>
-        <translation>Desactivado</translation>
-    </message>
-    <message>
-        <source>No inputs detected</source>
-        <translation>No se detectan entradas</translation>
-    </message>
-    <message numerus="yes">
-        <source>%n Rounds</source>
-        <translation><numerusform>%n Ronda</numerusform><numerusform>%n Rondas</numerusform></translation>
-    </message>
-    <message>
-        <source>Not enough compatible inputs to anonymize &lt;span style='color:red;'&gt;%1&lt;/span&gt;,&lt;br&gt;will anonymize &lt;span style='color:red;'&gt;%2&lt;/span&gt; instead</source>
-        <translation>No hay suficientes entradas compatibles para anonimizar &lt;span style='color:red;'&gt;%1&lt;/span&gt;,&lt;br&gt;anonimizará &lt;span style='color:red;'&gt;%2&lt;/span&gt; en su lugar
-</translation>
-    </message>
-    <message>
-        <source>Overall progress</source>
-        <translation>Progreso total</translation>
-    </message>
-    <message>
-        <source>Denominated</source>
-        <translation>Nominadas</translation>
-    </message>
-    <message>
-        <source>Anonymized</source>
-        <translation>Anonimizadas</translation>
-    </message>
-    <message numerus="yes">
-        <source>Denominated inputs have %5 of %n rounds on average</source>
-        <translation><numerusform>La entrada denominada tiene %5 de %n rondas de promedio</numerusform><numerusform>Las entradas seleccionadas tienen %5 de %n rondas de promedio</numerusform></translation>
-    </message>
-    <message>
-        <source>Last Obfuscation message:
-</source>
-        <translation>Último mensaje de Ofuscación:
-</translation>
-    </message>
-    <message>
-        <source>Obfuscation was successfully reset.</source>
-        <translation>La Ofuscación fue reiniciada satisfactoriamente.</translation>
-    </message>
-    <message>
-        <source>If you don't want to see internal Obfuscation fees/transactions select "Most Common" as Type on the "Transactions" tab.</source>
-        <translation>Si no quiere ver aquí las operaciones internas de Ofuscación seleccione "Las Más Comunes" como el Tipo en la pestaña de "Transacciones".</translation>
-    </message>
-    <message>
-        <source>Obfuscation requires at least %1 to use.</source>
-        <translation>La Ofuscación requiere como mínimo %1 para usarse.</translation>
-    </message>
-    <message>
-        <source>Wallet is locked and user declined to unlock. Disabling Obfuscation.</source>
-        <translation>El Monedero está bloqueado y el usuario declinó su desbloqueo. Desactivando Ofuscación.</translation>
-    </message>
-    <message>
-        <source>Found enough compatible inputs to anonymize %1</source>
-        <translation>Se encontraron suficientes entradas compatibles para anonimizar %1</translation>
-    </message>
-    <message>
-        <source>Start Obfuscation</source>
-        <translation>Comenzar Ofuscación</translation>
-    </message>
-    <message>
-        <source>Stop Obfuscation</source>
-        <translation>Parar Ofuscación</translation>
-    </message>
-    <message>
-        <source>Mixed</source>
-        <translation>Mezcladas</translation>
-    </message>
-    <message>
-        <source>Enabled</source>
-        <translation>Activado</translation>
-    </message>
-    <message>
-        <source>N/A</source>
-        <translation>N/A</translation>
     </message>
 </context>
 <context>
@@ -2097,8 +1982,8 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
         <translation>No se puede iniciar bring: módulo click-to-pay</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Bring address or malformed URI parameters.</source>
-        <translation>¡El identificador de la dirección no puede ser analizado! Esto puede ser causado por una dirección Bring inválida o parámetros del identificador malformados.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid Bringaddress or malformed URI parameters.</source>
+        <translation>¡El identificador de la dirección no puede ser analizado! Esto puede ser causado por una dirección Bringinválida o parámetros del identificador malformados.</translation>
     </message>
     <message>
         <source>Payment request file cannot be read! This can be caused by an invalid payment request file.</source>
@@ -2177,14 +2062,471 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
     </message>
 </context>
 <context>
+    <name>PrivacyDialog</name>
+    <message>
+        <source>Bringwhich were anonymized via Zerocin Protocol</source>
+        <translation>Bringque fueron anonimizados mediante Protocolo Zerocoin</translation>
+    </message>
+    <message>
+        <source>Zerocoin Bring(zBring)</source>
+        <translation>Zerocoin Bring(zBring)</translation>
+    </message>
+    <message>
+        <source>Zerocoin Actions:</source>
+        <translation>Acciones Zerocoin:</translation>
+    </message>
+    <message>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bringnetwork after a connection is established, but this process has not completed yet.</source>
+        <translation>La información mostrada puede estar desactualizada. Su monedero se sincroniza automáticamente con la red Bringdespués de establecer una conexión, pero este proceso aún no se ha completado.</translation>
+    </message>
+    <message>
+        <source>Enter an amount of Phr to convert to zPhr</source>
+        <translation>Introduzca la cantidad de Phr que desea convertir a zPhr</translation>
+    </message>
+    <message>
+        <source>Mint Zerocoin</source>
+        <translation>Creación de moneda Zerocoin</translation>
+    </message>
+    <message>
+        <source>0</source>
+        <translation>0</translation>
+    </message>
+    <message>
+        <source>zBring</source>
+        <translation>zBring</translation>
+    </message>
+    <message>
+        <source>Available for Minting:</source>
+        <translation>Disponible para Creación de moneda:</translation>
+    </message>
+    <message>
+        <source>0.000 000 00 Bring</source>
+        <translation>0.000 000 00 Bring</translation>
+    </message>
+    <message>
+        <source>Reset Zerocoin Wallet DB. Deletes transactions that did not make it into the blockchain.</source>
+        <translation>Resetear la base de datos del monedero Zerocoin. Esta opción borra transacciones que no consiguieron salir publicadas en la cadena de bloques.</translation>
+    </message>
+    <message>
+        <source>Reset</source>
+        <translation>Reiniciar</translation>
+    </message>
+    <message>
+        <source>Coin Control...</source>
+        <translation>Control de Monedas...</translation>
+    </message>
+    <message>
+        <source>Quantity:</source>
+        <translation>Cantidad:</translation>
+    </message>
+    <message>
+        <source>Amount:</source>
+        <translation>Cantidad:</translation>
+    </message>
+    <message>
+        <source>Rescan the complete blockchain for  Zerocoin mints and their meta-data.</source>
+        <translation>Reescanear la cadena de bloques entera buscando creación de moneda Zerocoin y otros meta-datos.</translation>
+    </message>
+    <message>
+        <source>ReScan</source>
+        <translation>ReeScanear</translation>
+    </message>
+    <message>
+        <source>Status and/or Mesages from the last Mint Action.</source>
+        <translation>Estado y/o Mensajes de la última Acción de Creación de moneda.</translation>
+    </message>
+    <message>
+        <source>zPhr Control</source>
+        <translation>Control zPhr</translation>
+    </message>
+    <message>
+        <source>zPhr Selected:</source>
+        <translation>zPhr Seleccionados:</translation>
+    </message>
+    <message>
+        <source>Quantity Selected:</source>
+        <translation>Cantidad Seleccionada:</translation>
+    </message>
+    <message>
+        <source>Spend Zerocoin. Without 'Pay To:' address creates payments to yourself.</source>
+        <translation>Gastar Zerocoin. Sin direcciones "Pagar a:", esto creará pagos a usted mismo.</translation>
+    </message>
+    <message>
+        <source>Spend Zerocoin</source>
+        <translation>Gastar Zerocoin</translation>
+    </message>
+    <message>
+        <source>Available Balance:</source>
+        <translation>Balance disponible:</translation>
+    </message>
+    <message>
+        <source>0 zBring</source>
+        <translation>0 zBring</translation>
+    </message>
+    <message>
+        <source>Security Level for Zerocoin Transactions. More is better, but needs more time and resources.</source>
+        <translation>Nivel de Seguridad para Transacciones Zerocoin. Cuanto más mejor, pero necesitará más tiempo y recursos.</translation>
+    </message>
+    <message>
+        <source>Security Level:</source>
+        <translation>Nivel de Seguridad:</translation>
+    </message>
+    <message>
+        <source>Security Level 1 - 100 (default: 42)</source>
+        <translation>Nivel de Seguridad 1 - 100 (por defecto: 42)</translation>
+    </message>
+    <message>
+        <source>Pay &amp;To:</source>
+        <translation>Pagar &amp;A:</translation>
+    </message>
+    <message>
+        <source>The Bringaddress to send the payment to. Creates local payment to yourself when empty.</source>
+        <translation>La dirección Bringa la que enviar el pago. Si se deja en blanco, crea un pago a usted mismo.</translation>
+    </message>
+    <message>
+        <source>Choose previously used address</source>
+        <translation>Escoja una dirección usada previamente</translation>
+    </message>
+    <message>
+        <source>Alt+A</source>
+        <translation>Alt + A</translation>
+    </message>
+    <message>
+        <source>Paste address from clipboard</source>
+        <translation>Pegar dirección desde el portapapeles</translation>
+    </message>
+    <message>
+        <source>Alt+P</source>
+        <translation>Alt + P</translation>
+    </message>
+    <message>
+        <source>&amp;Label:</source>
+        <translation>&amp;Etiqueta:</translation>
+    </message>
+    <message>
+        <source>Enter a label for this address to add it to the list of used addresses</source>
+        <translation>Introduzca una etiqueta para esta dirección para añadirla a la lista de direcciones utilizadas</translation>
+    </message>
+    <message>
+        <source>A&amp;mount:</source>
+        <translation>Ca&amp;ntidad:</translation>
+    </message>
+    <message>
+        <source>Convert Change to Zerocoin (might cost additional fees)</source>
+        <translation>Convertir el Cambio a Zerocoin (puede costar alguna tasa adicional)</translation>
+    </message>
+    <message>
+        <source>If checked, the wallet tries to minimize the returning change instead of minimizing the number of spent denominations.</source>
+        <translation>Si está marcado, el monedero intenta minimizar el cambio de vuelta en lugar de minimizar el número de billetes necesarios.</translation>
+    </message>
+    <message>
+        <source>Minimize Change</source>
+        <translation>Minimizar Cambio</translation>
+    </message>
+    <message>
+        <source>Information about the available Zerocoin funds.</source>
+        <translation>Información sobre los fondos Zerocoin disponibles.</translation>
+    </message>
+    <message>
+        <source>Zerocoin Stats:</source>
+        <translation>Estadísticas Zerocoin:</translation>
+    </message>
+    <message>
+        <source>Available Funds</source>
+        <translation>Fondos Disponibles</translation>
+    </message>
+    <message>
+        <source>Available Zerocoin  Balance:</source>
+        <translation>Balance Zerocoin Disponible:</translation>
+    </message>
+    <message>
+        <source>Denominations with value 1:</source>
+        <translation>Billetes con valor 1:</translation>
+    </message>
+    <message>
+        <source>Denom. with value 1:</source>
+        <translation>Billetes con valor 1:</translation>
+    </message>
+    <message>
+        <source>0 x</source>
+        <translation>0 x</translation>
+    </message>
+    <message>
+        <source>Denominations with value 5:</source>
+        <translation>Billetes con valor 5:</translation>
+    </message>
+    <message>
+        <source>Denom. with value 5:</source>
+        <translation>Billetes con valor 5:</translation>
+    </message>
+    <message>
+        <source>Denominations with value 10:</source>
+        <translation>Billetes con valor 10:</translation>
+    </message>
+    <message>
+        <source>Denom. with value 10:</source>
+        <translation>Billetes con valor 10:</translation>
+    </message>
+    <message>
+        <source>Denominations with value 50:</source>
+        <translation>Billetes con valor 50:</translation>
+    </message>
+    <message>
+        <source>Denom. with value 50:</source>
+        <translation>Billetes con valor 50:</translation>
+    </message>
+    <message>
+        <source>Denominations with value 100:</source>
+        <translation>Billetes con valor 100:</translation>
+    </message>
+    <message>
+        <source>Denom. with value 100:</source>
+        <translation>Billetes con valor 100:</translation>
+    </message>
+    <message>
+        <source>Denominations with value 500:</source>
+        <translation>Billetes con valor 500:</translation>
+    </message>
+    <message>
+        <source>Denom. with value 500:</source>
+        <translation>Billetes con valor 500:</translation>
+    </message>
+    <message>
+        <source>Denominations with value 1000:</source>
+        <translation>Billetes con valor 1000:</translation>
+    </message>
+    <message>
+        <source>Denom. with value 1000:</source>
+        <translation>Billetes con valor 1000:</translation>
+    </message>
+    <message>
+        <source>Denominations with value 5000:</source>
+        <translation>Billetes con valor 5000:</translation>
+    </message>
+    <message>
+        <source>Denom. with value 5000:</source>
+        <translation>Billetes con valor 5000:</translation>
+    </message>
+    <message>
+        <source>Note: This hidden objects are used for communication between the 'Coin Control' dialog and its parent objects. We don't want to change/reimplement the existing Coin Control, so this objects must be here, even when we don't use them. No, we don't like this approach, either.</source>
+        <translation>Nota: Estos objetos ocultos se usan para comunicación entre el diálogo "Control de Monedas' y sus objetos ascendientes. No queremos cambiar/reimplementar el Control de Moneda existente, así que dejamos aquí estos objetos, aunque no los utilicemos. Mejoraremos este planteamiento en el futuro.</translation>
+    </message>
+    <message>
+        <source>Priority:</source>
+        <translation>Prioridad:</translation>
+    </message>
+    <message>
+        <source>Fee:</source>
+        <translation>Comisión:</translation>
+    </message>
+    <message>
+        <source>Dust:</source>
+        <translation>Calderilla:</translation>
+    </message>
+    <message>
+        <source>no</source>
+        <translation>no</translation>
+    </message>
+    <message>
+        <source>Bytes:</source>
+        <translation>Octetos:</translation>
+    </message>
+    <message>
+        <source>Insufficient funds!</source>
+        <translation>¡Fondos insuficientes!</translation>
+    </message>
+    <message>
+        <source>Coins automatically selected</source>
+        <translation>Monedas seleccionadas automáticamente</translation>
+    </message>
+    <message>
+        <source>medium</source>
+        <translation>media</translation>
+    </message>
+    <message>
+        <source>Coin Control Features</source>
+        <translation>Funciones de Control de Monedas</translation>
+    </message>
+    <message>
+        <source>If this is activated, but the change address is empty or invalid, change will be sent to a newly generated address.</source>
+        <translation>Si esto está activado, pero la dirección de cambio está vacía o es inválida, el cambio será mandado a una nueva dirección generada.</translation>
+    </message>
+    <message>
+        <source>Custom change address</source>
+        <translation>Dirección de cambio personalizada</translation>
+    </message>
+    <message>
+        <source>Amount After Fee:</source>
+        <translation>Cantidad Después de Tasas:</translation>
+    </message>
+    <message>
+        <source>Change:</source>
+        <translation>Cambio:</translation>
+    </message>
+    <message>
+        <source>out of sync</source>
+        <translation>desincronizado</translation>
+    </message>
+    <message>
+        <source>Mint Status: Okay</source>
+        <translation>Estado de Creación de Moneda: Ok</translation>
+    </message>
+    <message>
+        <source>Copy quantity</source>
+        <translation>Copiar cantidad</translation>
+    </message>
+    <message>
+        <source>Copy amount</source>
+        <translation>Copiar cantidad</translation>
+    </message>
+    <message>
+        <source>Zerocoin functionality is not enabled on the Bringnetwork yet.</source>
+        <translation>La funcionalidad Zerocoin todavía no está habilitada en la red Bring.</translation>
+    </message>
+    <message>
+        <source>Error: Your wallet is locked. Please enter the wallet passphrase first.</source>
+        <translation>Error: Tu monedero está bloqueado. Por favor, primero introduzca la clave de desbloqueo.</translation>
+    </message>
+    <message>
+        <source>Message: Enter an amount &gt; 0.</source>
+        <translation>Mensaje: Introduzca una cantidad &gt; 0.</translation>
+    </message>
+    <message>
+        <source>Minting </source>
+        <translation>Creando moneda</translation>
+    </message>
+    <message>
+        <source>Successfully minted </source>
+        <translation>Monedas creadas correctamente</translation>
+    </message>
+    <message>
+        <source> zBring in </source>
+        <translation>zBring en</translation>
+    </message>
+    <message>
+        <source> sec. Used denominations:
+</source>
+        <translation>seg. Billetes usados:
+</translation>
+    </message>
+    <message>
+        <source>Starting ResetMintZerocoin: rescanning complete blockchain, this will need up to 30 minutes depending on your hardware. 
+Please be patient...</source>
+        <translation>Ejecutando ResetMintZerocoin: reescaneando la cadena de bloques entera, esto necesitará hasta media hora dependiendo de su hardware.
+Por favor espere...</translation>
+    </message>
+    <message>
+        <source>Duration: </source>
+        <translation>Duración:</translation>
+    </message>
+    <message>
+        <source> sec.
+</source>
+        <translation>seg.
+</translation>
+    </message>
+    <message>
+        <source>Starting ResetSpentZerocoin: </source>
+        <translation>Iniciando ResetSpentZerocoin:</translation>
+    </message>
+    <message>
+        <source>No 'Pay To' address provided, creating local payment</source>
+        <translation>No se especificó drección 'Pagar A', por lo que asumimos un pago local</translation>
+    </message>
+    <message>
+        <source>Invalid BringAddress</source>
+        <translation>Dirección BringInválida</translation>
+    </message>
+    <message>
+        <source>Invalid Send Amount</source>
+        <translation>Cantidad a Enviar Inválida</translation>
+    </message>
+    <message>
+        <source>Confirm additional Fees</source>
+        <translation>Confirmar Tasas adicionales</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to send?&lt;br /&gt;&lt;br /&gt;</source>
+        <translation>¿Está seguro que desea enviar?&lt;br /&gt;&lt;br /&gt;</translation>
+    </message>
+    <message>
+        <source> to address </source>
+        <translation>a la dirección</translation>
+    </message>
+    <message>
+        <source> to a newly generated (unused and therefor anonymous) local address &lt;br /&gt;</source>
+        <translation> a una dirección local recién generada (sin usar todavía y por lo tanto, anónima) &lt;br /&gt;</translation>
+    </message>
+    <message>
+        <source>with Security Level </source>
+        <translation>con Nivel de Seguridad</translation>
+    </message>
+    <message>
+        <source>Confirm send coins</source>
+        <translation>Confirmar enviar monedas</translation>
+    </message>
+    <message>
+        <source>Spending Zerocoin.
+Computationally expensive, might need several minutes depending on the selected Security Level and your hardware. 
+Please be patient...</source>
+        <translation>Gastando Zerocoin.
+Esto es computacionalmente intensivo, puede necesitar varios minutos dependiendo del Nivel de Seguridad elegido y el hardware de su máquina.
+Por favor tenga paciencia...</translation>
+    </message>
+    <message>
+        <source>Spend Zerocoin failed with status = </source>
+        <translation>Gastar Zerocoin falló con estado =</translation>
+    </message>
+    <message>
+        <source>zPhr Spend #: </source>
+        <translation>Gastar zPhr #:</translation>
+    </message>
+    <message>
+        <source>denomination: </source>
+        <translation>billete:</translation>
+    </message>
+    <message>
+        <source>serial: </source>
+        <translation>serial:</translation>
+    </message>
+    <message>
+        <source>Spend is 1 of : </source>
+        <translation>Gasto 1 de :</translation>
+    </message>
+    <message>
+        <source>value out: </source>
+        <translation>valor salida:</translation>
+    </message>
+    <message>
+        <source>address: </source>
+        <translation>dirección:</translation>
+    </message>
+    <message>
+        <source>zPhr Mint</source>
+        <translation>Creación de zPhr</translation>
+    </message>
+    <message>
+        <source>Sending successful, return code: </source>
+        <translation>Envío correcto, código devuelto: </translation>
+    </message>
+    <message>
+        <source>txid: </source>
+        <translation>txid:</translation>
+    </message>
+    <message>
+        <source>fee: </source>
+        <translation>tasa:</translation>
+    </message>
+</context>
+<context>
     <name>QObject</name>
     <message>
         <source>Amount</source>
         <translation>Cantidad</translation>
     </message>
     <message>
-        <source>Enter a Bring address (e.g. %1)</source>
-        <translation>Introduzca una dirección Bring (p.e. %1)</translation>
+        <source>Enter a Bringaddress (e.g. %1)</source>
+        <translation>Introduzca una dirección Bring(p.e. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -2205,6 +2547,10 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
     <message>
         <source>NETWORK</source>
         <translation>RED</translation>
+    </message>
+    <message>
+        <source>BLOOM</source>
+        <translation>BLOOM</translation>
     </message>
     <message>
         <source>UNKNOWN</source>
@@ -2317,8 +2663,8 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
         <translation>Cadena de bloques</translation>
     </message>
     <message>
-        <source>Open the Bring debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Abrir el fichero de depuración Bring en el directorio actual de datos. Esto puede llevar unos segundos para ficheros de depuración grandes.</translation>
+        <source>Open the Bringdebug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Abrir el fichero de depuración Bringen el directorio actual de datos. Esto puede llevar unos segundos para ficheros de depuración grandes.</translation>
     </message>
     <message>
         <source>Number of Masternodes</source>
@@ -2485,7 +2831,7 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
         <translation>Fuera:</translation>
     </message>
     <message>
-        <source>Welcome to the Bring RPC console.</source>
+        <source>Welcome to the BringRPC console.</source>
         <translation>Bienvenido a la consola RPC de Bring.</translation>
     </message>
     <message>
@@ -2556,11 +2902,11 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
         <translation>Una etiqueta opcional a asociar con la nueva dirección de recepción.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Bring network.</source>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Bringnetwork.</source>
         <translation>Un mensaje opcional a adjuntar a la solicitud de pago, que será mostrado cuando se abra la solicitud. Nota: El mensaje no se envía junto al pago por la red Bring.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Bring network.</source>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Bringnetwork.</source>
         <translation>Un mensaje opcional a adjuntar a la solicitud de pago, que será mostrado cuando se abra la solicitud. &lt;br&gt;Nota: El mensaje no se envía junto al pago por la red Bring.</translation>
     </message>
     <message>
@@ -2721,14 +3067,6 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
         <translation>Funciones de Control de Monedas</translation>
     </message>
     <message>
-        <source>Inputs...</source>
-        <translation>Entradas...</translation>
-    </message>
-    <message>
-        <source>automatically selected</source>
-        <translation>seleccionadas automáticamente</translation>
-    </message>
-    <message>
         <source>Insufficient funds!</source>
         <translation>¡Fondos insuficientes!</translation>
     </message>
@@ -2793,8 +3131,8 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
         <translation>Tamaño de UTXO:</translation>
     </message>
     <message>
-        <source>0 BRG</source>
-        <translation>0 BRG</translation>
+        <source>0 Bring</source>
+        <translation>0 Bring</translation>
     </message>
     <message>
         <source>Transaction Fee:</source>
@@ -2811,10 +3149,6 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
     <message>
         <source>Minimize</source>
         <translation>Minimizar</translation>
-    </message>
-    <message>
-        <source>Obfuscation</source>
-        <translation>Ofuscación</translation>
     </message>
     <message>
         <source>per kilobyte</source>
@@ -2841,16 +3175,24 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
         <translation>Tiempo de confirmación:</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 mBRGs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 mBRGs in fee,&lt;br /&gt;while "at least" pays 1000 mBRGs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Si la comisión personalizada se fija en 1000 mBRGs y la transacción necesita sólo 250 bytes, entonces la opción "por kilobyte" sólo pagará 250 mBRGs de comisión,&lt;br/&gt;mientras "por lo menos" pagará 1000 mBRGs. Para transacciones que midan más de un kilobyte ambas pagan por kilobyte.</translation>
+        <source>Open Coin Control...</source>
+        <translation>Abrir Control de Monedas...</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 mBRGs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 mBRGs in fee,&lt;br /&gt;while "total at least" pays 1000 mBRGs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Si la comisión personalizada se fija en 1000 mBRGs y la transacción necesita sólo 250 bytes, entonces la opción "por kilobyte" sólo pagará 250 mBRGs de comisión,&lt;br/&gt;mientras "por lo menos" pagará 1000 mBRGs. Para transacciones que midan más de un kilobyte ambas pagan por kilobyte.</translation>
+        <source>Coins automatically selected</source>
+        <translation>Monedas seleccionadas automáticamente</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for Bring transactions than the network can process.</source>
-        <translation>Pagar sólo la comisión mínima está bien mientras haya menos volumen de transacciones que espacio en los bloques.&lt;br/&gt;Pero tenga en cuenta que esto podría acabar en una transacción que nunca se confirme si hay más demanda de transacciones Bring de las que la red puede procesar.</translation>
+        <source>If the custom fee is set to 1000 uBrings and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uBrings in fee,&lt;br /&gt;while "at least" pays 1000 uBrings. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Si la comisión personalizada se fija en 1000 uBrings y la transacción necesita sólo 250 bytes, entonces la opción "por kilobyte" sólo pagará 250 uBrings de comisión,&lt;br/&gt;mientras "por lo menos" pagará 1000 uBrings. Para transacciones que midan más de un kilobyte ambas pagan por kilobyte.</translation>
+    </message>
+    <message>
+        <source>If the custom fee is set to 1000 uBrings and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uBrings in fee,&lt;br /&gt;while "total at least" pays 1000 uBrings. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Si la comisión personalizada se fija en 1000 uBrings y la transacción necesita sólo 250 bytes, entonces la opción "por kilobyte" sólo pagará 250 uBrings de comisión,&lt;br/&gt;mientras "por lo menos" pagará 1000 uBrings. Para transacciones que midan más de un kilobyte ambas pagan por kilobyte.</translation>
+    </message>
+    <message>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for Bringtransactions than the network can process.</source>
+        <translation>Pagar sólo la comisión mínima está bien mientras haya menos volumen de transacciones que espacio en los bloques.&lt;br/&gt;Pero tenga en cuenta que esto podría acabar en una transacción que nunca se confirme si hay más demanda de transacciones Bringde las que la red puede procesar.</translation>
     </message>
     <message>
         <source>normal</source>
@@ -2895,6 +3237,10 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
     <message>
         <source>Add &amp;Recipient</source>
         <translation>Añadir Destinata&amp;rio</translation>
+    </message>
+    <message>
+        <source>Anonymized Bring</source>
+        <translation>Bringanonimizados</translation>
     </message>
     <message>
         <source>SwiftTX</source>
@@ -2953,8 +3299,8 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
         <translation>fondos anónimos</translation>
     </message>
     <message>
-        <source>Warning: Invalid Bring address</source>
-        <translation>Advertencia: Direcciones Bring inválidas</translation>
+        <source>Warning: Invalid Bringaddress</source>
+        <translation>Advertencia: Direcciones Bringinválidas</translation>
     </message>
     <message>
         <source>any available funds (not recommended)</source>
@@ -2990,15 +3336,11 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
     </message>
     <message numerus="yes">
         <source>Estimated to begin confirmation within %n block(s).</source>
-        <translation><numerusform>Estimamos que empezará la confirmación en %n bloque.</numerusform><numerusform>Estimamos que empezará la confirmación en %n bloques.</numerusform></translation>
+        <translation><numerusform>Estimamos que la confirmación empezará dentro de %n bloque.</numerusform><numerusform>Estimamos que la confirmación empezará dentro de %n bloques.</numerusform></translation>
     </message>
     <message>
         <source>The recipient address is not valid, please recheck.</source>
         <translation>La dirección de destino no es válida, por favor compruébelo de nuevo.</translation>
-    </message>
-    <message>
-        <source>(obfuscation requires this amount to be rounded up to the nearest %1).</source>
-        <translation>(la ofuscación requiere redondear hacia arriba esta cantidad al %1 más cercano).</translation>
     </message>
     <message>
         <source> split into %1 outputs using the UTXO splitter.</source>
@@ -3037,6 +3379,10 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
         <translation>Error: El monedero se desbloqueó sólo para anonimizar monedas.</translation>
     </message>
     <message>
+        <source>Error: The wallet was unlocked only to anonymize coins. Unlock canceled.</source>
+        <translation>Error: El monedero ya fue desbloqueado para anonimizar monedas. El desbloqueo total se ha cancelado.</translation>
+    </message>
+    <message>
         <source>Pay only the minimum fee of %1</source>
         <translation>Pagar sólo la comisión mínima de %1</translation>
     </message>
@@ -3060,12 +3406,12 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
         <translation>Pagar &amp;A:</translation>
     </message>
     <message>
-        <source>The Bring address to send the payment to</source>
-        <translation>La dirección Bring a la cual enviar el pago</translation>
+        <source>The Bringaddress to send the payment to</source>
+        <translation>La dirección Bringa la cual enviar el pago</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
-        <translation>Escoge una dirección usada previamente</translation>
+        <translation>Escoja una dirección usada previamente</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -3073,7 +3419,7 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
     </message>
     <message>
         <source>Paste address from clipboard</source>
-        <translation>Pegar dirección desde el clipboard</translation>
+        <translation>Pegar dirección desde el portapapeles</translation>
     </message>
     <message>
         <source>Alt+P</source>
@@ -3100,7 +3446,7 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
         <translation>Mensaje:</translation>
     </message>
     <message>
-        <source>A message that was attached to the Bring: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bring network.</source>
+        <source>A message that was attached to the Bring: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bringnetwork.</source>
         <translation>Un mensaje adjunto al Bring: En recurso web especificado será guardado junto a la transacción para su referencia. Nota: Este mensaje no se enviará por la red Bring.</translation>
     </message>
     <message>
@@ -3127,8 +3473,8 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Bring Core is shutting down...</source>
-        <translation>El programa Bring se está cerrando...</translation>
+        <source>Bring is shutting down...</source>
+        <translation>El programa Bringse está cerrando...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -3150,12 +3496,12 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
         <translation>Usted puede firmar mensajes con su dirección para probar que son auténticos. Tenga cuidado con firmar algo corto o vago como "hola", pues los ataques de phising pueden engañarle para que firme su identidad para ellos. Sólo firme textos detallados con los que esté de acuerdo.</translation>
     </message>
     <message>
-        <source>The Bring address to sign the message with</source>
-        <translation>La dirección Bring con la que firmar el mensaje</translation>
+        <source>The Bringaddress to sign the message with</source>
+        <translation>La dirección Bringcon la que desee firmar el mensaje</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
-        <translation>Escoge una dirección usada previamente</translation>
+        <translation>Escoja una dirección usada previamente</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -3163,7 +3509,7 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
     </message>
     <message>
         <source>Paste address from clipboard</source>
-        <translation>Pegar dirección desde el clipboard</translation>
+        <translation>Pegar dirección desde el portapapeles</translation>
     </message>
     <message>
         <source>Alt+P</source>
@@ -3179,19 +3525,19 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
     </message>
     <message>
         <source>Copy the current signature to the system clipboard</source>
-        <translation>Copiar la firma actual al clipboard del sistema</translation>
+        <translation>Copiar la firma actual al portapapeles del sistema</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Bring address</source>
-        <translation>Firmar el mensaje para demostrar que eres el propietario de esta dirección Bring</translation>
+        <source>Sign the message to prove you own this Bringaddress</source>
+        <translation>Firme el mensaje para demostrar que eres el propietario de esta dirección Bring</translation>
     </message>
     <message>
-        <source>The Bring address the message was signed with</source>
-        <translation>La dirección Bring con la que el mensaje fue firmado</translation>
+        <source>The Bringaddress the message was signed with</source>
+        <translation>La dirección Bringcon la que se firmó el mensaje</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Bring address</source>
-        <translation>Verificar el mensaje para asegurarse que fue firmado con la dirección Bring especificada</translation>
+        <source>Verify the message to ensure it was signed with the specified Bringaddress</source>
+        <translation>Verifica el mensaje para asegurar que fue firmado con la dirección Bringespecificada</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -3199,7 +3545,7 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
     </message>
     <message>
         <source>Reset all sign message fields</source>
-        <translation>Resetear todos los campos de firma de mensaje</translation>
+        <translation>Limpiar todos los campos de firma de mensaje</translation>
     </message>
     <message>
         <source>Clear &amp;All</source>
@@ -3219,7 +3565,7 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
     </message>
     <message>
         <source>Reset all verify message fields</source>
-        <translation>Resetear todos los campos de verificación de mensaje</translation>
+        <translation>Limpiar todos los campos de verificación de mensaje</translation>
     </message>
     <message>
         <source>Click "Sign Message" to generate signature</source>
@@ -3231,15 +3577,15 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
     </message>
     <message>
         <source>Please check the address and try again.</source>
-        <translation>Por favor comprobar la dirección y probar de nuevo.</translation>
+        <translation>Por favor compruebe la dirección e inténtelo de nuevo.</translation>
     </message>
     <message>
         <source>The entered address does not refer to a key.</source>
-        <translation>La dirección introducido no se refiere a ninguna clave.</translation>
+        <translation>La dirección introducida no se refiere a ninguna clave.</translation>
     </message>
     <message>
         <source>Wallet unlock was cancelled.</source>
-        <translation>El desbloqueo de la wallet fue cancelado.</translation>
+        <translation>El desbloqueo del monedero fue cancelado.</translation>
     </message>
     <message>
         <source>Private key for the entered address is not available.</source>
@@ -3277,7 +3623,7 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bring Core</source>
+        <source>Bring</source>
         <translation>Núcleo Bring</translation>
     </message>
     <message>
@@ -3293,8 +3639,8 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
         <translation>Los desarrolladores de Dash Core</translation>
     </message>
     <message>
-        <source>The Bring Core developers</source>
-        <translation>Los desarrolladores de Bring Core</translation>
+        <source>The Bring developers</source>
+        <translation>Los desarrolladores de Bring</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -3420,7 +3766,7 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
     </message>
     <message numerus="yes">
         <source>matures in %n more block(s)</source>
-        <translation><numerusform>madura en %n bloque más</numerusform><numerusform>madura en %n bloques más</numerusform></translation>
+        <translation><numerusform>madurará dentro de %n bloque</numerusform><numerusform>madurará dentro de %n bloques</numerusform></translation>
     </message>
     <message>
         <source>not accepted</source>
@@ -3522,7 +3868,7 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
     </message>
     <message numerus="yes">
         <source>Open for %n more block(s)</source>
-        <translation><numerusform>Abierto para %n bloque más</numerusform><numerusform>Abierto para %n bloques más</numerusform></translation>
+        <translation><numerusform>Abierto para %n bloque más</numerusform><numerusform>Abierto por %n bloques más</numerusform></translation>
     </message>
     <message>
         <source>Open until %1</source>
@@ -3586,7 +3932,7 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
     </message>
     <message>
         <source>Obfuscation Create Denominations</source>
-        <translation>Ofuscación Crea Denominaciones</translation>
+        <translation>Ofuscación Crea Billetes</translation>
     </message>
     <message>
         <source>Sent to</source>
@@ -3613,8 +3959,32 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
         <translation>Ofuscado</translation>
     </message>
     <message>
+        <source>Converted Phr to zPhr</source>
+        <translation>Phr convertidos a zPhr</translation>
+    </message>
+    <message>
+        <source>Spent zPhr</source>
+        <translation>zPhr Gastados</translation>
+    </message>
+    <message>
+        <source>Received Phr from zPhr</source>
+        <translation>Phr recibidos desde zPhr</translation>
+    </message>
+    <message>
+        <source>Minted Change as zPhr from zPhr Spend</source>
+        <translation>Cambio Creado en zPhr por un Gasto zPhr</translation>
+    </message>
+    <message>
+        <source>Converted zPhr to Phr</source>
+        <translation>zPhr convertidos en Phr</translation>
+    </message>
+    <message>
         <source>watch-only</source>
         <translation>sólo-lectura</translation>
+    </message>
+    <message>
+        <source>zPhr Accumulator</source>
+        <translation>Acumulador zPhr</translation>
     </message>
     <message>
         <source>(n/a)</source>
@@ -3697,7 +4067,7 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
     </message>
     <message>
         <source>Obfuscation Create Denominations</source>
-        <translation>Ofuscación Crea Denominaciones</translation>
+        <translation>Ofuscación Crea Billetes</translation>
     </message>
     <message>
         <source>Obfuscation Denominate</source>
@@ -3722,6 +4092,26 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
     <message>
         <source>Masternode Reward</source>
         <translation>Recompensa de Nodo Maestro</translation>
+    </message>
+    <message>
+        <source>Received Phr from zPhr</source>
+        <translation>Phr recibidos desde zPhr</translation>
+    </message>
+    <message>
+        <source>Zerocoin Mint</source>
+        <translation>Creación de moneda Zerocoin</translation>
+    </message>
+    <message>
+        <source>Zerocoin Spend</source>
+        <translation>Gasto de Zerocoin</translation>
+    </message>
+    <message>
+        <source>Zerocoin Spend, Change in zPhr</source>
+        <translation>Gasto de Zerocoin, Cambio en zPhr</translation>
+    </message>
+    <message>
+        <source>Zerocoin Spend to Self</source>
+        <translation>Pago Zerocoin a tí mismo</translation>
     </message>
     <message>
         <source>Other</source>
@@ -3841,8 +4231,8 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
         <translation>Enviar Monedas</translation>
     </message>
     <message>
-        <source>SwiftTX doesn't support sending values that high yet. Transactions are currently limited to %1 BRG.</source>
-        <translation>SwiftTX no soporta el envío de importes tan altos todavía. Las transacciones están actualmente limitadas a %1 BRG.</translation>
+        <source>SwiftTX doesn't support sending values that high yet. Transactions are currently limited to %1 Bring.</source>
+        <translation>SwiftTX no soporta el envío de importes tan altos todavía. Las transacciones están actualmente limitadas a %1 Bring.</translation>
     </message>
 </context>
 <context>
@@ -3885,6 +4275,33 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
     </message>
 </context>
 <context>
+    <name>ZPhrControlDialog</name>
+    <message>
+        <source>Select zPhr to Spend</source>
+        <translation>Seleccione zPhr a Gastar</translation>
+    </message>
+    <message>
+        <source>Quantity</source>
+        <translation>Cantidad</translation>
+    </message>
+    <message>
+        <source>0</source>
+        <translation>0</translation>
+    </message>
+    <message>
+        <source>zPhr</source>
+        <translation>zPhr</translation>
+    </message>
+    <message>
+        <source>Select/Deselect All</source>
+        <translation>Seleccionar/Deseleccionar Todos</translation>
+    </message>
+    <message>
+        <source>Is Spendable</source>
+        <translation>Es Gastable</translation>
+    </message>
+</context>
+<context>
     <name>bring-core</name>
     <message>
         <source>(1 = keep tx meta data e.g. account owner and payment request information, 2 = drop tx meta data)</source>
@@ -3911,8 +4328,12 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
         <translation>Escuchar únicamente a la tarjeta de red indicada para conexiones JSON-RPC. Use la notación [host]:puerto para IPv6. Esta opción puede ser especificada varias veces (por defecto: escuchar en todas las tarjetas de red)</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Bring Core is probably already running.</source>
-        <translation>No se puede obtener un bloqueo sobre el directorio de datos %s. Bring Core esta probablemente en ejecución.</translation>
+        <source>Calculated accumulator checkpoint is not what is recorded by block index</source>
+        <translation>El punto de chequeo del acumulador que hemos calculado no coincide con lo guardado en el índice de bloques</translation>
+    </message>
+    <message>
+        <source>Cannot obtain a lock on data directory %s. Bring is probably already running.</source>
+        <translation>No se puede obtener un bloqueo sobre el directorio de datos %s. Bring esta probablemente en ejecución.</translation>
     </message>
     <message>
         <source>Change automatic finalized budget voting behavior. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</source>
@@ -3931,8 +4352,8 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
         <translation>Borrar todas las transacciones del monedero y solo recuperar partes de la cadena de bloque a traves de -rescan al inicio.</translation>
     </message>
     <message>
-        <source>Disable all Bring specific functionality (Masternodes, Obfuscation, SwiftTX, Budgeting) (0-1, default: %u)</source>
-        <translation>Desabilitar toda la funcionalidad especifica Bring (Masternodes, Obfuscation, SwiftTX, Budgeting) (0-1, predeterminado: %u)</translation>
+        <source>Disable all Bringspecific functionality (Masternodes, Obfuscation, SwiftTX, Budgeting) (0-1, default: %u)</source>
+        <translation>Desabilitar toda la funcionalidad especifica Bring(Masternodes, Obfuscation, SwiftTX, Budgeting) (0-1, predeterminado: %u)</translation>
     </message>
     <message>
         <source>Distributed under the MIT software license, see the accompanying file COPYING or &lt;http://www.opensource.org/licenses/mit-license.php&gt;.</source>
@@ -3945,10 +4366,6 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
     <message>
         <source>Enable swifttx, show confirmations for locked transactions (bool, default: %s)</source>
         <translation>Activar swifttx, mostrar confirmaciones para transacciones bloqueadas (bool, predeterminado: %s)</translation>
-    </message>
-    <message>
-        <source>Enable use of automated obfuscation for funds stored in this wallet (0-1, default: %u)</source>
-        <translation>Activar el uso de ofuscación automatica para fondos guardados en este monedero (0-1, predeterminado: %u)</translation>
     </message>
     <message>
         <source>Enter regression test mode, which uses a special chain in which blocks can be solved instantly.</source>
@@ -3975,12 +4392,12 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
         <translation>Ejecutar comando cuando el mejor bloque cambie (%s en cmd es reemplazado por el block hash)</translation>
     </message>
     <message>
-        <source>Fees (in BRG/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
-        <translation>Comisiones (en BRG/Kb) menores a esta son consideradas gratuitas para la propagación de la transacción (default: %s)</translation>
+        <source>Fees (in Bring/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
+        <translation>Comisiones (en Bring/Kb) menores a esta son consideradas gratuitas para la propagación de la transacción (default: %s)</translation>
     </message>
     <message>
-        <source>Fees (in BRG/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
-        <translation>Comisiones (en BRG/Kb) menores a esta son consideradas gratuitas para la creación de la transacción (default: %s)</translation>
+        <source>Fees (in Bring/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
+        <translation>Comisiones (en Bring/Kb) menores a esta son consideradas gratuitas para la creación de la transacción (default: %s)</translation>
     </message>
     <message>
         <source>Flush database activity from memory pool to disk log every &lt;n&gt; megabytes (default: %u)</source>
@@ -3989,10 +4406,6 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
     <message>
         <source>Found unconfirmed denominated outputs, will wait till they confirm to continue.</source>
         <translation>Se encontró salidas denominadas sin confirmar, se esperará hasta que se confirmen para continuar.</translation>
-    </message>
-    <message>
-        <source>How thorough the block verification of -checkblocks is (0-4, default: %u)</source>
-        <translation>Cuán exhaustiva es la verificación de bloque de -checkblocks (0-4, predeterminado: %u)</translation>
     </message>
     <message>
         <source>If paytxfee is not set, include enough fee so transactions begin confirmation on average within n blocks (default: %u)</source>
@@ -4039,12 +4452,12 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
         <translation>Saluda de información de depuración (predeterminado: %u, proveyendo &lt;category&gt; es opcional)</translation>
     </message>
     <message>
-        <source>Provide liquidity to Obfuscation by infrequently mixing coins on a continual basis (0-100, default: %u, 1=very frequent, high fees, 100=very infrequent, low fees)</source>
-        <translation>Proporcionar liquidez a la Ofuscación mezclando infrecuentemente las monedas continuamente (0-100, predeterminado: %u, 1=muy frecuente, altas comisiones, 100=muy infrecuente, bajas comisiones)</translation>
-    </message>
-    <message>
         <source>Query for peer addresses via DNS lookup, if low on addresses (default: 1 unless -connect)</source>
         <translation>Consultar por direcciones de pares vía búsqueda en DNS, si cantidad de direcciones esta bajo (predeterminado: 1 a menos que se utilice -connect)</translation>
+    </message>
+    <message>
+        <source>Randomize credentials for every proxy connection. This enables Tor stream isolation (default: %u)</source>
+        <translation>Credenciales aleatorias para cada conexión proxy. Esto habilita el aislamiento del flujos de datos Tor (por defecto: %u)</translation>
     </message>
     <message>
         <source>Require high priority for relaying free or low-fee transactions (default:%u)</source>
@@ -4092,7 +4505,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s "Bring Alert" admin@foo.com
+for example: alertnotify=echo %%s | mail -s "BringAlert" admin@foo.com
 </source>
         <translation>Para usar bringd, o la opción -server de bring-qt, debes definir un rpcpassword en el archivo de configuración:
 %s
@@ -4103,24 +4516,24 @@ rpcrpcpassword=%s
 El nombre de usuario y contraseña NO DEBEN ser los mismos.
 Si el archivo no existe, crearlo con permisos de solo lectura para el propietario.
 También es recomendado definir alertnotify de manera que seas notificado de problemas;
-por ejemplo: alertnotify=echo %%s | mail -s "Bring Alert" admin@foo.com
+por ejemplo: alertnotify=echo %%s | mail -s "BringAlert" admin@foo.com
 </translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Bring Core is probably already running.</source>
-        <translation>Imposible conectar a %s en esta computadora. Es probable que Bring Core ya este corriendo.</translation>
+        <source>Unable to bind to %s on this computer. Bring is probably already running.</source>
+        <translation>Imposible conectar a %s en esta computadora. Es probable que Bring ya este corriendo.</translation>
     </message>
     <message>
         <source>Unable to locate enough Obfuscation denominated funds for this transaction.</source>
         <translation>Imposible localizar suficientes fondos denominados de Ofuscación para esta transacción.</translation>
     </message>
     <message>
-        <source>Unable to locate enough Obfuscation non-denominated funds for this transaction that are not equal 10000 BRG.</source>
-        <translation>Imposible localizar suficientes fondos no-denominados de Ofuscación para esta transacción que no es igual a 10000 BRG.</translation>
+        <source>Unable to locate enough Obfuscation non-denominated funds for this transaction that are not equal 10000 Bring.</source>
+        <translation>Imposible localizar suficientes fondos no-denominados de Ofuscación para esta transacción que no es igual a 10000 Bring.</translation>
     </message>
     <message>
-        <source>Unable to locate enough funds for this transaction that are not equal 10000 BRG.</source>
-        <translation>Imposible localizar fondos suficientes para esta transacción que no es igual a 10000 BRG.</translation>
+        <source>Unable to locate enough funds for this transaction that are not equal 10000 Bring.</source>
+        <translation>Imposible localizar fondos suficientes para esta transacción que no es igual a 10000 Bring.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: %s)</source>
@@ -4135,8 +4548,8 @@ por ejemplo: alertnotify=echo %%s | mail -s "Bring Alert" admin@foo.com
         <translation>Advertencia: -paytxfee esta muy alta! Esta es la comisión de transacción que pagarás si envías una transacción.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Bring Core will not work properly.</source>
-        <translation>Advertencia: Por favor verifique que la fecha y hora de su computadora sean correctas! Si su reloj esta fuera de hora Bring Core no funcionará adecuadamente.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Bring will not work properly.</source>
+        <translation>Advertencia: Por favor verifique que la fecha y hora de su computadora sean correctas! Si su reloj esta fuera de hora Bring no funcionará adecuadamente.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -4219,8 +4632,16 @@ por ejemplo: alertnotify=echo %%s | mail -s "Bring Alert" admin@foo.com
         <translation>Intentar recuperar claves privadas desde un wallet.dat dañado</translation>
     </message>
     <message>
+        <source>Automatically create Tor hidden service (default: %d)</source>
+        <translation>Crear automáticamente servicio Tor oculto (por defecto: %d)</translation>
+    </message>
+    <message>
         <source>Block creation options:</source>
         <translation>Opciones de creación de bloque:</translation>
+    </message>
+    <message>
+        <source>Calculating missing accumulators...</source>
+        <translation>Calculando acumuladores pendientes...</translation>
     </message>
     <message>
         <source>Can't denominate: no compatible inputs left.</source>
@@ -4283,8 +4704,8 @@ por ejemplo: alertnotify=echo %%s | mail -s "Bring Alert" admin@foo.com
         <translation>Copyright (C) 2014-%i The Dash Core Developers</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The Bring Core Developers</source>
-        <translation>Copyright (C) 2015-%i The Bring Core Developers</translation>
+        <source>Copyright (C) 2015-%i The Bring Developers</source>
+        <translation>Copyright (C) 2015-%i The Bring Developers</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -4301,6 +4722,10 @@ por ejemplo: alertnotify=echo %%s | mail -s "Bring Alert" admin@foo.com
     <message>
         <source>Debugging/Testing options:</source>
         <translation>Opciones de Depuración/Pruebas:</translation>
+    </message>
+    <message>
+        <source>Disable OS notifications for incoming transactions (default: %u)</source>
+        <translation>Desactivar notificaciones del sistema para transacciones extrantes (por defecto: %u)</translation>
     </message>
     <message>
         <source>Disable safemode, override a real safe mode event (default: %u)</source>
@@ -4321,6 +4746,10 @@ por ejemplo: alertnotify=echo %%s | mail -s "Bring Alert" admin@foo.com
     <message>
         <source>Done loading</source>
         <translation>Realizando carga</translation>
+    </message>
+    <message>
+        <source>Enable automatic Zerocoin minting (0-1, default: %u)</source>
+        <translation>Habilitar creación automática de Zerocoin (0-1, por defecto: %u)</translation>
     </message>
     <message>
         <source>Enable the client to act as a masternode (0-1, default: %u)</source>
@@ -4355,7 +4784,7 @@ por ejemplo: alertnotify=echo %%s | mail -s "Bring Alert" admin@foo.com
         <translation>Error al cargar wallet.dat: Billetera dañada</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Bring Core</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of Bring</source>
         <translation>Error al cargar wallet.dat: La Billetera requiere una nueva versión del Núcleo Bring</translation>
     </message>
     <message>
@@ -4407,8 +4836,8 @@ por ejemplo: alertnotify=echo %%s | mail -s "Bring Alert" admin@foo.com
         <translation>Falló al leer el bloque</translation>
     </message>
     <message>
-        <source>Fee (in BRG/kB) to add to transactions you send (default: %s)</source>
-        <translation>Comisión (en BRG/kB) para agregar a la transacción que envías (predeterminado: %s)</translation>
+        <source>Fee (in Bring/kB) to add to transactions you send (default: %s)</source>
+        <translation>Comisión (en Bring/kB) para agregar a la transacción que envías (predeterminado: %s)</translation>
     </message>
     <message>
         <source>Finalizing transaction.</source>
@@ -4467,24 +4896,28 @@ por ejemplo: alertnotify=echo %%s | mail -s "Bring Alert" admin@foo.com
         <translation>Información</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Bring Core is shutting down.</source>
-        <translation>La prueba de salud de inicialización ha fallado. Bring Core se cerrará.</translation>
+        <source>Initialization sanity check failed. Bring is shutting down.</source>
+        <translation>La prueba de salud de inicialización ha fallado. Bring se cerrará.</translation>
     </message>
     <message>
         <source>Input is not valid.</source>
         <translation>La entrada no es válida.</translation>
     </message>
     <message>
+        <source>Insufficient funds</source>
+        <translation>Fondos insuficientes</translation>
+    </message>
+    <message>
         <source>Insufficient funds.</source>
         <translation>Fondos insuficientes.</translation>
     </message>
     <message>
-        <source>Invalid -onion address: '%s'</source>
-        <translation>Dirección -onion inválida: '%s'</translation>
+        <source>Invalid -onion address or hostname: '%s'</source>
+        <translation>Dirección o nombre de equipo -onion inválido: '%s'</translation>
     </message>
     <message>
-        <source>Invalid -proxy address: '%s'</source>
-        <translation>Dirección -proxy inválida: '%s'</translation>
+        <source>Invalid -proxy address or hostname: '%s'</source>
+        <translation>Dirección o nombre de equipo -proxy inválido: '%s'</translation>
     </message>
     <message>
         <source>Invalid amount for -maxtxfee=&lt;amount&gt;: '%s'</source>
@@ -4511,6 +4944,10 @@ por ejemplo: alertnotify=echo %%s | mail -s "Bring Alert" admin@foo.com
         <translation>Importe inválido para -reservebalance=&lt;amount&gt;</translation>
     </message>
     <message>
+        <source>Invalid amount</source>
+        <translation>Cantidad incorrecta</translation>
+    </message>
+    <message>
         <source>Invalid masternodeprivkey. Please see documenation.</source>
         <translation>Valor de masternodeprivkey es inválido. Por favor ver la documentación.</translation>
     </message>
@@ -4533,6 +4970,38 @@ por ejemplo: alertnotify=echo %%s | mail -s "Bring Alert" admin@foo.com
     <message>
         <source>This is a pre-release test build - use at your own risk - do not use for staking or merchant applications!</source>
         <translation>Esto es una versión pre-release de prueba - use bajo su propia responsabilidad - ¡No lo utilice para recompensa de participación ni aplicaciones de comercio!</translation>
+    </message>
+    <message>
+        <source> mints deleted
+</source>
+        <translation>creaciones de moneda borradas
+</translation>
+    </message>
+    <message>
+        <source> mints updated, </source>
+        <translation>creaciones de moneda actualizadas,</translation>
+    </message>
+    <message>
+        <source> unconfirmed transactions removed
+</source>
+        <translation>transacciones sin confirmar eliminadas
+</translation>
+    </message>
+    <message>
+        <source>Error: The transaction was rejected! This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
+        <translation>¡La transacción fue rechazada! Esto puede ocurrir si alguna de sus monedas ya se gastó con anterioridad, por ejemplo, si estuvo usted usando una copia de su monedero wallet.dat y gastó allí monedas pero no las marcó como gastadas aquí.</translation>
+    </message>
+    <message>
+        <source>Error: This transaction requires a transaction fee of at least %s because of its amount, complexity, or use of recently received funds!</source>
+        <translation>Error: ¡Esta transacción requiere una tasa de al menos %s debido a la cantidad enviada, su complejidad, o el uso de fondos recibidos recientemente!</translation>
+    </message>
+    <message>
+        <source>Error: Unsupported argument -checklevel found. Checklevel must be level 4.</source>
+        <translation>Error: Se ha especificado un argumento no soportado -checklevel. El Checklevel debe ser siempre 4. </translation>
+    </message>
+    <message>
+        <source>Preferred Denomination for automatically minted Zerocoin  (1/5/10/50/100/500/1000/5000), 0 for no preference. default: %u)</source>
+        <translation>Tamaño de Billete Zerocoin Preferido para los Zerocoin creados automáticamente (1/5/10/50/100/500/1000/5000), poner 0 si no tiene preferencias. Por defecto: %u) </translation>
     </message>
     <message>
         <source>&lt;category&gt; can be:</source>
@@ -4579,10 +5048,6 @@ por ejemplo: alertnotify=echo %%s | mail -s "Bring Alert" admin@foo.com
         <translation>Activar funcionalidad de recompensa por participación (0-1, por defecto: %u)</translation>
     </message>
     <message>
-        <source>Keep N BRG anonymized (default: %u)</source>
-        <translation>Mantener N BRG anonimizados (predeterminado: %u)</translation>
-    </message>
-    <message>
         <source>Keep at most &lt;n&gt; unconnectable transactions in memory (default: %u)</source>
         <translation>Mantener como máximo &lt;n&gt; transacciones no conectables en memoria (predeterminado: %u)</translation>
     </message>
@@ -4593,6 +5058,10 @@ por ejemplo: alertnotify=echo %%s | mail -s "Bring Alert" admin@foo.com
     <message>
         <source>Last successful Obfuscation action was too recent.</source>
         <translation>La última acción de Ofuscación exitosa fue demasiado reciente.</translation>
+    </message>
+    <message>
+        <source>Less than 3 mints added, unable to create spend</source>
+        <translation>Menos de 3 creaciones de moneda añadidas, no podemos generar pago</translation>
     </message>
     <message>
         <source>Limit size of signature cache to &lt;n&gt; entries (default: %u)</source>
@@ -4629,6 +5098,10 @@ por ejemplo: alertnotify=echo %%s | mail -s "Bring Alert" admin@foo.com
     <message>
         <source>Loading masternode payment cache...</source>
         <translation>Cargando cache de pagos de nodos maestros</translation>
+    </message>
+    <message>
+        <source>Loading sporks...</source>
+        <translation>Cargando sporks...</translation>
     </message>
     <message>
         <source>Loading wallet... (%3.2f %%)</source>
@@ -4696,7 +5169,7 @@ por ejemplo: alertnotify=echo %%s | mail -s "Bring Alert" admin@foo.com
     </message>
     <message>
         <source>No matching denominations found for mixing.</source>
-        <translation>No hay denominaciones emparejadas encontradas para mezclado.</translation>
+        <translation>No hemos encontrado billetes coincidentes para mezclado.</translation>
     </message>
     <message>
         <source>Node relay options:</source>
@@ -4727,10 +5200,6 @@ por ejemplo: alertnotify=echo %%s | mail -s "Bring Alert" admin@foo.com
         <translation>La Ofuscación está sin uso.</translation>
     </message>
     <message>
-        <source>Obfuscation options:</source>
-        <translation>Opciones de Ofuscacion:</translation>
-    </message>
-    <message>
         <source>Obfuscation request complete:</source>
         <translation>Pedido de Ofuscacion completado:</translation>
     </message>
@@ -4753,6 +5222,10 @@ por ejemplo: alertnotify=echo %%s | mail -s "Bring Alert" admin@foo.com
     <message>
         <source>Password for JSON-RPC connections</source>
         <translation>Contraseña para conexiones JSON-RPC</translation>
+    </message>
+    <message>
+        <source>Percentage of automatically minted Zerocoin  (10-100, default: %u)</source>
+        <translation>Porcentaje de Zerocoin creadas automáticamente (10-100, por defecto: %u)</translation>
     </message>
     <message>
         <source>Prepend debug output with timestamp (default: %u)</source>
@@ -4805,6 +5278,14 @@ por ejemplo: alertnotify=echo %%s | mail -s "Bring Alert" admin@foo.com
     <message>
         <source>Rescanning...</source>
         <translation>Reescaneado...</translation>
+    </message>
+    <message>
+        <source>ResetMintZerocoin finished: </source>
+        <translation>ResetMintZerocoin finalizado:</translation>
+    </message>
+    <message>
+        <source>ResetSpentZerocoin finished: </source>
+        <translation>ResetSpentZerocoin finalizado:</translation>
     </message>
     <message>
         <source>Run a thread to flush wallet periodically (default: %u)</source>
@@ -4991,6 +5472,14 @@ por ejemplo: alertnotify=echo %%s | mail -s "Bring Alert" admin@foo.com
         <translation>Limite para desconexión de peers de mal desempeño (predeterminado: %u)</translation>
     </message>
     <message>
+        <source>Tor control port password (default: empty)</source>
+        <translation>Contraseña del puerto de control Tor (por defecto: vacío)</translation>
+    </message>
+    <message>
+        <source>Tor control port to use if onion listening enabled (default: %s)</source>
+        <translation>Puerto de control Tor a utilizar si está activada la escucha Onion (por defecto: %s)</translation>
+    </message>
+    <message>
         <source>Transaction amount too small</source>
         <translation>El monto de la transacción es demasiado pequeño</translation>
     </message>
@@ -5043,10 +5532,6 @@ por ejemplo: alertnotify=echo %%s | mail -s "Bring Alert" admin@foo.com
         <translation>Actualizar el monedero al formato ultimo</translation>
     </message>
     <message>
-        <source>Use N separate masternodes to anonymize funds  (2-8, default: %u)</source>
-        <translation>Utilizar N nodos maestros distintos para anonimizar fondos (2-8, predeterminado: %u)</translation>
-    </message>
-    <message>
         <source>Use OpenSSL (https) for JSON-RPC connections</source>
         <translation>Usar OpenSSL (https) para conexiones JSON-RPC</translation>
     </message>
@@ -5087,8 +5572,8 @@ por ejemplo: alertnotify=echo %%s | mail -s "Bring Alert" admin@foo.com
         <translation>Monedero bloqueado.</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Bring Core to complete</source>
-        <translation>Monedero necesita ser reescrito: reinicie Bring Core para completar</translation>
+        <source>Wallet needed to be rewritten: restart Bring to complete</source>
+        <translation>Monedero necesita ser reescrito: reinicie Bring para completar</translation>
     </message>
     <message>
         <source>Wallet options:</source>
@@ -5137,6 +5622,14 @@ por ejemplo: alertnotify=echo %%s | mail -s "Bring Alert" admin@foo.com
     <message>
         <source>ZeroMQ notification options:</source>
         <translation>Opciones de notificación ZeroMQ:</translation>
+    </message>
+    <message>
+        <source>Zerocoin options:</source>
+        <translation>Opciones Zerocoin:</translation>
+    </message>
+    <message>
+        <source>failed to validate zerocoin</source>
+        <translation>fallo al validar zerocoin</translation>
     </message>
     <message>
         <source>on startup</source>

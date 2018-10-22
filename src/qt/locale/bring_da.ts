@@ -7,7 +7,7 @@
     </message>
     <message>
         <source>Create a new address</source>
-        <translation>Ny adresse</translation>
+        <translation>opret ny adresse</translation>
     </message>
     <message>
         <source>&amp;New</source>
@@ -62,11 +62,11 @@
         <translation>Modtageradresse</translation>
     </message>
     <message>
-        <source>These are your Bring addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your Bringaddresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>Dine adresser til at sende betalinger med. Kontroller altid både beløb og modtageradresse før afsendelse.</translation>
     </message>
     <message>
-        <source>These are your Bring addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your Bringaddresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation>Dette er dine modtager adresser. Det anbefales at anvende en ny adresse til hver transaktion</translation>
     </message>
     <message>
@@ -176,16 +176,16 @@
         <translation>Bekræft, og tegnebogen krypteres.</translation>
     </message>
     <message>
-        <source>Bring will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your LPCs from being stolen by malware infecting your computer.</source>
-        <translation>Bring vil lukke ned for at færdiggøre kryptograferingsprocesserne. Husk at kryptering alene ikke sikrer mod tyveri af mønterne fra malware eller virus på computeren.</translation>
+        <source>Bringwill close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Brings from being stolen by malware infecting your computer.</source>
+        <translation>Bringvil lukke ned for at færdiggøre kryptograferingsprocesserne. Husk at kryptering alene ikke sikrer mod tyveri af mønterne fra malware eller virus på computeren.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Er du sikker på, at du vil kryptere din tegnebog?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BRG&lt;/b&gt;!</source>
-        <translation>Advarsel! Hvis du krypterer din tegnebog og mister dit password vil du &lt;b&gt;MISTE ALLE DINE BRG&lt;/b&gt;. Passworded kan ikke genskabes.</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR Bring&lt;/b&gt;!</source>
+        <translation>Advarsel! Hvis du krypterer din tegnebog og mister dit password vil du &lt;b&gt;MISTE ALLE DINE Bring&lt;/b&gt;. Passworded kan ikke genskabes.</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -239,16 +239,16 @@
         <translation>BIP 38 kryptografering</translation>
     </message>
     <message>
-        <source>Enter a Bring Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Indtast den Bring adresse De ønsker at kryptografere ved hjælp af BIP 38. Indtast et kodeord i den midterste boks. Klik på krypter for at generere den kryptograferede private nøgle.</translation>
+        <source>Enter a BringAddress that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Indtast den Bringadresse De ønsker at kryptografere ved hjælp af BIP 38. Indtast et kodeord i den midterste boks. Klik på krypter for at generere den kryptograferede private nøgle.</translation>
     </message>
     <message>
         <source>Address:</source>
         <translation>Adresse</translation>
     </message>
     <message>
-        <source>The Bring address to sign the message with</source>
-        <translation>Den Bring adresse, der skal bruges til at underskrive beskeden med.</translation>
+        <source>The Bringaddress to sign the message with</source>
+        <translation>Den Bringadresse, der skal bruges til at underskrive beskeden med.</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -279,8 +279,8 @@
         <translation>Kopier den aktuelle underskrift til udklipsholderen.</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Bring address</source>
-        <translation>Underskriv beskeden for at bevise, at De ejer denne Bring adresse.</translation>
+        <source>Sign the message to prove you own this Bringaddress</source>
+        <translation>Underskriv beskeden for at bevise, at De ejer denne Bringadresse.</translation>
     </message>
     <message>
         <source>Encrypt &amp;Key</source>
@@ -303,12 +303,12 @@
         <translation>Indtast den krypterede BIP 38 nøgle. Indtast kodeordet i den midterste boks. Klik på dekryptér for at generere den private nøgle. Når nøglen er dekrypteret vil klip på "importér adresse" overføre den private nøgle til tegnebogen.</translation>
     </message>
     <message>
-        <source>The Bring address the message was signed with</source>
-        <translation>Beskeden er underskrevet med denne Bring adresse</translation>
+        <source>The Bringaddress the message was signed with</source>
+        <translation>Beskeden er underskrevet med denne Bringadresse</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Bring address</source>
-        <translation>verificer beskeden for at sikre, at den blev underskrevet med den rigtige Bring adresse.</translation>
+        <source>Verify the message to ensure it was signed with the specified Bringaddress</source>
+        <translation>verificer beskeden for at sikre, at den blev underskrevet med den rigtige Bringadresse.</translation>
     </message>
     <message>
         <source>Decrypt &amp;Key</source>
@@ -598,16 +598,16 @@
         <translation>Værktøjslinier</translation>
     </message>
     <message>
-        <source>Bring Core</source>
-        <translation>Bring kerne</translation>
+        <source>Bring</source>
+        <translation>Bringkerne</translation>
     </message>
     <message>
-        <source>Send coins to a Bring address</source>
-        <translation>Send mønter til en Bring adresse</translation>
+        <source>Send coins to a Bringaddress</source>
+        <translation>Send mønter til en Bringadresse</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and bring: URIs)</source>
-        <translation>Anmod om betaling (genrerer QR kode og Bring URL)</translation>
+        <translation>Anmod om betaling (genrerer QR kode og BringURL)</translation>
     </message>
     <message>
         <source>&amp;Masternodes</source>
@@ -618,24 +618,24 @@
         <translation>Vis masternoder</translation>
     </message>
     <message>
-        <source>&amp;About Bring Core</source>
-        <translation>&amp;Om Bring kerne</translation>
+        <source>&amp;About Bring</source>
+        <translation>&amp;Om Bringkerne</translation>
     </message>
     <message>
-        <source>Show information about Bring Core</source>
-        <translation>Vis information om Bring kerne</translation>
+        <source>Show information about Bring</source>
+        <translation>Vis information om Bringkerne</translation>
     </message>
     <message>
         <source>Modify configuration options for Bring</source>
         <translation>Ret konfigurationsindstillinger for Bring</translation>
     </message>
     <message>
-        <source>Sign messages with your Bring addresses to prove you own them</source>
-        <translation>Underskriv beskeder med Deres Bring adresser for at bekræfte at De ejer dem.</translation>
+        <source>Sign messages with your Bringaddresses to prove you own them</source>
+        <translation>Underskriv beskeder med Deres Bringadresser for at bekræfte at De ejer dem.</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Bring addresses</source>
-        <translation>Verificer besked for at sikre, at den er underskrevet med den opgivne Bring adresse</translation>
+        <source>Verify messages to ensure they were signed with specified Bringaddresses</source>
+        <translation>Verificer besked for at sikre, at den er underskrevet med den opgivne Bringadresse</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -667,7 +667,7 @@
     </message>
     <message>
         <source>Open a Bring: URI or payment request</source>
-        <translation>Åbn en Bring URl eller betalingsanmodning</translation>
+        <translation>Åbn en BringURl eller betalingsanmodning</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -678,12 +678,12 @@
         <translation>Blockexplorer vindue</translation>
     </message>
     <message>
-        <source>Show the Bring Core help message to get a list with possible Bring command-line options</source>
-        <translation>Vis hjelpetekster fra Bring kernen for at få en liste med mulige Bring kommandolinie-startparametre</translation>
+        <source>Show the Bring help message to get a list with possible Bringcommand-line options</source>
+        <translation>Vis hjelpetekster fra Bringkernen for at få en liste med mulige Bringkommandolinie-startparametre</translation>
     </message>
     <message>
-        <source>Bring Core client</source>
-        <translation>Bring kerneklient</translation>
+        <source>Bring client</source>
+        <translation>Bringkerneklient</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -820,10 +820,6 @@ Adresse: %4
 <context>
     <name>ClientModel</name>
     <message>
-        <source>Total: %1 (OBF compatible: %2 / Enabled: %3)</source>
-        <translation>I alt: %1 (OBF kompatible: %2 / Aktiverede: %3)</translation>
-    </message>
-    <message>
         <source>Network Alert</source>
         <translation>Netværksalarm!</translation>
     </message>
@@ -899,10 +895,6 @@ Adresse: %4
         <translation>Modtaget med adresse</translation>
     </message>
     <message>
-        <source>DS Rounds</source>
-        <translation>DS gennemløb</translation>
-    </message>
-    <message>
         <source>Date</source>
         <translation>Dato</translation>
     </message>
@@ -975,10 +967,6 @@ Adresse: %4
         <translation>Skift til "listeformat" for at benytte denne funktion</translation>
     </message>
     <message>
-        <source>Non-anonymized input selected. &lt;b&gt;Obfuscation will be disabled.&lt;/b&gt;&lt;br&gt;&lt;br&gt;If you still want to use Obfuscation, please deselect all non-nonymized inputs first and then check Obfuscation checkbox again.</source>
-        <translation>Ikke anonymiseret indhold valgt.&lt;b&gt;tilsløring vil være slået fra.&lt;/b&gt;&lt;br&gt;&lt;br&gt;Hvis De ønsker at anvende tilsløring skal De fravælge alt ikke anonymiseret indhold først, derefter afmærke boksen for tilsløring igen.</translation>
-    </message>
-    <message>
         <source>highest</source>
         <translation>højeste</translation>
     </message>
@@ -997,10 +985,6 @@ Adresse: %4
     <message>
         <source>Can vary +/- %1 duff(s) per input.</source>
         <translation>kan variere +/- %1 duff(s) pr. input</translation>
-    </message>
-    <message>
-        <source>n/a</source>
-        <translation>Ikke tilgængelig</translation>
     </message>
     <message>
         <source>medium</source>
@@ -1114,8 +1098,8 @@ Adresse: %4
         <translation>Ret afsenderadresse</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Bring address.</source>
-        <translation>Den indtastede adresse %1 er ikke en gyldig Bring adresse</translation>
+        <source>The entered address "%1" is not a valid Bringaddress.</source>
+        <translation>Den indtastede adresse %1 er ikke en gyldig Bringadresse</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1160,16 +1144,16 @@ Adresse: %4
         <translation>version</translation>
     </message>
     <message>
-        <source>Bring Core</source>
-        <translation>Bring kerne</translation>
+        <source>Bring</source>
+        <translation>Bringkerne</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Bring Core</source>
-        <translation>om Bring kerne</translation>
+        <source>About Bring</source>
+        <translation>om Bringkerne</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1215,16 +1199,16 @@ Adresse: %4
         <translation>Velkommen</translation>
     </message>
     <message>
-        <source>Welcome to Bring Core.</source>
-        <translation>Velkommen til Bring kerne</translation>
+        <source>Welcome to Bring.</source>
+        <translation>Velkommen til Bringkerne</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Bring Core will store its data.</source>
-        <translation>Da det er første gang programmet startes, kan De vælge hvor Bring kernen skal lagre sine data</translation>
+        <source>As this is the first time the program is launched, you can choose where Bring will store its data.</source>
+        <translation>Da det er første gang programmet startes, kan De vælge hvor Bringkernen skal lagre sine data</translation>
     </message>
     <message>
-        <source>Bring Core will download and store a copy of the Bring block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Bring kernen vil nu hente og gemme en kopi af Bring blockchain. Der skal være mindst %1GB ledigt på lagermediet, og behovet vil stige efterhånden som tiden går. Selve tegnebogen vil også blive gemt her.</translation>
+        <source>Bring will download and store a copy of the Bringblock chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Bringkernen vil nu hente og gemme en kopi af Bringblockchain. Der skal være mindst %1GB ledigt på lagermediet, og behovet vil stige efterhånden som tiden går. Selve tegnebogen vil også blive gemt her.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1235,8 +1219,8 @@ Adresse: %4
         <translation>Anvend en mappe valgt af brugeren</translation>
     </message>
     <message>
-        <source>Bring Core</source>
-        <translation>Bring kerne</translation>
+        <source>Bring</source>
+        <translation>Bringkerne</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1377,12 +1361,12 @@ Adresse: %4
         <translation>Indtast modtageradresse</translation>
     </message>
     <message>
-        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other Bring addresses after it matures.
-To Add: enter percentage to give and Bring address to add to the MultiSend vector.
+        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other Bringaddresses after it matures.
+To Add: enter percentage to give and Bringaddress to add to the MultiSend vector.
 To Delete: Enter address to delete and press delete.
 MultiSend will not be activated unless you have clicked Activate</source>
-        <translation>Multisend tillader at De automatisk kan sende op til 100% af Deres belønninger fra såvel indskud som masternodebelønninger til en liste over andre Bring adressater når den er tilstrækkelig stor. 
-For at tilføje: Indtast procentsatsen De ønsker at overføre samt den Bring adresse som skal modtage via Multisendsystemet. 
+        <translation>Multisend tillader at De automatisk kan sende op til 100% af Deres belønninger fra såvel indskud som masternodebelønninger til en liste over andre Bringadressater når den er tilstrækkelig stor. 
+For at tilføje: Indtast procentsatsen De ønsker at overføre samt den Bringadresse som skal modtage via Multisendsystemet. 
 For at fjerne: Indtast adressen som skal slettes og klik på slet. 
 Multisend vil ikke fungere med mindre systemet er aktiveret.</translation>
     </message>
@@ -1520,32 +1504,32 @@ Kontroller adressen og prøv igen.</translation>
         <translation>Vælg tilsløringsniveau</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 10000 BRG</source>
-        <translation>Brug 2 separate masternoder for at tilsløre beløb op til 10000 BRG</translation>
+        <source>Use 2 separate masternodes to mix funds up to 10000 Bring</source>
+        <translation>Brug 2 separate masternoder for at tilsløre beløb op til 10000 Bring</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 10000 BRG</source>
-        <translation>Brug 8 separate masternoder for at tilsløre op til 10000 BRG</translation>
+        <source>Use 8 separate masternodes to mix funds up to 10000 Bring</source>
+        <translation>Brug 8 separate masternoder for at tilsløre op til 10000 Bring</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
         <translation>Brug 16 separate masternoder</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 BRG to anonymize 10000 BRG</source>
-        <translation>Dette valg er det hurtigste og vil koste i omegnen af 0.025 BRG for at anonymiser 10000 BRG</translation>
+        <source>This option is the quickest and will cost about ~0.025 Bringto anonymize 10000 Bring</source>
+        <translation>Dette valg er det hurtigste og vil koste i omegnen af 0.025 Bringfor at anonymiser 10000 Bring</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 BRG to anonymize 10000 BRG</source>
-        <translation>Dette valg er relativt hurtigt og vil koste i omegnen af 0.05 BRG for at anonymiser 10000 BRG</translation>
+        <source>This option is moderately fast and will cost about 0.05 Bringto anonymize 10000 Bring</source>
+        <translation>Dette valg er relativt hurtigt og vil koste i omegnen af 0.05 Bringfor at anonymiser 10000 Bring</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
         <translation>Denne mulighed er den langsomste og det mest sikre valg. Valg af maksimal tilsløring vil koste</translation>
     </message>
     <message>
-        <source>0.1 BRG per 10000 BRG you anonymize.</source>
-        <translation>0.1 pr 10000 BRG for at tilsløre.</translation>
+        <source>0.1 Bringper 10000 Bringyou anonymize.</source>
+        <translation>0.1 pr 10000 Bringfor at tilsløre.</translation>
     </message>
     <message>
         <source>Obfuscation Configuration</source>
@@ -1553,15 +1537,15 @@ Kontroller adressen og prøv igen.</translation>
     </message>
     <message>
         <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Bring's configuration screen.</source>
-        <translation>Tilsløring blev sat til grundlæggende (%1 og 2 gennemløb) De kan ændre dette hvornår De vil ved at åbne Bring konfigurationsbillede.</translation>
+        <translation>Tilsløring blev sat til grundlæggende (%1 og 2 gennemløb) De kan ændre dette hvornår De vil ved at åbne Bringkonfigurationsbillede.</translation>
     </message>
     <message>
         <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Bring's configuration screen.</source>
-        <translation>Tilsløring blev sat til høj (%1 og 8 gennemløb) De kan ændre dette hvornår De vil ved at åbne Bring konfigurationsbillede.</translation>
+        <translation>Tilsløring blev sat til høj (%1 og 8 gennemløb) De kan ændre dette hvornår De vil ved at åbne Bringkonfigurationsbillede.</translation>
     </message>
     <message>
         <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Bring's configuration screen.</source>
-        <translation>Tilsløring blev sat til maksimum (%1 og 16 gennemløb) De kan ændre dette hvornår De vil ved at åbne Bring konfigurationsbillede.</translation>
+        <translation>Tilsløring blev sat til maksimum (%1 og 16 gennemløb) De kan ændre dette hvornår De vil ved at åbne Bringkonfigurationsbillede.</translation>
     </message>
 </context>
 <context>
@@ -1622,8 +1606,8 @@ Kontroller adressen og prøv igen.</translation>
         <translation>Hvis De slår "brug af ubekræftede penge tilbage" vil penge tilbage &lt;br/&gt; ikke kunne benyttes før transaktionen er bekræftet mindst en gang. &lt;br/&gt;Dette har også indflydelse på opgørelsen af saldoen.</translation>
     </message>
     <message>
-        <source>Automatically open the Bring client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Åbn Bring klientporten på ruteren automatisk. Virker kun hvis UPnP er slået til i ruteren. </translation>
+        <source>Automatically open the Bringclient port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Åbn Bringklientporten på ruteren automatisk. Virker kun hvis UPnP er slået til i ruteren. </translation>
     </message>
     <message>
         <source>Accept connections from outside</source>
@@ -1642,28 +1626,12 @@ Kontroller adressen og prøv igen.</translation>
         <translation>Ekspert</translation>
     </message>
     <message>
-        <source>Automatically start Bring after logging in to the system.</source>
-        <translation>Start Bring automatisk, når der logges på systemet</translation>
+        <source>Automatically start Bringafter logging in to the system.</source>
+        <translation>Start Bringautomatisk, når der logges på systemet</translation>
     </message>
     <message>
-        <source>&amp;Start Bring on system login</source>
-        <translation>&amp;start Bring når der logges på systemet</translation>
-    </message>
-    <message>
-        <source>This setting determines the amount of individual masternodes that an input will be anonymized through.&lt;br/&gt;More rounds of anonymization gives a higher degree of privacy, but also costs more in fees.</source>
-        <translation>Denne indstilling bestemmer antallet af individuelle masternoder hvorgennem der tilsløres et input. &lt;br/&gt;Jo flere gennemløb der udføres, jo højere grad af tilsløring, og jo højere gebyrer.</translation>
-    </message>
-    <message>
-        <source>Obfuscation rounds to use</source>
-        <translation>Antal gennemløb der skal benyttes </translation>
-    </message>
-    <message>
-        <source>This amount acts as a threshold to turn off Obfuscation once it's reached.</source>
-        <translation>når dette antal er nået slås tilsløringsfunktonen fra. </translation>
-    </message>
-    <message>
-        <source>Amount of Bring to keep anonymized</source>
-        <translation>Antallet af Bring som skal holdes tilslørede</translation>
+        <source>&amp;Start Bringon system login</source>
+        <translation>&amp;start Bringnår der logges på systemet</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1691,7 +1659,7 @@ Kontroller adressen og prøv igen.</translation>
     </message>
     <message>
         <source>The user interface language can be set here. This setting will take effect after restarting Bring.</source>
-        <translation>Vælg sprog her. Ændringerne træder i kraft næste gang Bring klienten startes</translation>
+        <translation>Vælg sprog her. Ændringerne træder i kraft næste gang Bringklienten startes</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
@@ -1704,8 +1672,8 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
         <translation>MAP port ved hjælp af UPnP</translation>
     </message>
     <message>
-        <source>Connect to the Bring network through a SOCKS5 proxy.</source>
-        <translation>Tilslut Bring netværket gennem en SOCKS5 PROXY</translation>
+        <source>Connect to the Bringnetwork through a SOCKS5 proxy.</source>
+        <translation>Tilslut Bringnetværket gennem en SOCKS5 PROXY</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -1855,12 +1823,8 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
         <translation>Indskyder- eller masternodebelønning er stadig under behandling</translation>
     </message>
     <message>
-        <source>Balances</source>
-        <translation>Saldi</translation>
-    </message>
-    <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bring network after a connection is established, but this process has not completed yet.</source>
-        <translation>De viste informationer kan være uddaterede. Deres tegnebog synkronisere automatism med Bring netværket så snart en forbindelse er etalbleret, men denne proces er ikke færdiggjort endnu. </translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bringnetwork after a connection is established, but this process has not completed yet.</source>
+        <translation>De viste informationer kan være uddaterede. Deres tegnebog synkronisere automatism med Bringnetværket så snart en forbindelse er etalbleret, men denne proces er ikke færdiggjort endnu. </translation>
     </message>
     <message>
         <source>Unconfirmed transactions to watch-only addresses</source>
@@ -1895,145 +1859,12 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
         <translation>Brugbare:</translation>
     </message>
     <message>
-        <source>Status:</source>
-        <translation>Status</translation>
-    </message>
-    <message>
-        <source>Obfuscation Balance:</source>
-        <translation>Sløret beløb</translation>
-    </message>
-    <message>
-        <source>0 BRG / 0 Rounds</source>
-        <translation>0 BRG / 0 gennemløb</translation>
-    </message>
-    <message>
-        <source>Enabled/Disabled</source>
-        <translation>Startet/Stoppet</translation>
-    </message>
-    <message>
-        <source>Try to manually submit a Obfuscation request.</source>
-        <translation>Prøv at send en manuel tilsløringsanmodning.</translation>
-    </message>
-    <message>
-        <source>Reset the current status of Obfuscation (can interrupt Obfuscation if it's in the process of Mixing, which can cost you money!)</source>
-        <translation>Nulstil den aktuelle status for tilsløringsfunktionen. (Kan forstyrre processen, hvilket kan koste mønter).</translation>
-    </message>
-    <message>
-        <source>Obfuscation</source>
-        <translation>Tilsløring</translation>
-    </message>
-    <message>
-        <source>Completion:</source>
-        <translation>Færdiggørelse:</translation>
-    </message>
-    <message>
-        <source>Amount and Rounds:</source>
-        <translation>Beløb og gennemløb</translation>
-    </message>
-    <message>
-        <source>Submitted Denom:</source>
-        <translation>Afsendte midler</translation>
-    </message>
-    <message>
-        <source>n/a</source>
-        <translation>Ikke tilgængelig</translation>
-    </message>
-    <message>
         <source>Recent transactions</source>
         <translation>Nylige transaktioner</translation>
     </message>
     <message>
-        <source>Start/Stop Mixing</source>
-        <translation>Start/Stop tilsløring</translation>
-    </message>
-    <message>
-        <source>The denominations you submitted to the Masternode.&lt;br&gt;To mix, other users must submit the exact same denominations.</source>
-        <translation>Designerede midler afsendt til masternoden. &lt;br&gt;For at gennemføre tilsløringen må andre brugere afsende tilsvarende designerede midler.</translation>
-    </message>
-    <message>
-        <source>(Last Message)</source>
-        <translation>(seneste besked)</translation>
-    </message>
-    <message>
-        <source>Try Mix</source>
-        <translation>Prøv at usynliggøre</translation>
-    </message>
-    <message>
-        <source>Reset</source>
-        <translation>Nulstil</translation>
-    </message>
-    <message>
         <source>out of sync</source>
         <translation>Ude af synk</translation>
-    </message>
-    <message>
-        <source>Disabled</source>
-        <translation>slået fra</translation>
-    </message>
-    <message>
-        <source>No inputs detected</source>
-        <translation>Ingen inputs valgt</translation>
-    </message>
-    <message>
-        <source>Not enough compatible inputs to anonymize &lt;span style='color:red;'&gt;%1&lt;/span&gt;,&lt;br&gt;will anonymize &lt;span style='color:red;'&gt;%2&lt;/span&gt; instead</source>
-        <translation>Der er ikke tilstrækkelige kompatible inputs tilgængelige for tilsløring &lt;span style='color:red;'&gt;%1&lt;/span&gt;,&lt;br&gt;vil tilsløre &lt;span style='color:red;'&gt;%2&lt;/span&gt; i stedet</translation>
-    </message>
-    <message>
-        <source>Overall progress</source>
-        <translation>Samlet status</translation>
-    </message>
-    <message>
-        <source>Denominated</source>
-        <translation>Designerede</translation>
-    </message>
-    <message>
-        <source>Anonymized</source>
-        <translation>Tilsløret</translation>
-    </message>
-    <message>
-        <source>Last Obfuscation message:
-</source>
-        <translation>Seneste besked fra tilsløringsprocessen</translation>
-    </message>
-    <message>
-        <source>Obfuscation was successfully reset.</source>
-        <translation>Tilsløringsfunktionen blev nulstillet </translation>
-    </message>
-    <message>
-        <source>If you don't want to see internal Obfuscation fees/transactions select "Most Common" as Type on the "Transactions" tab.</source>
-        <translation>Hvis de ikke ønsker at se de interne tilsløringsgebyrer og transaktioner, skal De vælge "Mest fremherskende" som type i transaktionsmenuen.</translation>
-    </message>
-    <message>
-        <source>Obfuscation requires at least %1 to use.</source>
-        <translation>Tilsløring kræver mindst %1 for at kunne anvendes </translation>
-    </message>
-    <message>
-        <source>Wallet is locked and user declined to unlock. Disabling Obfuscation.</source>
-        <translation>Tegnebogen er låst, brugeren har afvist at låse den op. Tilsløring slås fra.</translation>
-    </message>
-    <message>
-        <source>Found enough compatible inputs to anonymize %1</source>
-        <translation>Der er fundet nok kompatible inputs for tilsløring af %1</translation>
-    </message>
-    <message>
-        <source>Start Obfuscation</source>
-        <translation>Start tilsløring</translation>
-    </message>
-    <message>
-        <source>Stop Obfuscation</source>
-        <translation>stop tilsløring</translation>
-    </message>
-    <message>
-        <source>Mixed</source>
-        <translation>Tilsløret</translation>
-    </message>
-    <message>
-        <source>Enabled</source>
-        <translation>Slået til</translation>
-    </message>
-    <message>
-        <source>N/A</source>
-        <translation>Ikke tilgængelig</translation>
     </message>
 </context>
 <context>
@@ -2060,10 +1891,10 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
     </message>
     <message>
         <source>Cannot start bring: click-to-pay handler</source>
-        <translation>Kan ikke starte Bring "klik for at betale" systemet</translation>
+        <translation>Kan ikke starte Bring"klik for at betale" systemet</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Bring address or malformed URI parameters.</source>
+        <source>URI cannot be parsed! This can be caused by an invalid Bringaddress or malformed URI parameters.</source>
         <translation>URl kan ikke fortolkes! Det kan skyldes en ugyldig adresse, eller forkerte URl parametre.</translation>
     </message>
     <message>
@@ -2143,14 +1974,129 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
     </message>
 </context>
 <context>
+    <name>PrivacyDialog</name>
+    <message>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bringnetwork after a connection is established, but this process has not completed yet.</source>
+        <translation>De viste informationer kan være uddaterede. Deres tegnebog synkronisere automatism med Bringnetværket så snart en forbindelse er etalbleret, men denne proces er ikke færdiggjort endnu. </translation>
+    </message>
+    <message>
+        <source>0</source>
+        <translation>0</translation>
+    </message>
+    <message>
+        <source>Reset</source>
+        <translation>Nulstil</translation>
+    </message>
+    <message>
+        <source>Quantity:</source>
+        <translation>Antal:</translation>
+    </message>
+    <message>
+        <source>Amount:</source>
+        <translation>Beløb</translation>
+    </message>
+    <message>
+        <source>Pay &amp;To:</source>
+        <translation>Betal &amp;Til</translation>
+    </message>
+    <message>
+        <source>Choose previously used address</source>
+        <translation>Benyt en tidligere anvendt adresse.</translation>
+    </message>
+    <message>
+        <source>Alt+A</source>
+        <translation>Alt+A</translation>
+    </message>
+    <message>
+        <source>Paste address from clipboard</source>
+        <translation>Indsæt adresse fra udklipsholderen.</translation>
+    </message>
+    <message>
+        <source>Alt+P</source>
+        <translation>Alt+P</translation>
+    </message>
+    <message>
+        <source>&amp;Label:</source>
+        <translation>&amp;Mærkning</translation>
+    </message>
+    <message>
+        <source>Enter a label for this address to add it to the list of used addresses</source>
+        <translation>Indtast et mærke til denne adresse for at tilføje den til listen over brugte adresser</translation>
+    </message>
+    <message>
+        <source>A&amp;mount:</source>
+        <translation>A&amp;mount</translation>
+    </message>
+    <message>
+        <source>Priority:</source>
+        <translation>Prioritet:</translation>
+    </message>
+    <message>
+        <source>Fee:</source>
+        <translation>Gebyr:</translation>
+    </message>
+    <message>
+        <source>Dust:</source>
+        <translation>Affald:</translation>
+    </message>
+    <message>
+        <source>no</source>
+        <translation>nej</translation>
+    </message>
+    <message>
+        <source>Bytes:</source>
+        <translation>Bytes:</translation>
+    </message>
+    <message>
+        <source>Insufficient funds!</source>
+        <translation>Saldo for lille!</translation>
+    </message>
+    <message>
+        <source>medium</source>
+        <translation>Middel</translation>
+    </message>
+    <message>
+        <source>Coin Control Features</source>
+        <translation>Møntkontrol, features</translation>
+    </message>
+    <message>
+        <source>If this is activated, but the change address is empty or invalid, change will be sent to a newly generated address.</source>
+        <translation>Hvis denne er aktiveret, men tilbagebetalingsadressen er tom, eller ugyldig, overskydende beløb vil blive fremsendt til en nyoprettet adresse</translation>
+    </message>
+    <message>
+        <source>Custom change address</source>
+        <translation>Brugerdefineret tilbagebetalingsadresse</translation>
+    </message>
+    <message>
+        <source>Change:</source>
+        <translation>Penge tilbage:</translation>
+    </message>
+    <message>
+        <source>out of sync</source>
+        <translation>Ude af synk</translation>
+    </message>
+    <message>
+        <source>Copy quantity</source>
+        <translation>Kopiér antal</translation>
+    </message>
+    <message>
+        <source>Copy amount</source>
+        <translation>Kopiér beløb</translation>
+    </message>
+    <message>
+        <source>Confirm send coins</source>
+        <translation>Bekræft at De vil sende mønter</translation>
+    </message>
+    </context>
+<context>
     <name>QObject</name>
     <message>
         <source>Amount</source>
         <translation>Beløb</translation>
     </message>
     <message>
-        <source>Enter a Bring address (e.g. %1)</source>
-        <translation>Indtast en Bring adresse (F.eks. %1)</translation>
+        <source>Enter a Bringaddress (e.g. %1)</source>
+        <translation>Indtast en Bringadresse (F.eks. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -2283,8 +2229,8 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
         <translation>Block chain</translation>
     </message>
     <message>
-        <source>Open the Bring debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Åbn Bring debug logfilen fra den aktuelle datamappe. Det kan godt tage lidt tid hvis filen er meget stor.</translation>
+        <source>Open the Bringdebug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Åbn Bringdebug logfilen fra den aktuelle datamappe. Det kan godt tage lidt tid hvis filen er meget stor.</translation>
     </message>
     <message>
         <source>Number of Masternodes</source>
@@ -2451,8 +2397,8 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
         <translation>Ud:</translation>
     </message>
     <message>
-        <source>Welcome to the Bring RPC console.</source>
-        <translation>Velkommen til Bring RPC konsollet</translation>
+        <source>Welcome to the BringRPC console.</source>
+        <translation>Velkommen til BringRPC konsollet</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -2522,12 +2468,12 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
         <translation>Valgfri opmærkning som tilknyttes den nye modtageradresse.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Bring network.</source>
-        <translation>Valgfri besked som vedhæftes betalingsanmodnigen, og som bliver vist når anmodningen åbnes. Note: Beskeden fremsendes ikke sammen med betalingen, når denne sendes ud på Bring netværket.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Bringnetwork.</source>
+        <translation>Valgfri besked som vedhæftes betalingsanmodnigen, og som bliver vist når anmodningen åbnes. Note: Beskeden fremsendes ikke sammen med betalingen, når denne sendes ud på Bringnetværket.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Bring network.</source>
-        <translation>Valgfri besked som vedhæftes betalingsanmodnigen, og som bliver vist når anmodningen åbnes. &lt;br&gt;Note: Beskeden fremsendes ikke sammen med betalingen, når denne sendes ud på Bring netværket.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Bringnetwork.</source>
+        <translation>Valgfri besked som vedhæftes betalingsanmodnigen, og som bliver vist når anmodningen åbnes. &lt;br&gt;Note: Beskeden fremsendes ikke sammen med betalingen, når denne sendes ud på Bringnetværket.</translation>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
@@ -2687,14 +2633,6 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
         <translation>Møntkontrol, features</translation>
     </message>
     <message>
-        <source>Inputs...</source>
-        <translation>Inputs...</translation>
-    </message>
-    <message>
-        <source>automatically selected</source>
-        <translation>Automatisk valgte</translation>
-    </message>
-    <message>
         <source>Insufficient funds!</source>
         <translation>Saldo for lille!</translation>
     </message>
@@ -2759,8 +2697,8 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
         <translation>UTXO størrelse:</translation>
     </message>
     <message>
-        <source>0 BRG</source>
-        <translation>0 BRG</translation>
+        <source>0 Bring</source>
+        <translation>0 Bring</translation>
     </message>
     <message>
         <source>Transaction Fee:</source>
@@ -2777,10 +2715,6 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
     <message>
         <source>Minimize</source>
         <translation>Minimer</translation>
-    </message>
-    <message>
-        <source>Obfuscation</source>
-        <translation>Tilsløring</translation>
     </message>
     <message>
         <source>per kilobyte</source>
@@ -2807,15 +2741,15 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
         <translation>Bekræftelsestid</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 mBRGs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 mBRGs in fee,&lt;br /&gt;while "at least" pays 1000 mBRGs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Hvis den brugerfastsatte gebyrbetaling er sat til 1000 mBRGs og transaktionen kun fylder 250 bytes, så vil "pr. kilobyte" kun udbetale 250 uBRG i gebyr, &lt;br /&gt; mens "mindst" udbetaler 1000 mBRGs. For transaktioner større end en kilobyte betales i begge tilfælde i forhold til antallet af kilobytes </translation>
+        <source>If the custom fee is set to 1000 uBrings and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uBrings in fee,&lt;br /&gt;while "at least" pays 1000 uBrings. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Hvis den brugerfastsatte gebyrbetaling er sat til 1000 uBrings og transaktionen kun fylder 250 bytes, så vil "pr. kilobyte" kun udbetale 250 uBring i gebyr, &lt;br /&gt; mens "mindst" udbetaler 1000 uBrings. For transaktioner større end en kilobyte betales i begge tilfælde i forhold til antallet af kilobytes </translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 mBRGs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 mBRGs in fee,&lt;br /&gt;while "total at least" pays 1000 mBRGs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Hvis den brugerfastsatte gebyrbetaling er sat til 1000 mBRGs og transaktionen kun fylder 250 bytes, så vil "pr. kilobyte" kun udbetale 250 uBRG i gebyr, &lt;br /&gt; mens "Total-mindst" udbetaler 1000 mBRGs. For transaktioner større end en kilobyte betales i begge tilfælde i forhold til antallet af kilobytes </translation>
+        <source>If the custom fee is set to 1000 uBrings and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uBrings in fee,&lt;br /&gt;while "total at least" pays 1000 uBrings. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Hvis den brugerfastsatte gebyrbetaling er sat til 1000 uBrings og transaktionen kun fylder 250 bytes, så vil "pr. kilobyte" kun udbetale 250 uBring i gebyr, &lt;br /&gt; mens "Total-mindst" udbetaler 1000 uBrings. For transaktioner større end en kilobyte betales i begge tilfælde i forhold til antallet af kilobytes </translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for Bring transactions than the network can process.</source>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for Bringtransactions than the network can process.</source>
         <translation>Betaling af mindste transaktionsgebyr vil være fint så længe der er færre transaktioner end der er plads til i blokkene. &lt;br /&gt; Men opmærksomheden henledes på, at det kan resultere i en transaktion der aldrig bliver bekræftet i det øjeblik der er større behov for transaktioner end netværket har plads til. </translation>
     </message>
     <message>
@@ -2919,8 +2853,8 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
         <translation>Anonyme saldi</translation>
     </message>
     <message>
-        <source>Warning: Invalid Bring address</source>
-        <translation>Advarsel! Ugyldig Bring adresse</translation>
+        <source>Warning: Invalid Bringaddress</source>
+        <translation>Advarsel! Ugyldig Bringadresse</translation>
     </message>
     <message>
         <source>any available funds (not recommended)</source>
@@ -2954,17 +2888,9 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
         <source>A fee %1 times higher than %2 per kB is considered an insanely high fee.</source>
         <translation>Et gebyr %1 gange højere end %2 pr. kilobyte er vanvittigt højt.</translation>
     </message>
-    <message numerus="yes">
-        <source>Estimated to begin confirmation within %n block(s).</source>
-        <translation><numerusform>Forventer bekræftelse indenfor %n blokke</numerusform><numerusform>Forventer bekræftelse indenfor %n blokke</numerusform></translation>
-    </message>
     <message>
         <source>The recipient address is not valid, please recheck.</source>
         <translation>Modtageradressen er ikke gyldig. Kontroller igen</translation>
-    </message>
-    <message>
-        <source>(obfuscation requires this amount to be rounded up to the nearest %1).</source>
-        <translation>(Tilsløring kræver at dette beløb rundes op til nærmeste %1)</translation>
     </message>
     <message>
         <source> split into %1 outputs using the UTXO splitter.</source>
@@ -3026,8 +2952,8 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
         <translation>Betal &amp;Til</translation>
     </message>
     <message>
-        <source>The Bring address to send the payment to</source>
-        <translation>Bring adressen, som betalingen skal sendes til</translation>
+        <source>The Bringaddress to send the payment to</source>
+        <translation>Bringadressen, som betalingen skal sendes til</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -3066,7 +2992,7 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
         <translation>Besked</translation>
     </message>
     <message>
-        <source>A message that was attached to the Bring: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bring network.</source>
+        <source>A message that was attached to the Bring: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bringnetwork.</source>
         <translation>En besked, der var vedhæftet til Bring: URl wil blive gemt sammen med transaktionen som reference. Note: Beskeden bliver medsendt transaktionen over netværket.</translation>
     </message>
     <message>
@@ -3093,8 +3019,8 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Bring Core is shutting down...</source>
-        <translation>Bring kernen lukker ned</translation>
+        <source>Bring is shutting down...</source>
+        <translation>Bringkernen lukker ned</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -3116,8 +3042,8 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
         <translation>De kan underskrive beskeder med Deres adresser or at bevise ejerskab. Vær forsigtig med at underskrive noget De er usikker på såsom forsøg op at narre Dem til at oplyse Deres identitet. Skriv kun under på noget De kan stå inde for, og som De er enig i. </translation>
     </message>
     <message>
-        <source>The Bring address to sign the message with</source>
-        <translation>Den Bring adresse, der skal bruges til at underskrive beskeden med.</translation>
+        <source>The Bringaddress to sign the message with</source>
+        <translation>Den Bringadresse, der skal bruges til at underskrive beskeden med.</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -3148,16 +3074,16 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
         <translation>Kopier den aktuelle underskrift til udklipsholderen.</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Bring address</source>
-        <translation>Underskriv beskeden for at bevise, at De ejer denne Bring adresse.</translation>
+        <source>Sign the message to prove you own this Bringaddress</source>
+        <translation>Underskriv beskeden for at bevise, at De ejer denne Bringadresse.</translation>
     </message>
     <message>
-        <source>The Bring address the message was signed with</source>
-        <translation>Beskeden er underskrevet med denne Bring adresse</translation>
+        <source>The Bringaddress the message was signed with</source>
+        <translation>Beskeden er underskrevet med denne Bringadresse</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Bring address</source>
-        <translation>verificer beskeden for at sikre, at den blev underskrevet med den rigtige Bring adresse.</translation>
+        <source>Verify the message to ensure it was signed with the specified Bringaddress</source>
+        <translation>verificer beskeden for at sikre, at den blev underskrevet med den rigtige Bringadresse.</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -3243,8 +3169,8 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bring Core</source>
-        <translation>Bring kerne</translation>
+        <source>Bring</source>
+        <translation>Bringkerne</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -3259,8 +3185,8 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
         <translation>DASH "core" udviklerne</translation>
     </message>
     <message>
-        <source>The Bring Core developers</source>
-        <translation>Bring "core" udviklerne</translation>
+        <source>The Bring developers</source>
+        <translation>Bring"core" udviklerne</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -3791,8 +3717,8 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
         <translation>Send mønter</translation>
     </message>
     <message>
-        <source>SwiftTX doesn't support sending values that high yet. Transactions are currently limited to %1 BRG.</source>
-        <translation>SwiftTx understøtter ikke afsendelse af så store beløb endnu. Transaktioner er for tiden begrænsede til %1LPC.</translation>
+        <source>SwiftTX doesn't support sending values that high yet. Transactions are currently limited to %1 Bring.</source>
+        <translation>SwiftTx understøtter ikke afsendelse af så store beløb endnu. Transaktioner er for tiden begrænsede til %1Bring.</translation>
     </message>
 </context>
 <context>
@@ -3835,6 +3761,13 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
     </message>
 </context>
 <context>
+    <name>ZPhrControlDialog</name>
+    <message>
+        <source>0</source>
+        <translation>0</translation>
+    </message>
+    </context>
+<context>
     <name>bring-core</name>
     <message>
         <source>(1 = keep tx meta data e.g. account owner and payment request information, 2 = drop tx meta data)</source>
@@ -3861,8 +3794,8 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
         <translation>Forbind til den opgivne adresse og lyt efter JSON-.RPC forbindelser. Brug [host]:port notation for IPv6. Der kan indsættes flere linier (standard: Forbind til alle interfaces)</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Bring Core is probably already running.</source>
-        <translation>Kan ikke låse datamappen %s. Bring core kører sandsynligvis allerede.</translation>
+        <source>Cannot obtain a lock on data directory %s. Bring is probably already running.</source>
+        <translation>Kan ikke låse datamappen %s. Bringcore kører sandsynligvis allerede.</translation>
     </message>
     <message>
         <source>Change automatic finalized budget voting behavior. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</source>
@@ -3881,8 +3814,8 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
         <translation>Slet alle tegnebogens transaktioner og genskab kun fra blokkæden ved at tilføje -rescan i forbindes med opstart.</translation>
     </message>
     <message>
-        <source>Disable all Bring specific functionality (Masternodes, Obfuscation, SwiftTX, Budgeting) (0-1, default: %u)</source>
-        <translation>Slå alle Bring funktioner fra (Masternoder, Tilsløring, SwiftTX, Budgetting)(0-1,default:%u)</translation>
+        <source>Disable all Bringspecific functionality (Masternodes, Obfuscation, SwiftTX, Budgeting) (0-1, default: %u)</source>
+        <translation>Slå alle Bringfunktioner fra (Masternoder, Tilsløring, SwiftTX, Budgetting)(0-1,default:%u)</translation>
     </message>
     <message>
         <source>Distributed under the MIT software license, see the accompanying file COPYING or &lt;http://www.opensource.org/licenses/mit-license.php&gt;.</source>
@@ -3896,10 +3829,6 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
     <message>
         <source>Enable swifttx, show confirmations for locked transactions (bool, default: %s)</source>
         <translation>Aktiver swifttx, vis bekræftelser for låste transaktioner (bool, default: %s)</translation>
-    </message>
-    <message>
-        <source>Enable use of automated obfuscation for funds stored in this wallet (0-1, default: %u)</source>
-        <translation>Slå automatisk tilsløring til for alle midler i denne tegebog (0-1, default: %u)</translation>
     </message>
     <message>
         <source>Enter regression test mode, which uses a special chain in which blocks can be solved instantly.</source>
@@ -3926,12 +3855,12 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
         <translation>Udfør en kommando når den bedste blok ændres (%s in cmd erstattes med blok hashen)</translation>
     </message>
     <message>
-        <source>Fees (in BRG/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
-        <translation>Gebyrer (in BRG/kb) lavere end dette betragtes som et nul-gebyr for at videresende (default: %s)</translation>
+        <source>Fees (in Bring/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
+        <translation>Gebyrer (in Bring/kb) lavere end dette betragtes som et nul-gebyr for at videresende (default: %s)</translation>
     </message>
     <message>
-        <source>Fees (in BRG/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
-        <translation>Gebyrer (in BRG/kb) lavere end dette betragtes som et nul-gebyr for at oprette en transaktion (default: %s)</translation>
+        <source>Fees (in Bring/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
+        <translation>Gebyrer (in Bring/kb) lavere end dette betragtes som et nul-gebyr for at oprette en transaktion (default: %s)</translation>
     </message>
     <message>
         <source>Flush database activity from memory pool to disk log every &lt;n&gt; megabytes (default: %u)</source>
@@ -3940,10 +3869,6 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
     <message>
         <source>Found unconfirmed denominated outputs, will wait till they confirm to continue.</source>
         <translation>Der er fundet ubekræftede designerede outputs. Vent indtil de bekræftes for at fortsætte.</translation>
-    </message>
-    <message>
-        <source>How thorough the block verification of -checkblocks is (0-4, default: %u)</source>
-        <translation>Hvor grundig er blokkens verificeringer af -checkblocks er (0-4, default %u)</translation>
     </message>
     <message>
         <source>If paytxfee is not set, include enough fee so transactions begin confirmation on average within n blocks (default: %u)</source>
@@ -3988,10 +3913,6 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
     <message>
         <source>Output debugging information (default: %u, supplying &lt;category&gt; is optional)</source>
         <translation>Output debug information (default: %u, supplying &lt;category&gt; er valgfri)</translation>
-    </message>
-    <message>
-        <source>Provide liquidity to Obfuscation by infrequently mixing coins on a continual basis (0-100, default: %u, 1=very frequent, high fees, 100=very infrequent, low fees)</source>
-        <translation>Tilfør tilsløring likviditet  ved at tilføje flere Bring løbende (0-100, default:%u, 1=meget hyppigt, høje gebyrer, 100=sjældent, lave gebyrer)</translation>
     </message>
     <message>
         <source>Query for peer addresses via DNS lookup, if low on addresses (default: 1 unless -connect)</source>
@@ -4043,7 +3964,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s "Bring Alert" admin@foo.com
+for example: alertnotify=echo %%s | mail -s "BringAlert" admin@foo.com
 </source>
         <translation>For at bruge bringd eller -server muligheden sammen med bring-qt skal der angives et rpc kodeord i konfigurationsfilen:
 %s
@@ -4054,24 +3975,24 @@ rpcpasswrd=%s
 Brugernavn og kodeord MÅ IKKE VÆRE ENS!
 Hvis filen ikke eksisterer, opret den med sikkerhedsindstillingen - ejer kun læserettigheder tilladelsen.
 Det anbefales tillige at vælge alertnotify til for at blive orienteret om eventuelle problemer.
-For eksempel: alertnotify=Echo %% | mail - s "Bring ALARM!" e-mail@administrator.dk
+For eksempel: alertnotify=Echo %% | mail - s "BringALARM!" e-mail@administrator.dk
 </translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Bring Core is probably already running.</source>
-        <translation>Det var ikke muligt at forbinde %s på denne computer. Bring kører sandsynligvis allerede.</translation>
+        <source>Unable to bind to %s on this computer. Bring is probably already running.</source>
+        <translation>Det var ikke muligt at forbinde %s på denne computer. Bringkører sandsynligvis allerede.</translation>
     </message>
     <message>
         <source>Unable to locate enough Obfuscation denominated funds for this transaction.</source>
         <translation>Det er ikke muligt at allokere tilstrækkeligt med tilsløret designeret indestående for at gennemføre denne transaktion.</translation>
     </message>
     <message>
-        <source>Unable to locate enough Obfuscation non-denominated funds for this transaction that are not equal 10000 BRG.</source>
-        <translation>Det er ikke muligt at allokere tilstrækkeligt med tilsløret  ikke-designeret indestående for at gennemføre denne transaktion, der ikke ækvivalerer 10000 BRG.</translation>
+        <source>Unable to locate enough Obfuscation non-denominated funds for this transaction that are not equal 10000 Bring.</source>
+        <translation>Det er ikke muligt at allokere tilstrækkeligt med tilsløret  ikke-designeret indestående for at gennemføre denne transaktion, der ikke ækvivalerer 10000 Bring.</translation>
     </message>
     <message>
-        <source>Unable to locate enough funds for this transaction that are not equal 10000 BRG.</source>
-        <translation>Det var ikke muligt at allokere tilstrækkelige midler til denne transaktion som er forskellig fra 10000 BRG.</translation>
+        <source>Unable to locate enough funds for this transaction that are not equal 10000 Bring.</source>
+        <translation>Det var ikke muligt at allokere tilstrækkelige midler til denne transaktion som er forskellig fra 10000 Bring.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: %s)</source>
@@ -4086,8 +4007,8 @@ For eksempel: alertnotify=Echo %% | mail - s "Bring ALARM!" e-mail@administrator
         <translation>Advarsel! -paytxfee er sat meget højt. Det er dette gebyr De kommer til at betale for transaktionen, hvis De gennemfører. </translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Bring Core will not work properly.</source>
-        <translation>Advarsel! Kontroller at computerens dato og tid er korrekt indstillet. Hvis tiden ikke er rigtig, vil Bring core ikke fungere ordentligt.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Bring will not work properly.</source>
+        <translation>Advarsel! Kontroller at computerens dato og tid er korrekt indstillet. Hvis tiden ikke er rigtig, vil Bringcore ikke fungere ordentligt.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -4234,8 +4155,8 @@ For eksempel: alertnotify=Echo %% | mail - s "Bring ALARM!" e-mail@administrator
         <translation>Copyright (C) 2014-%i The Dash Core Developers </translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The Bring Core Developers</source>
-        <translation>Copyright (C) 2015-%i The Bring Core Developers</translation>
+        <source>Copyright (C) 2015-%i The Bring Developers</source>
+        <translation>Copyright (C) 2015-%i The Bring Developers</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -4306,8 +4227,8 @@ For eksempel: alertnotify=Echo %% | mail - s "Bring ALARM!" e-mail@administrator
         <translation>Fejl ved indlæsning af wallet.dat: Tegnebogen er beskadiget</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Bring Core</source>
-        <translation>Fejl ved indlæsning af wallet.dat: Tegnebogen kræver en nyere version af Bring core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Bring</source>
+        <translation>Fejl ved indlæsning af wallet.dat: Tegnebogen kræver en nyere version af Bringcore</translation>
     </message>
     <message>
         <source>Error opening block database</source>
@@ -4358,8 +4279,8 @@ For eksempel: alertnotify=Echo %% | mail - s "Bring ALARM!" e-mail@administrator
         <translation>Læsning af blokken mislykkedes</translation>
     </message>
     <message>
-        <source>Fee (in BRG/kB) to add to transactions you send (default: %s)</source>
-        <translation>Gebyr (i BRG/kB) som skal tilføjes transaktionen der sendes (default: %s)</translation>
+        <source>Fee (in Bring/kB) to add to transactions you send (default: %s)</source>
+        <translation>Gebyr (i Bring/kB) som skal tilføjes transaktionen der sendes (default: %s)</translation>
     </message>
     <message>
         <source>Finalizing transaction.</source>
@@ -4418,8 +4339,8 @@ For eksempel: alertnotify=Echo %% | mail - s "Bring ALARM!" e-mail@administrator
         <translation>Info:</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Bring Core is shutting down.</source>
-        <translation>Initiering af sanitetskontrollen fejlede. Bring core lukker ned. </translation>
+        <source>Initialization sanity check failed. Bring is shutting down.</source>
+        <translation>Initiering af sanitetskontrollen fejlede. Bringcore lukker ned. </translation>
     </message>
     <message>
         <source>Input is not valid.</source>
@@ -4428,14 +4349,6 @@ For eksempel: alertnotify=Echo %% | mail - s "Bring ALARM!" e-mail@administrator
     <message>
         <source>Insufficient funds.</source>
         <translation>Utilstrækkelige midler</translation>
-    </message>
-    <message>
-        <source>Invalid -onion address: '%s'</source>
-        <translation>Ugyldig -onion adresse: '%s'</translation>
-    </message>
-    <message>
-        <source>Invalid -proxy address: '%s'</source>
-        <translation>Ugyldig -proxy adresse: '%s'</translation>
     </message>
     <message>
         <source>Invalid amount for -maxtxfee=&lt;amount&gt;: '%s'</source>
@@ -4492,10 +4405,6 @@ For eksempel: alertnotify=Echo %% | mail - s "Bring ALARM!" e-mail@administrator
     <message>
         <source>Attempt to force blockchain corruption recovery</source>
         <translation>Forsøg at gennemtvinge reparation af korrumperet blokkæde</translation>
-    </message>
-    <message>
-        <source>Keep N BRG anonymized (default: %u)</source>
-        <translation>Behold N BRG anonymiserede (default: %u)</translation>
     </message>
     <message>
         <source>Keep at most &lt;n&gt; unconnectable transactions in memory (default: %u)</source>
@@ -4640,10 +4549,6 @@ For eksempel: alertnotify=Echo %% | mail - s "Bring ALARM!" e-mail@administrator
     <message>
         <source>Obfuscation is idle.</source>
         <translation>Tilsløringssystem ledigt</translation>
-    </message>
-    <message>
-        <source>Obfuscation options:</source>
-        <translation>Tilsløringsmuligheder</translation>
     </message>
     <message>
         <source>Obfuscation request complete:</source>
@@ -4950,10 +4855,6 @@ For eksempel: alertnotify=Echo %% | mail - s "Bring ALARM!" e-mail@administrator
         <translation>Opdater tegnebogen til det nyeste format</translation>
     </message>
     <message>
-        <source>Use N separate masternodes to anonymize funds  (2-8, default: %u)</source>
-        <translation>Brug N forskellige masternoder for at anonymisere saldi (2-8, default: %u)</translation>
-    </message>
-    <message>
         <source>Use OpenSSL (https) for JSON-RPC connections</source>
         <translation>Brug OpenSSL (https) til JSON-RPC forbindelser</translation>
     </message>
@@ -4994,8 +4895,8 @@ For eksempel: alertnotify=Echo %% | mail - s "Bring ALARM!" e-mail@administrator
         <translation>Tegnebogen er låst</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Bring Core to complete</source>
-        <translation>Tegnebogen måtte genskrives. Genstart Bring core for at gøre færdig</translation>
+        <source>Wallet needed to be rewritten: restart Bring to complete</source>
+        <translation>Tegnebogen måtte genskrives. Genstart Bringcore for at gøre færdig</translation>
     </message>
     <message>
         <source>Wallet options:</source>

@@ -62,12 +62,12 @@
         <translation>接收的位址</translation>
     </message>
     <message>
-        <source>These are your Bring addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>這是你用來付款的 Bring 位址, 送出前, 請務必確認金額及接收位址是否正確.</translation>
+        <source>These are your Bringaddresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>這是你用來付款的 Bring位址, 送出前, 請務必確認金額及接收位址是否正確.</translation>
     </message>
     <message>
-        <source>These are your Bring addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>這是你用來接收款項的 Bring 位址, 建議你每次付款都使用新的位址.</translation>
+        <source>These are your Bringaddresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>這是你用來接收款項的 Bring位址, 建議你每次付款都使用新的位址.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -164,16 +164,16 @@
         <translation>錢包確認加密</translation>
     </message>
     <message>
-        <source>Bring will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your LPCs from being stolen by malware infecting your computer.</source>
-        <translation>Bring 現在會關閉程式來處理加密流程, 請注意, 僅僅是加密你的錢包並不能完全保護你的 BRG 幣被可疑軟體或病毒偷走的風險.</translation>
+        <source>Bringwill close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Brings from being stolen by malware infecting your computer.</source>
+        <translation>Bring現在會關閉程式來處理加密流程, 請注意, 僅僅是加密你的錢包並不能完全保護你的 Bring幣被可疑軟體或病毒偷走的風險.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>確定要加密你的錢包?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BRG&lt;/b&gt;!</source>
-        <translation>請注意: 如果你加密了你的錢包但是卻忘記你設定的密碼, &lt;b&gt;你將會失去錢包裡的錢(BRG)&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR Bring&lt;/b&gt;!</source>
+        <translation>請注意: 如果你加密了你的錢包但是卻忘記你設定的密碼, &lt;b&gt;你將會失去錢包裡的錢(Bring)&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -227,16 +227,16 @@
         <translation>&amp;BIP 38 加密</translation>
     </message>
     <message>
-        <source>Enter a Bring Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>輸入你想 BIP 38 加密的 Bring 位址, 輸入密碼在中間欄, 按下加密按鈕來產生加密私鑰.</translation>
+        <source>Enter a BringAddress that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>輸入你想 BIP 38 加密的 Bring位址, 輸入密碼在中間欄, 按下加密按鈕來產生加密私鑰.</translation>
     </message>
     <message>
         <source>Address:</source>
         <translation>位址:</translation>
     </message>
     <message>
-        <source>The Bring address to sign the message with</source>
-        <translation>對訊息簽名的 Bring 位址</translation>
+        <source>The Bringaddress to sign the message with</source>
+        <translation>對訊息簽名的 Bring位址</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -267,8 +267,8 @@
         <translation>拷貝目前的簽章到系統剪貼簿</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Bring address</source>
-        <translation>使用簽章來證明你是該  Bring 位址的擁有者,</translation>
+        <source>Sign the message to prove you own this Bringaddress</source>
+        <translation>使用簽章來證明你是該  Bring位址的擁有者,</translation>
     </message>
     <message>
         <source>Encrypt &amp;Key</source>
@@ -287,12 +287,12 @@
         <translation>&amp;BIP 38 解密</translation>
     </message>
     <message>
-        <source>The Bring address the message was signed with</source>
-        <translation>此訊息之 Bring 位址已簽章於</translation>
+        <source>The Bringaddress the message was signed with</source>
+        <translation>此訊息之 Bring位址已簽章於</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Bring address</source>
-        <translation>驗證訊息以確保該  Bring 位址已被簽章</translation>
+        <source>Verify the message to ensure it was signed with the specified Bringaddress</source>
+        <translation>驗證訊息以確保該  Bring位址已被簽章</translation>
     </message>
     <message>
         <source>Decrypt &amp;Key</source>
@@ -582,12 +582,12 @@
         <translation>Tabs 工具列</translation>
     </message>
     <message>
-        <source>Bring Core</source>
-        <translation>Bring Core</translation>
+        <source>Bring</source>
+        <translation>Bring</translation>
     </message>
     <message>
-        <source>Send coins to a Bring address</source>
-        <translation>送出錢幣到 Bring 地址</translation>
+        <source>Send coins to a Bringaddress</source>
+        <translation>送出錢幣到 Bring地址</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and bring: URIs)</source>
@@ -602,24 +602,24 @@
         <translation>瀏覽 Masternodes</translation>
     </message>
     <message>
-        <source>&amp;About Bring Core</source>
-        <translation>&amp;關於 Bring Core</translation>
+        <source>&amp;About Bring</source>
+        <translation>&amp;關於 Bring</translation>
     </message>
     <message>
-        <source>Show information about Bring Core</source>
-        <translation>顯示 Bring Core 相關資訊</translation>
+        <source>Show information about Bring</source>
+        <translation>顯示 Bring 相關資訊</translation>
     </message>
     <message>
         <source>Modify configuration options for Bring</source>
-        <translation>修改 Bring 設定</translation>
+        <translation>修改 Bring設定</translation>
     </message>
     <message>
-        <source>Sign messages with your Bring addresses to prove you own them</source>
-        <translation>使用你的 Bring 位址對訊息簽章, 來證明你是擁有者</translation>
+        <source>Sign messages with your Bringaddresses to prove you own them</source>
+        <translation>使用你的 Bring位址對訊息簽章, 來證明你是擁有者</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Bring addresses</source>
-        <translation>驗證訊息簽章與 Bring 位址吻合</translation>
+        <source>Verify messages to ensure they were signed with specified Bringaddresses</source>
+        <translation>驗證訊息簽章與 Bring位址吻合</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -662,12 +662,12 @@
         <translation>區塊鏈瀏覽視窗</translation>
     </message>
     <message>
-        <source>Show the Bring Core help message to get a list with possible Bring command-line options</source>
-        <translation>顯示 Bring Core 幫助訊息以取得 Bring 命令列表選項</translation>
+        <source>Show the Bring help message to get a list with possible Bringcommand-line options</source>
+        <translation>顯示 Bring 幫助訊息以取得 Bring命令列表選項</translation>
     </message>
     <message>
-        <source>Bring Core client</source>
-        <translation>Bring Core 客戶端</translation>
+        <source>Bring client</source>
+        <translation>Bring 客戶端</translation>
     </message>
     </context>
 <context>
@@ -696,15 +696,15 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bring Core</source>
-        <translation>Bring Core</translation>
+        <source>Bring</source>
+        <translation>Bring</translation>
     </message>
     </context>
 <context>
     <name>Intro</name>
     <message>
-        <source>Bring Core</source>
-        <translation>Bring Core</translation>
+        <source>Bring</source>
+        <translation>Bring</translation>
     </message>
     </context>
 <context>
@@ -742,6 +742,25 @@
     </context>
 <context>
     <name>PeerTableModel</name>
+    </context>
+<context>
+    <name>PrivacyDialog</name>
+    <message>
+        <source>Choose previously used address</source>
+        <translation>選擇之前用過的位址</translation>
+    </message>
+    <message>
+        <source>Alt+A</source>
+        <translation>Alt+A</translation>
+    </message>
+    <message>
+        <source>Paste address from clipboard</source>
+        <translation>從剪貼簿貼上</translation>
+    </message>
+    <message>
+        <source>Alt+P</source>
+        <translation>Alt+P</translation>
+    </message>
     </context>
 <context>
     <name>QObject</name>
@@ -817,8 +836,8 @@
 <context>
     <name>SignVerifyMessageDialog</name>
     <message>
-        <source>The Bring address to sign the message with</source>
-        <translation>對訊息簽名的 Bring 位址</translation>
+        <source>The Bringaddress to sign the message with</source>
+        <translation>對訊息簽名的 Bring位址</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -841,16 +860,16 @@
         <translation>拷貝目前的簽章到系統剪貼簿</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Bring address</source>
-        <translation>使用簽章來證明你是該  Bring 位址的擁有者,</translation>
+        <source>Sign the message to prove you own this Bringaddress</source>
+        <translation>使用簽章來證明你是該  Bring位址的擁有者,</translation>
     </message>
     <message>
-        <source>The Bring address the message was signed with</source>
-        <translation>此訊息之 Bring 位址已簽章於</translation>
+        <source>The Bringaddress the message was signed with</source>
+        <translation>此訊息之 Bring位址已簽章於</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Bring address</source>
-        <translation>驗證訊息以確保該  Bring 位址已被簽章</translation>
+        <source>Verify the message to ensure it was signed with the specified Bringaddress</source>
+        <translation>驗證訊息以確保該  Bring位址已被簽章</translation>
     </message>
     <message>
         <source>Reset all sign message fields</source>
@@ -888,8 +907,8 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bring Core</source>
-        <translation>Bring Core</translation>
+        <source>Bring</source>
+        <translation>Bring</translation>
     </message>
     </context>
 <context>
@@ -950,6 +969,9 @@
         <source>Export the data in the current tab to a file</source>
         <translation>匯出目前面板中的資料</translation>
     </message>
+    </context>
+<context>
+    <name>ZPhrControlDialog</name>
     </context>
 <context>
     <name>bring-core</name>

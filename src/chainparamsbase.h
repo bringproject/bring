@@ -10,7 +10,7 @@
 
 /**
  * CBaseChainParams defines the base parameters (shared between bring-cli and bringd)
- * of a given instance of the Bring system.
+ * of a given instance of the Bringsystem.
  */
 class CBaseChainParams
 {

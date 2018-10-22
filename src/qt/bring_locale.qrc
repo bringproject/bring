@@ -10,6 +10,7 @@
         <file alias="es">locale/bring_es.qm</file>
         <file alias="fi">locale/bring_fi.qm</file>
         <file alias="fr_FR">locale/bring_fr_FR.qm</file>
+        <file alias="hr">locale/bring_hr.qm</file>
         <file alias="it">locale/bring_it.qm</file>
         <file alias="ja">locale/bring_ja.qm</file>
         <file alias="ko_KR">locale/bring_ko_KR.qm</file>
@@ -21,6 +22,7 @@
         <file alias="ru">locale/bring_ru.qm</file>
         <file alias="sk">locale/bring_sk.qm</file>
         <file alias="sv">locale/bring_sv.qm</file>
+        <file alias="tr">locale/bring_tr.qm</file>
         <file alias="uk">locale/bring_uk.qm</file>
         <file alias="zh_CN">locale/bring_zh_CN.qm</file>
         <file alias="zh_TW">locale/bring_zh_TW.qm</file>

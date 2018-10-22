@@ -148,8 +148,8 @@
         <translation>Czy na pewno chcesz zakodować portfel?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BRG&lt;/b&gt;!</source>
-        <translation>Ostrzeżenie: Jeżeli zakodujesz portfel i stracisz do niego hasło , UTRACISZ WSZYSTKIE BRG!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR Bring&lt;/b&gt;!</source>
+        <translation>Ostrzeżenie: Jeżeli zakodujesz portfel i stracisz do niego hasło , UTRACISZ WSZYSTKIE Bring!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -227,8 +227,8 @@
         <translation>Zakodowany klucz:</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Bring address</source>
-        <translation>Zatwierdź wiadomość, aby udowodnić, że podany adres Bring jest w twoim posiadaniu</translation>
+        <source>Sign the message to prove you own this Bringaddress</source>
+        <translation>Zatwierdź wiadomość, aby udowodnić, że podany adres Bringjest w twoim posiadaniu</translation>
     </message>
     <message>
         <source>Encrypt &amp;Key</source>
@@ -518,11 +518,11 @@
         <translation>&amp;Pomoc</translation>
     </message>
     <message>
-        <source>Bring Core</source>
-        <translation>&amp;Rdzeń bitcoin</translation>
+        <source>Bring</source>
+        <translation>&amp;Rdzeń Bring</translation>
     </message>
     <message>
-        <source>Send coins to a Bring address</source>
+        <source>Send coins to a Bringaddress</source>
         <translation>Wyślij monety do adresu Bring</translation>
     </message>
     <message>
@@ -538,11 +538,11 @@
         <translation>Przeglądaj masternodes</translation>
     </message>
     <message>
-        <source>&amp;About Bring Core</source>
+        <source>&amp;About Bring</source>
         <translation>&amp;O rdzeniu bitcoina</translation>
     </message>
     <message>
-        <source>Show information about Bring Core</source>
+        <source>Show information about Bring</source>
         <translation>Pokaż informacje o rdzeniu bitcoina</translation>
     </message>
     <message>
@@ -550,11 +550,11 @@
         <translation>Modyfikuj opcje konfiguracji Bring</translation>
     </message>
     <message>
-        <source>Sign messages with your Bring addresses to prove you own them</source>
+        <source>Sign messages with your Bringaddresses to prove you own them</source>
         <translation>Zatwierdź wiadomość z twoimi adresami Bring, by udowodnić, że jesteś w ich posiadaniu</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Bring addresses</source>
+        <source>Verify messages to ensure they were signed with specified Bringaddresses</source>
         <translation>Zweryfikuj wiadomości by upewnić się, że zostały zatwierdzone z podanego adresu Bring</translation>
     </message>
     <message>
@@ -583,7 +583,7 @@
     </message>
     <message>
         <source>Open a Bring: URI or payment request</source>
-        <translation>Otwórz Bring: URI i żądanie zapłaty</translation>
+        <translation>OtwórzBringX: URI i żądanie zapłaty</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -594,12 +594,12 @@
         <translation>Okno eksplorera bloków</translation>
     </message>
     <message>
-        <source>Show the Bring Core help message to get a list with possible Bring command-line options</source>
-        <translation>Pokaż wiadomość pomocy rdzenia Bring, aby dostać listę możliwych opcji Bring command-line</translation>
+        <source>Show the Bring help message to get a list with possible Bringcommand-line options</source>
+        <translation>Pokaż wiadomość pomocy rdzenia Bring, aby dostać listę możliwych opcji Bringcommand-line</translation>
     </message>
     <message>
-        <source>Bring Core client</source>
-        <translation>Rdzeń Bring klient</translation>
+        <source>Bring client</source>
+        <translation>Rdzeń Bringklient</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -847,10 +847,6 @@ MultiWysyłlka: %1</translation>
         <translation>Średnio-wysoki</translation>
     </message>
     <message>
-        <source>n/a</source>
-        <translation>n/a</translation>
-    </message>
-    <message>
         <source>medium</source>
         <translation>średni</translation>
     </message>
@@ -916,8 +912,8 @@ MultiWysyłlka: %1</translation>
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bring Core</source>
-        <translation>&amp;Rdzeń bitcoin</translation>
+        <source>Bring</source>
+        <translation>&amp;Rdzeń Bring</translation>
     </message>
     </context>
 <context>
@@ -931,8 +927,8 @@ MultiWysyłlka: %1</translation>
         <translation>Użyj niestandardowej ścieżki danych</translation>
     </message>
     <message>
-        <source>Bring Core</source>
-        <translation>&amp;Rdzeń bitcoin</translation>
+        <source>Bring</source>
+        <translation>&amp;Rdzeń Bring</translation>
     </message>
     <message>
         <source>Error</source>
@@ -995,7 +991,7 @@ MultiWysyłlka: %1</translation>
     </message>
     <message>
         <source>Status will be updated automatically in (sec):</source>
-        <translation>Status będzie uaktualniany automatycznie w sekundach</translation>
+        <translation>Status będzie uaktualniany automatycznie (w sekundach)</translation>
     </message>
     <message>
         <source>0</source>
@@ -1192,16 +1188,12 @@ Proszę sprawdzić adres i spróbować ponownie</translation>
         <translation>Zezwól na przychodzące połączenia</translation>
     </message>
     <message>
-        <source>Automatically start Bring after logging in to the system.</source>
-        <translation>Automatycznie uruchom Bring po zalogowaniu do systemu</translation>
+        <source>Automatically start Bringafter logging in to the system.</source>
+        <translation>Automatycznie uruchom Bringpo zalogowaniu do systemu</translation>
     </message>
     <message>
-        <source>&amp;Start Bring on system login</source>
-        <translation>&amp;Uruchom Bring podczas logowania do systemu</translation>
-    </message>
-    <message>
-        <source>Amount of Bring to keep anonymized</source>
-        <translation>Liczba Bring do anonimizacji</translation>
+        <source>&amp;Start Bringon system login</source>
+        <translation>&amp;Uruchom Bringpodczas logowania do systemu</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1230,8 +1222,8 @@ https://www.transifex.com/bring-project/bring-project-translations</source>
 https://www.transifex.com/bring-project/bring-project-translations </translation>
     </message>
     <message>
-        <source>Connect to the Bring network through a SOCKS5 proxy.</source>
-        <translation>Połącz z siecią Bring poprzez SOCKS5 proxy.</translation>
+        <source>Connect to the Bringnetwork through a SOCKS5 proxy.</source>
+        <translation>Połącz z siecią Bringpoprzez SOCKS5 proxy.</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -1345,10 +1337,6 @@ https://www.transifex.com/bring-project/bring-project-translations </translation
         <translation>Niedojrzały</translation>
     </message>
     <message>
-        <source>Balances</source>
-        <translation>Balans</translation>
-    </message>
-    <message>
         <source>Total:</source>
         <translation>Całość:</translation>
     </message>
@@ -1369,60 +1357,12 @@ https://www.transifex.com/bring-project/bring-project-translations </translation
         <translation>Możliwy do wysłania:</translation>
     </message>
     <message>
-        <source>Status:</source>
-        <translation>Status:</translation>
-    </message>
-    <message>
-        <source>0 BRG / 0 Rounds</source>
-        <translation>0 OIVX / 0 Rund</translation>
-    </message>
-    <message>
-        <source>Enabled/Disabled</source>
-        <translation>Włączony/Wyłączony</translation>
-    </message>
-    <message>
-        <source>Completion:</source>
-        <translation>Ukończono:</translation>
-    </message>
-    <message>
-        <source>Amount and Rounds:</source>
-        <translation>Liczba i rundy:</translation>
-    </message>
-    <message>
-        <source>n/a</source>
-        <translation>n/a</translation>
-    </message>
-    <message>
         <source>Recent transactions</source>
         <translation>Ostatnie transakcje</translation>
     </message>
     <message>
-        <source>Try Mix</source>
-        <translation>Wypróbuj MIX</translation>
-    </message>
-    <message>
-        <source>Reset</source>
-        <translation>Resetuj</translation>
-    </message>
-    <message>
         <source>out of sync</source>
         <translation>Brak synchronizacji</translation>
-    </message>
-    <message>
-        <source>Disabled</source>
-        <translation>Wyłączony</translation>
-    </message>
-    <message>
-        <source>Anonymized</source>
-        <translation>Zanonimizowany</translation>
-    </message>
-    <message>
-        <source>Enabled</source>
-        <translation>Włączony</translation>
-    </message>
-    <message>
-        <source>N/A</source>
-        <translation>N/A</translation>
     </message>
 </context>
 <context>
@@ -1448,9 +1388,72 @@ https://www.transifex.com/bring-project/bring-project-translations </translation
     </message>
     <message>
         <source>Ping Time</source>
-        <translation>Czas Pingu</translation>
+        <translation>Czas PinguCzas pingu</translation>
     </message>
 </context>
+<context>
+    <name>PrivacyDialog</name>
+    <message>
+        <source>0</source>
+        <translation>0</translation>
+    </message>
+    <message>
+        <source>Reset</source>
+        <translation>Resetuj</translation>
+    </message>
+    <message>
+        <source>Amount:</source>
+        <translation>Liczba:</translation>
+    </message>
+    <message>
+        <source>Choose previously used address</source>
+        <translation>Wybierz poprzednio używany adres</translation>
+    </message>
+    <message>
+        <source>Alt+A</source>
+        <translation>Alt+A</translation>
+    </message>
+    <message>
+        <source>Paste address from clipboard</source>
+        <translation>Wklej adres ze schowka</translation>
+    </message>
+    <message>
+        <source>Alt+P</source>
+        <translation>Alt+P</translation>
+    </message>
+    <message>
+        <source>Priority:</source>
+        <translation>Priorytet:</translation>
+    </message>
+    <message>
+        <source>Fee:</source>
+        <translation>Opłata:</translation>
+    </message>
+    <message>
+        <source>no</source>
+        <translation>nie</translation>
+    </message>
+    <message>
+        <source>medium</source>
+        <translation>średni</translation>
+    </message>
+    <message>
+        <source>Change:</source>
+        <translation>Zmiana:</translation>
+    </message>
+    <message>
+        <source>out of sync</source>
+        <translation>Brak synchronizacji</translation>
+    </message>
+    <message>
+        <source>Copy quantity</source>
+        <translation>Kopiuj ilość</translation>
+    </message>
+    <message>
+        <source>Copy amount</source>
+        <translation>Kopiuj liczbę</translation>
+    </message>
+    </context>
 <context>
     <name>QObject</name>
     <message>
@@ -1458,8 +1461,8 @@ https://www.transifex.com/bring-project/bring-project-translations </translation
         <translation>Liczba</translation>
     </message>
     <message>
-        <source>Enter a Bring address (e.g. %1)</source>
-        <translation>Wprowadź adres Bring (np. %1)</translation>
+        <source>Enter a Bringaddress (e.g. %1)</source>
+        <translation>Wprowadź adres Bring(np. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1673,7 +1676,7 @@ https://www.transifex.com/bring-project/bring-project-translations </translation
     </message>
     <message>
         <source>Ping Time</source>
-        <translation>Czas Pingu</translation>
+        <translation>Czas PinguCzas pingu</translation>
     </message>
     <message>
         <source>&amp;Wallet Repair</source>
@@ -1897,8 +1900,8 @@ https://www.transifex.com/bring-project/bring-project-translations </translation
         <translation>Alt+P</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Bring address</source>
-        <translation>Zatwierdź wiadomość, aby udowodnić, że podany adres Bring jest w twoim posiadaniu</translation>
+        <source>Sign the message to prove you own this Bringaddress</source>
+        <translation>Zatwierdź wiadomość, aby udowodnić, że podany adres Bringjest w twoim posiadaniu</translation>
     </message>
     <message>
         <source>Clear &amp;All</source>
@@ -1932,8 +1935,8 @@ https://www.transifex.com/bring-project/bring-project-translations </translation
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bring Core</source>
-        <translation>&amp;Rdzeń bitcoin</translation>
+        <source>Bring</source>
+        <translation>&amp;Rdzeń Bring</translation>
     </message>
     </context>
 <context>
@@ -2021,6 +2024,13 @@ https://www.transifex.com/bring-project/bring-project-translations </translation
     <message>
         <source>&amp;Export</source>
         <translation>Eksportuj</translation>
+    </message>
+    </context>
+<context>
+    <name>ZPhrControlDialog</name>
+    <message>
+        <source>0</source>
+        <translation>0</translation>
     </message>
     </context>
 <context>

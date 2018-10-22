@@ -62,11 +62,11 @@
         <translation>Адреса получения</translation>
     </message>
     <message>
-        <source>These are your Bring addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your Bringaddresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>Это ваши Bring-адреса для отправки платежей. Перед отправкой монет всегда проверяйте сумму и адрес получателя.</translation>
     </message>
     <message>
-        <source>These are your Bring addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your Bringaddresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation>Это ваши Bring-адреса для получения платежей. Для каждой транзакции рекомендуется использовать новый адрес получения.</translation>
     </message>
     <message>
@@ -172,16 +172,16 @@
         <translation>Подтверждение шифрования кошелька</translation>
     </message>
     <message>
-        <source>Bring will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your LPCs from being stolen by malware infecting your computer.</source>
-        <translation>Bring сейчас закроется, чтобы завершить процесс шифрования. Помните, что шифрование вашего кошелька не может полностью защитить ваши Bring от кражи с использованием вредоносного ПО.</translation>
+        <source>Bringwill close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Brings from being stolen by malware infecting your computer.</source>
+        <translation>Bringсейчас закроется, чтобы завершить процесс шифрования. Помните, что шифрование вашего кошелька не может полностью защитить ваши Bringот кражи с использованием вредоносного ПО.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Вы действительно хотите зашифровать свой кошелек?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BRG&lt;/b&gt;!</source>
-        <translation>Внимание: если вы зашифруете свой кошелёк и потеряете от него пароль, то вы &lt;b&gt;ПОТЕРЯЕТЕ ВСЕ СВОИ BRG&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR Bring&lt;/b&gt;!</source>
+        <translation>Внимание: если вы зашифруете свой кошелёк и потеряете от него пароль, то вы &lt;b&gt;ПОТЕРЯЕТЕ ВСЕ СВОИ Bring&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -235,16 +235,16 @@
         <translation>&amp;BIP 38 Шифрование</translation>
     </message>
     <message>
-        <source>Enter a Bring Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Введите Bring адрес, которым вы хотите зашифровать, используя BIP 38. Введите пароль в среднем поле. Нажмите "Зашифровать", чтобы создать зашиврованный секретный ключ.</translation>
+        <source>Enter a BringAddress that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Введите Bringадрес, которым вы хотите зашифровать, используя BIP 38. Введите пароль в среднем поле. Нажмите "Зашифровать", чтобы создать зашиврованный секретный ключ.</translation>
     </message>
     <message>
         <source>Address:</source>
         <translation>Адрес:</translation>
     </message>
     <message>
-        <source>The Bring address to sign the message with</source>
-        <translation>Адрес Bring для подписи сообщения с помощью</translation>
+        <source>The Bringaddress to sign the message with</source>
+        <translation>Адрес Bringдля подписи сообщения с помощью</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -275,7 +275,7 @@
         <translation>Копировать текущую подпись в системный буфер обмена</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Bring address</source>
+        <source>Sign the message to prove you own this Bringaddress</source>
         <translation>Подпишите сообщение, чтобы подтвердить свой адрес Bring</translation>
     </message>
     <message>
@@ -299,12 +299,12 @@
         <translation>Введите зашифрованный с помощью BIP 38 секретный ключ. Введите секретную фразу в среднем окне. Нажмите Дешифровать Ключ чтобы создать секретный ключ. Нажав на Импортировать Адрес после дешифровки, вы добавите секретный ключ к кошельку.</translation>
     </message>
     <message>
-        <source>The Bring address the message was signed with</source>
+        <source>The Bringaddress the message was signed with</source>
         <translation>Адрес Bring, которым подписано сообщение</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Bring address</source>
-        <translation>Проверте сообщение, чтобы убедиться, что оно было подписано указанным Bring адресом </translation>
+        <source>Verify the message to ensure it was signed with the specified Bringaddress</source>
+        <translation>Проверте сообщение, чтобы убедиться, что оно было подписано указанным Bringадресом </translation>
     </message>
     <message>
         <source>Decrypt &amp;Key</source>
@@ -594,16 +594,24 @@
         <translation>Панель вкладок</translation>
     </message>
     <message>
-        <source>Bring Core</source>
-        <translation>Bring Core</translation>
+        <source>Bring</source>
+        <translation>Bring</translation>
     </message>
     <message>
-        <source>Send coins to a Bring address</source>
-        <translation>Отправить монеты на Bring адрес</translation>
+        <source>Send coins to a Bringaddress</source>
+        <translation>Отправить монеты на Bringадрес</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and bring: URIs)</source>
         <translation>Запросить платежи (генерирует QR-код и Bring: URI)</translation>
+    </message>
+    <message>
+        <source>&amp;Privacy</source>
+        <translation>&amp;Конфиденциальность</translation>
+    </message>
+    <message>
+        <source>Privacy Action for zBring and Obfuscation</source>
+        <translation>Конфиденциальное действие и обфускация</translation>
     </message>
     <message>
         <source>&amp;Masternodes</source>
@@ -614,24 +622,24 @@
         <translation>Обзор мастернод</translation>
     </message>
     <message>
-        <source>&amp;About Bring Core</source>
-        <translation>&amp;О Bring Core</translation>
+        <source>&amp;About Bring</source>
+        <translation>&amp;О Bring</translation>
     </message>
     <message>
-        <source>Show information about Bring Core</source>
-        <translation>Показать информацию о Bring Core</translation>
+        <source>Show information about Bring</source>
+        <translation>Показать информацию о Bring</translation>
     </message>
     <message>
         <source>Modify configuration options for Bring</source>
         <translation>Изменение параметров конфигурации Bring</translation>
     </message>
     <message>
-        <source>Sign messages with your Bring addresses to prove you own them</source>
-        <translation>Подписывайте сообщения вашими Bring адресами, чтобы доказать, что вы их владелец</translation>
+        <source>Sign messages with your Bringaddresses to prove you own them</source>
+        <translation>Подписывайте сообщения вашими Bringадресами, чтобы доказать, что вы их владелец</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Bring addresses</source>
-        <translation>Проверте сообщения, чтобы убедиться, что они были подписаны указанным Bring адресом </translation>
+        <source>Verify messages to ensure they were signed with specified Bringaddresses</source>
+        <translation>Проверте сообщения, чтобы убедиться, что они были подписаны указанным Bringадресом </translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -674,16 +682,12 @@
         <translation>Окно обзора блока</translation>
     </message>
     <message>
-        <source>Show the Bring Core help message to get a list with possible Bring command-line options</source>
+        <source>Show the Bring help message to get a list with possible Bringcommand-line options</source>
         <translation>Смотрите помощь к программе, чтобы получить документацию ко всем возможным опциям комманды Bring</translation>
     </message>
     <message>
-        <source>Bring Core client</source>
-        <translation>Клиент Bring Core</translation>
-    </message>
-    <message numerus="yes">
-        <source>%n active connection(s) to Bring network</source>
-        <translation><numerusform>%n активное подключение к сети Bring</numerusform><numerusform>%n активных подключений к сети Bring</numerusform><numerusform>%n активных подключений к сети Bring</numerusform><numerusform>%n активных подключений к сети Bring</numerusform></translation>
+        <source>Bring client</source>
+        <translation>Клиент Bring</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -705,25 +709,9 @@
         <source>Up to date</source>
         <translation>Обновление не требуется</translation>
     </message>
-    <message numerus="yes">
-        <source>%n hour(s)</source>
-        <translation><numerusform>%n час</numerusform><numerusform>%n часов</numerusform><numerusform>%n часов</numerusform><numerusform>%n часов</numerusform></translation>
-    </message>
-    <message numerus="yes">
-        <source>%n day(s)</source>
-        <translation><numerusform>%n день</numerusform><numerusform>%n дней</numerusform><numerusform>%n дней</numerusform><numerusform>%n дней</numerusform></translation>
-    </message>
-    <message numerus="yes">
-        <source>%n week(s)</source>
-        <translation><numerusform>%n неделя</numerusform><numerusform>%n недель</numerusform><numerusform>%n недель</numerusform><numerusform>%n недель</numerusform></translation>
-    </message>
     <message>
         <source>%1 and %2</source>
         <translation>%1 и %2</translation>
-    </message>
-    <message numerus="yes">
-        <source>%n year(s)</source>
-        <translation><numerusform>%n год</numerusform><numerusform>%n лет</numerusform><numerusform>%n лет</numerusform><numerusform>%n лет</numerusform></translation>
     </message>
     <message>
         <source>%1 behind</source>
@@ -822,7 +810,7 @@ MultiSend: %1</translation>
     </message>
     <message>
         <source>Forward</source>
-        <translation>Вперед</translation>
+        <translation>вперед</translation>
     </message>
     <message>
         <source>Address / Block / Transaction</source>
@@ -843,10 +831,6 @@ MultiSend: %1</translation>
 </context>
 <context>
     <name>ClientModel</name>
-    <message>
-        <source>Total: %1 (OBF compatible: %2 / Enabled: %3)</source>
-        <translation>Всего: %1 (OBF совместимые: %2 / Включеные: %3)</translation>
-    </message>
     <message>
         <source>Network Alert</source>
         <translation>Сетевое предупреждение</translation>
@@ -923,10 +907,6 @@ MultiSend: %1</translation>
         <translation>Полученно на адрес</translation>
     </message>
     <message>
-        <source>DS Rounds</source>
-        <translation>DS циклов</translation>
-    </message>
-    <message>
         <source>Date</source>
         <translation>Дата</translation>
     </message>
@@ -999,10 +979,6 @@ MultiSend: %1</translation>
         <translation>Для использования этой функции перейдите в "Режим списка"</translation>
     </message>
     <message>
-        <source>Non-anonymized input selected. &lt;b&gt;Obfuscation will be disabled.&lt;/b&gt;&lt;br&gt;&lt;br&gt;If you still want to use Obfuscation, please deselect all non-nonymized inputs first and then check Obfuscation checkbox again.</source>
-        <translation>Выбран неанонимизированный ввод. &lt;b&gt;Запутывание будет отключено. &lt;/b&gt; &lt;br&gt;&lt;br&gt;. Если вы всё же хотите использовать запутывание, пожалуйста отмените сначала выбор всех неанонимизированных вводов, затем снова поставте флажок "Запутывание".</translation>
-    </message>
-    <message>
         <source>highest</source>
         <translation>самый высокий</translation>
     </message>
@@ -1021,10 +997,6 @@ MultiSend: %1</translation>
     <message>
         <source>Can vary +/- %1 duff(s) per input.</source>
         <translation>Может вариировать +/- %1 duff(s) к вводу</translation>
-    </message>
-    <message>
-        <source>n/a</source>
-        <translation>недоступен</translation>
     </message>
     <message>
         <source>medium</source>
@@ -1138,8 +1110,8 @@ MultiSend: %1</translation>
         <translation>Изменить адрес отправки</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Bring address.</source>
-        <translation>Введенный адрес "%1" не является Bring адресом.</translation>
+        <source>The entered address "%1" is not a valid Bringaddress.</source>
+        <translation>Введенный адрес "%1" не является Bringадресом.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1184,16 +1156,16 @@ MultiSend: %1</translation>
         <translation>версия</translation>
     </message>
     <message>
-        <source>Bring Core</source>
-        <translation>Bring Core</translation>
+        <source>Bring</source>
+        <translation>Bring</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-бит)</translation>
     </message>
     <message>
-        <source>About Bring Core</source>
-        <translation>О Bring Core</translation>
+        <source>About Bring</source>
+        <translation>О Bring</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1239,16 +1211,16 @@ MultiSend: %1</translation>
         <translation>Добро пожаловать</translation>
     </message>
     <message>
-        <source>Welcome to Bring Core.</source>
-        <translation>Добро пожаловать в Bring Core.</translation>
+        <source>Welcome to Bring.</source>
+        <translation>Добро пожаловать в Bring.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Bring Core will store its data.</source>
-        <translation>Поскольку это первый запуск программы, вы можете выбрать, где будут храниться данные Bring Core.</translation>
+        <source>As this is the first time the program is launched, you can choose where Bring will store its data.</source>
+        <translation>Поскольку это первый запуск программы, вы можете выбрать, где будут храниться данные Bring.</translation>
     </message>
     <message>
-        <source>Bring Core will download and store a copy of the Bring block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Bring Core загрузит и сохранит копию цепочки блоков Bring. Каталог будет занимать около %1GB и со временем размер будет увеличиваться. Кроме того, в этом каталоге будет храниться кошелек.</translation>
+        <source>Bring will download and store a copy of the Bringblock chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Bring загрузит и сохранит копию цепочки блоков Bring. Каталог будет занимать около %1GB и со временем размер будет увеличиваться. Кроме того, в этом каталоге будет храниться кошелек.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1259,8 +1231,8 @@ MultiSend: %1</translation>
         <translation>Использовать другой каталог данных:</translation>
     </message>
     <message>
-        <source>Bring Core</source>
-        <translation>Bring Core</translation>
+        <source>Bring</source>
+        <translation>Bring</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1339,7 +1311,7 @@ MultiSend: %1</translation>
     </message>
     <message>
         <source>Status will be updated automatically in (sec):</source>
-        <translation>Состояние будет обновлено через (сек):</translation>
+        <translation>Состояние будет автоматически обновлено через (сек):</translation>
     </message>
     <message>
         <source>0</source>
@@ -1401,12 +1373,12 @@ MultiSend: %1</translation>
         <translation>Введите адрес для отправки</translation>
     </message>
     <message>
-        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other Bring addresses after it matures.
-To Add: enter percentage to give and Bring address to add to the MultiSend vector.
+        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other Bringaddresses after it matures.
+To Add: enter percentage to give and Bringaddress to add to the MultiSend vector.
 To Delete: Enter address to delete and press delete.
 MultiSend will not be activated unless you have clicked Activate</source>
-        <translation>MultiSend позволяет вам автоматически отправлять до 100% вознаграждения за мастерноды и хранение, после их созревания, на другие Bring адреса.
-Для добавления: введите передаваемый процент и Bring адрес для добавления к вектору MultiSend.
+        <translation>MultiSend позволяет вам автоматически отправлять до 100% вознаграждения за мастерноды и хранение, после их созревания, на другие Bringадреса.
+Для добавления: введите передаваемый процент и Bringадрес для добавления к вектору MultiSend.
 Для удаления: введите удаляемый адрес и нажмите удалить.
 MultiSend будет неактивен до тех пор, пока вы не нажмете Включить</translation>
     </message>
@@ -1544,32 +1516,32 @@ Please check the address and try again.</source>
         <translation>Выберите уровень конфиденциальности.</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 10000 BRG</source>
-        <translation>Используйте 2 разные мастерноды для смешивания средств до 10000 BRG</translation>
+        <source>Use 2 separate masternodes to mix funds up to 10000 Bring</source>
+        <translation>Используйте 2 разные мастерноды для смешивания средств до 10000 Bring</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 10000 BRG</source>
-        <translation>Используйте 8 разных мастернод для смешивания средств до 10000 BRG</translation>
+        <source>Use 8 separate masternodes to mix funds up to 10000 Bring</source>
+        <translation>Используйте 8 разных мастернод для смешивания средств до 10000 Bring</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
         <translation>Используйте 16 разных мастернод</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 BRG to anonymize 10000 BRG</source>
-        <translation>Этот вариант является самым быстрым и будет стоить порядка ~0.025 BRG для анонимизации 10000 BRG</translation>
+        <source>This option is the quickest and will cost about ~0.025 Bringto anonymize 10000 Bring</source>
+        <translation>Этот вариант является самым быстрым и будет стоить порядка ~0.025 Bringдля анонимизации 10000 Bring</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 BRG to anonymize 10000 BRG</source>
-        <translation>Это средний по скорости вариант и он будет стоить около 0.05 BRG для анонимизации 10000 BRG</translation>
+        <source>This option is moderately fast and will cost about 0.05 Bringto anonymize 10000 Bring</source>
+        <translation>Это средний по скорости вариант и он будет стоить около 0.05 Bringдля анонимизации 10000 Bring</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
         <translation>Это самый медленный и безопасный вариант. Максимальная анонимность стоит</translation>
     </message>
     <message>
-        <source>0.1 BRG per 10000 BRG you anonymize.</source>
-        <translation>0.1 BRG за 10000 BRG которые вы собираетесь анонимизировать.</translation>
+        <source>0.1 Bringper 10000 Bringyou anonymize.</source>
+        <translation>0.1 Bringза 10000 Bringкоторые вы собираетесь анонимизировать.</translation>
     </message>
     <message>
         <source>Obfuscation Configuration</source>
@@ -1646,8 +1618,8 @@ Please check the address and try again.</source>
         <translation>Отключив проведение неподтвержденных изменений все изменения о транзакции &lt;br/&gt;не будут использованы пока транзакция не получит хотя бы одно подтверждение.&lt;br/&gt;Также это влияет на расчет вашего баланса.</translation>
     </message>
     <message>
-        <source>Automatically open the Bring client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Автоматически открыть клиентский порт Bring через роутер. Ваш роутер должен поддерживать UPnP, а сам сервис должен быть включен.</translation>
+        <source>Automatically open the Bringclient port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Автоматически открыть клиентский порт Bringчерез роутер. Ваш роутер должен поддерживать UPnP, а сам сервис должен быть включен.</translation>
     </message>
     <message>
         <source>Accept connections from outside</source>
@@ -1666,28 +1638,12 @@ Please check the address and try again.</source>
         <translation>Эксперт</translation>
     </message>
     <message>
-        <source>Automatically start Bring after logging in to the system.</source>
-        <translation>Автоматически запускать Bring после входа в систему.</translation>
+        <source>Automatically start Bringafter logging in to the system.</source>
+        <translation>Автоматически запускать Bringпосле входа в систему.</translation>
     </message>
     <message>
-        <source>&amp;Start Bring on system login</source>
-        <translation>&amp;Запускать Bring при входе в систему</translation>
-    </message>
-    <message>
-        <source>This setting determines the amount of individual masternodes that an input will be anonymized through.&lt;br/&gt;More rounds of anonymization gives a higher degree of privacy, but also costs more in fees.</source>
-        <translation>Эта настройка определяет количество мастернод, используемых для анонимизации. Чем больше циклов, тем выше уровень конфиденциальности, но не стоит забывать также об увеличивающейся комиссии.</translation>
-    </message>
-    <message>
-        <source>Obfuscation rounds to use</source>
-        <translation>Количество циклов Перемешивания</translation>
-    </message>
-    <message>
-        <source>This amount acts as a threshold to turn off Obfuscation once it's reached.</source>
-        <translation>При достижении этого значения Перемешивание будет отключено.</translation>
-    </message>
-    <message>
-        <source>Amount of Bring to keep anonymized</source>
-        <translation>Количество Bring, держащихся анонимизированными</translation>
+        <source>&amp;Start Bringon system login</source>
+        <translation>&amp;Запускать Bringпри входе в систему</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1728,8 +1684,20 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
         <translation>Карта порта, использующего &amp;UPnP</translation>
     </message>
     <message>
-        <source>Connect to the Bring network through a SOCKS5 proxy.</source>
-        <translation>Подключиться к сети Bring через SOCKS5 прокси.</translation>
+        <source>Percentage of incoming Bringwhich get automatically converted to zBring via Zerocoin Protocol (min: 10%)</source>
+        <translation>Процент приходящих Bring, которые автоматически конвертируются в zBring благодаря Zerocoin протоколу (min: 10%)</translation>
+    </message>
+    <message>
+        <source>Percentage of autominted zBring</source>
+        <translation>Процент  авточеканненых zBring</translation>
+    </message>
+    <message>
+        <source>Preferred Automint zBring Denomination</source>
+        <translation>Предпочитаемый номинал авточеканной  монеты  zBring</translation>
+    </message>
+    <message>
+        <source>Connect to the Bringnetwork through a SOCKS5 proxy.</source>
+        <translation>Подключиться к сети Bringчерез SOCKS5 прокси.</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -1820,6 +1788,10 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
         <translation>&amp;Отмена</translation>
     </message>
     <message>
+        <source>I don't care</source>
+        <translation>Мне не важно</translation>
+    </message>
+    <message>
         <source>default</source>
         <translation>по-умолчанию</translation>
     </message>
@@ -1855,6 +1827,10 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
         <translation>Вид</translation>
     </message>
     <message>
+        <source>BringBalances</source>
+        <translation>Баланс Bring</translation>
+    </message>
+    <message>
         <source>Available:</source>
         <translation>Доступно:</translation>
     </message>
@@ -1879,12 +1855,8 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
         <translation>Награды за хранение и мастерноды, которые еще не *созрели*</translation>
     </message>
     <message>
-        <source>Balances</source>
-        <translation>Балансы</translation>
-    </message>
-    <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bring network after a connection is established, but this process has not completed yet.</source>
-        <translation>Возможно отображаемая информация устарела. Ваш кошелек автоматически синхронизируется с сетью Bring после установки соединения, но этот процесс еще не завершен. </translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bringnetwork after a connection is established, but this process has not completed yet.</source>
+        <translation>Возможно отображаемая информация устарела. Ваш кошелек автоматически синхронизируется с сетью Bringпосле установки соединения, но этот процесс еще не завершен. </translation>
     </message>
     <message>
         <source>Unconfirmed transactions to watch-only addresses</source>
@@ -1919,146 +1891,28 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
         <translation>Расходуемый:</translation>
     </message>
     <message>
-        <source>Status:</source>
-        <translation>Статус:</translation>
+        <source>Bring:</source>
+        <translation>Bring:</translation>
     </message>
     <message>
-        <source>Obfuscation Balance:</source>
-        <translation>Баланс Обфускации</translation>
+        <source>zBring:</source>
+        <translation>zBring:</translation>
     </message>
     <message>
-        <source>0 BRG / 0 Rounds</source>
-        <translation>0 BRG / 0 Циклов</translation>
+        <source>0 %</source>
+        <translation>0 %</translation>
     </message>
     <message>
-        <source>Enabled/Disabled</source>
-        <translation>Включено/Выключено</translation>
-    </message>
-    <message>
-        <source>Try to manually submit a Obfuscation request.</source>
-        <translation>Попробуюте вручную создать запрос на Обфускацию.</translation>
-    </message>
-    <message>
-        <source>Reset the current status of Obfuscation (can interrupt Obfuscation if it's in the process of Mixing, which can cost you money!)</source>
-        <translation>Сбросить текущий статус Обфускации (может прервать обфускацию, если она уже началась, что может стоить ваших денег!)</translation>
-    </message>
-    <message>
-        <source>Obfuscation</source>
-        <translation>Обфускация</translation>
-    </message>
-    <message>
-        <source>Completion:</source>
-        <translation>Завершение:</translation>
-    </message>
-    <message>
-        <source>Amount and Rounds:</source>
-        <translation>Количесво повторений:</translation>
-    </message>
-    <message>
-        <source>Submitted Denom:</source>
-        <translation>Выбранная единица:</translation>
-    </message>
-    <message>
-        <source>n/a</source>
-        <translation>недоступен</translation>
+        <source>Zerocoin Balance</source>
+        <translation>Баланс Zerocoin </translation>
     </message>
     <message>
         <source>Recent transactions</source>
         <translation>Последние транзакции</translation>
     </message>
     <message>
-        <source>Start/Stop Mixing</source>
-        <translation>Запустить/Остановить смешивание </translation>
-    </message>
-    <message>
-        <source>The denominations you submitted to the Masternode.&lt;br&gt;To mix, other users must submit the exact same denominations.</source>
-        <translation>Деноминации, которые вы отправили на мастерноду. &lt;br&gt;Для смешиваыния, другие пользователи должны отправить точно такие же деноминации.</translation>
-    </message>
-    <message>
-        <source>(Last Message)</source>
-        <translation>(Последнее сообщение)</translation>
-    </message>
-    <message>
-        <source>Try Mix</source>
-        <translation>Попытка смешать</translation>
-    </message>
-    <message>
-        <source>Reset</source>
-        <translation>Сброс</translation>
-    </message>
-    <message>
         <source>out of sync</source>
         <translation>несинронизировано</translation>
-    </message>
-    <message>
-        <source>Disabled</source>
-        <translation>Выключено</translation>
-    </message>
-    <message>
-        <source>No inputs detected</source>
-        <translation>Нет ввода</translation>
-    </message>
-    <message numerus="yes">
-        <source>%n Rounds</source>
-        <translation><numerusform>%n Цикл</numerusform><numerusform>%n Циклов</numerusform><numerusform>%n Циклов</numerusform><numerusform>%n Циклов</numerusform></translation>
-    </message>
-    <message>
-        <source>Not enough compatible inputs to anonymize &lt;span style='color:red;'&gt;%1&lt;/span&gt;,&lt;br&gt;will anonymize &lt;span style='color:red;'&gt;%2&lt;/span&gt; instead</source>
-        <translation>Недостаточно совместимых вводов для анонимизации &lt;span style='color:red;'&gt;%1&lt;/span&gt;,&lt;br&gt; вместо этого будет анонимизировано &lt;span style='color:red;'&gt;%2&lt;/span&gt;</translation>
-    </message>
-    <message>
-        <source>Overall progress</source>
-        <translation>Общий ход выполнения</translation>
-    </message>
-    <message>
-        <source>Anonymized</source>
-        <translation>Анонимизировано</translation>
-    </message>
-    <message>
-        <source>Last Obfuscation message:
-</source>
-        <translation>Последнее сообщение Обфускации:
-</translation>
-    </message>
-    <message>
-        <source>Obfuscation was successfully reset.</source>
-        <translation>Обфускация была успешно сброшена.</translation>
-    </message>
-    <message>
-        <source>If you don't want to see internal Obfuscation fees/transactions select "Most Common" as Type on the "Transactions" tab.</source>
-        <translation>Если вы не хотите видеть внутреннию плату / трансакции Обфускацци выберите "Наиболее распространненные" как Тип в закладке "Транзакции".</translation>
-    </message>
-    <message>
-        <source>Obfuscation requires at least %1 to use.</source>
-        <translation>Для использования обфускации необходимо как минимум %1</translation>
-    </message>
-    <message>
-        <source>Wallet is locked and user declined to unlock. Disabling Obfuscation.</source>
-        <translation>Кошелёк заблокирован и пользователь отклонен для разблокировки. Отключение Обфускации.</translation>
-    </message>
-    <message>
-        <source>Found enough compatible inputs to anonymize %1</source>
-        <translation>Найдено достаточно совместимых вводов для анонимизации %1</translation>
-    </message>
-    <message>
-        <source>Start Obfuscation</source>
-        <translation>Начать Обфускацию</translation>
-    </message>
-    <message>
-        <source>Stop Obfuscation</source>
-        <translation>Остановить Обфускацию</translation>
-    </message>
-    <message>
-        <source>Mixed</source>
-        <translation>Смешано</translation>
-    </message>
-    <message>
-        <source>Enabled</source>
-        <translation>Включено</translation>
-    </message>
-    <message>
-        <source>N/A</source>
-        <translation>Недоступно</translation>
     </message>
 </context>
 <context>
@@ -2084,8 +1938,8 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
         <translation>Не удалось запустить bring: обработчик click-to-pay </translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Bring address or malformed URI parameters.</source>
-        <translation>URI не интерпретируется! Причиной этому может быть неверный Bring адрес или неверные параметеры URI.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid Bringaddress or malformed URI parameters.</source>
+        <translation>URI не интерпретируется! Причиной этому может быть неверный Bringадрес или неверные параметеры URI.</translation>
     </message>
     <message>
         <source>Payment request file cannot be read! This can be caused by an invalid payment request file.</source>
@@ -2164,14 +2018,181 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
     </message>
 </context>
 <context>
+    <name>PrivacyDialog</name>
+    <message>
+        <source>Bringwhich were anonymized via Zerocin Protocol</source>
+        <translation>Bring, который был анонимно использован через Zerocoin протокол</translation>
+    </message>
+    <message>
+        <source>Zerocoin Actions:</source>
+        <translation>Действия Zerocoin </translation>
+    </message>
+    <message>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bringnetwork after a connection is established, but this process has not completed yet.</source>
+        <translation>Возможно отображаемая информация устарела. Ваш кошелек автоматически синхронизируется с сетью Bringпосле установки соединения, но этот процесс еще не завершен. </translation>
+    </message>
+    <message>
+        <source>Enter an amount of Phr to convert to zPhr</source>
+        <translation>Введите сумму в Phr для  конвертации в zPhr</translation>
+    </message>
+    <message>
+        <source>Mint Zerocoin</source>
+        <translation>Создать Zerocoin</translation>
+    </message>
+    <message>
+        <source>0</source>
+        <translation>0</translation>
+    </message>
+    <message>
+        <source>Available for Minting:</source>
+        <translation>Доступный для чеканки</translation>
+    </message>
+    <message>
+        <source>Reset</source>
+        <translation>Сброс</translation>
+    </message>
+    <message>
+        <source>Quantity:</source>
+        <translation>Количество:</translation>
+    </message>
+    <message>
+        <source>Amount:</source>
+        <translation>Сумма:</translation>
+    </message>
+    <message>
+        <source>Choose previously used address</source>
+        <translation>Выбрать ранее использованный адрес</translation>
+    </message>
+    <message>
+        <source>Alt+A</source>
+        <translation>Alt+A</translation>
+    </message>
+    <message>
+        <source>Paste address from clipboard</source>
+        <translation>Вставить адрес из буфера обмена</translation>
+    </message>
+    <message>
+        <source>Alt+P</source>
+        <translation>Alt+P</translation>
+    </message>
+    <message>
+        <source>Available Zerocoin  Balance:</source>
+        <translation>Доступный Баланс в Zerocoin </translation>
+    </message>
+    <message>
+        <source>Denominations with value 1:</source>
+        <translation>Номинал со значением 1:</translation>
+    </message>
+    <message>
+        <source>Denom. with value 1:</source>
+        <translation>Номинал со значением 1:</translation>
+    </message>
+    <message>
+        <source>Denominations with value 5:</source>
+        <translation>Номинал со значением 5:</translation>
+    </message>
+    <message>
+        <source>Denom. with value 5:</source>
+        <translation>Номинал со значением 5:</translation>
+    </message>
+    <message>
+        <source>Denominations with value 10:</source>
+        <translation>Номинал со значением 10:</translation>
+    </message>
+    <message>
+        <source>Denom. with value 10:</source>
+        <translation>Номинал со значением 10:</translation>
+    </message>
+    <message>
+        <source>Denominations with value 50:</source>
+        <translation>Номинал со значением 50:</translation>
+    </message>
+    <message>
+        <source>Denom. with value 50:</source>
+        <translation>Номинал со значением 50:</translation>
+    </message>
+    <message>
+        <source>Denominations with value 100:</source>
+        <translation>Номинал со значением 100:</translation>
+    </message>
+    <message>
+        <source>Denom. with value 100:</source>
+        <translation>Номинал со значением 100:</translation>
+    </message>
+    <message>
+        <source>Denominations with value 500:</source>
+        <translation>Номинал со значением 500:</translation>
+    </message>
+    <message>
+        <source>Denom. with value 500:</source>
+        <translation>Номинал со значением 500:</translation>
+    </message>
+    <message>
+        <source>Denominations with value 1000:</source>
+        <translation>Номинал со значением 1000:</translation>
+    </message>
+    <message>
+        <source>Denom. with value 1000:</source>
+        <translation>Номинал со значением 1000:</translation>
+    </message>
+    <message>
+        <source>Denominations with value 5000:</source>
+        <translation>Номинал со значением 5000:</translation>
+    </message>
+    <message>
+        <source>Denom. with value 5000:</source>
+        <translation>Номинал со значением 5000:</translation>
+    </message>
+    <message>
+        <source>Priority:</source>
+        <translation>Приоритет:</translation>
+    </message>
+    <message>
+        <source>Fee:</source>
+        <translation>Комиссия:</translation>
+    </message>
+    <message>
+        <source>Dust:</source>
+        <translation>Пыль:</translation>
+    </message>
+    <message>
+        <source>no</source>
+        <translation>нет</translation>
+    </message>
+    <message>
+        <source>Bytes:</source>
+        <translation>Байты:</translation>
+    </message>
+    <message>
+        <source>medium</source>
+        <translation>промежуточный</translation>
+    </message>
+    <message>
+        <source>Change:</source>
+        <translation>Изменить:</translation>
+    </message>
+    <message>
+        <source>out of sync</source>
+        <translation>несинронизировано</translation>
+    </message>
+    <message>
+        <source>Copy quantity</source>
+        <translation>Копировать количество</translation>
+    </message>
+    <message>
+        <source>Copy amount</source>
+        <translation>Копировать сумму</translation>
+    </message>
+    </context>
+<context>
     <name>QObject</name>
     <message>
         <source>Amount</source>
         <translation>Сумма</translation>
     </message>
     <message>
-        <source>Enter a Bring address (e.g. %1)</source>
-        <translation>Введите адрес Bring (например %1)</translation>
+        <source>Enter a Bringaddress (e.g. %1)</source>
+        <translation>Введите адрес Bring(например %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -2304,7 +2325,7 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
         <translation>Блокчейн</translation>
     </message>
     <message>
-        <source>Open the Bring debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the Bringdebug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation>Открыть протокол отладки Bring. Это может занять некоторе время, если файл протокола очень большой.</translation>
     </message>
     <message>
@@ -2465,8 +2486,8 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
         <translation>Вывод:</translation>
     </message>
     <message>
-        <source>Welcome to the Bring RPC console.</source>
-        <translation>Добро пожаловать в окружение Bring RPC.</translation>
+        <source>Welcome to the BringRPC console.</source>
+        <translation>Добро пожаловать в окружение BringRPC.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -2685,8 +2706,8 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
         <translation>Изменить:</translation>
     </message>
     <message>
-        <source>0 BRG</source>
-        <translation>0 BRG</translation>
+        <source>0 Bring</source>
+        <translation>0 Bring</translation>
     </message>
     <message>
         <source>Transaction Fee:</source>
@@ -2699,10 +2720,6 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
     <message>
         <source>Minimize</source>
         <translation>Свернуть</translation>
-    </message>
-    <message>
-        <source>Obfuscation</source>
-        <translation>Обфускация</translation>
     </message>
     <message>
         <source>per kilobyte</source>
@@ -2769,8 +2786,8 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
         <translation>Копировать изменение</translation>
     </message>
     <message>
-        <source>Warning: Invalid Bring address</source>
-        <translation>Предупреждение: неправильный Bring адрес</translation>
+        <source>Warning: Invalid Bringaddress</source>
+        <translation>Предупреждение: неправильный Bringадрес</translation>
     </message>
     <message>
         <source>and SwiftTX</source>
@@ -2823,8 +2840,8 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Bring Core is shutting down...</source>
-        <translation>Bring Core выключается...</translation>
+        <source>Bring is shutting down...</source>
+        <translation>Bring выключается...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2834,8 +2851,8 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
 <context>
     <name>SignVerifyMessageDialog</name>
     <message>
-        <source>The Bring address to sign the message with</source>
-        <translation>Адрес Bring для подписи сообщения с помощью</translation>
+        <source>The Bringaddress to sign the message with</source>
+        <translation>Адрес Bringдля подписи сообщения с помощью</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2858,16 +2875,16 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
         <translation>Копировать текущую подпись в системный буфер обмена</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Bring address</source>
+        <source>Sign the message to prove you own this Bringaddress</source>
         <translation>Подпишите сообщение, чтобы подтвердить свой адрес Bring</translation>
     </message>
     <message>
-        <source>The Bring address the message was signed with</source>
+        <source>The Bringaddress the message was signed with</source>
         <translation>Адрес Bring, которым подписано сообщение</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Bring address</source>
-        <translation>Проверте сообщение, чтобы убедиться, что оно было подписано указанным Bring адресом </translation>
+        <source>Verify the message to ensure it was signed with the specified Bringaddress</source>
+        <translation>Проверте сообщение, чтобы убедиться, что оно было подписано указанным Bringадресом </translation>
     </message>
     <message>
         <source>Reset all sign message fields</source>
@@ -2913,8 +2930,8 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bring Core</source>
-        <translation>Bring Core</translation>
+        <source>Bring</source>
+        <translation>Bring</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -2929,8 +2946,8 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
         <translation>Разработчики Dash Core</translation>
     </message>
     <message>
-        <source>The Bring Core developers</source>
-        <translation>Разработчики Bring Core</translation>
+        <source>The Bring developers</source>
+        <translation>Разработчики Bring</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -3181,6 +3198,13 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
     </message>
     </context>
 <context>
+    <name>ZPhrControlDialog</name>
+    <message>
+        <source>0</source>
+        <translation>0</translation>
+    </message>
+    </context>
+<context>
     <name>bring-core</name>
     <message>
         <source>SwiftTX requires inputs with at least 6 confirmations, you might need to wait a few minutes and try again.</source>
@@ -3215,8 +3239,8 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
         <translation>Copyright (C) 2014-%i Разработчики Dash Core</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The Bring Core Developers</source>
-        <translation>Copyright (C) 2015-%i Разработчики Bring Core</translation>
+        <source>Copyright (C) 2015-%i The Bring Developers</source>
+        <translation>Copyright (C) 2015-%i Разработчики Bring</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -3397,10 +3421,6 @@ https://www.transifex.com/bring-project/bring-project-translations</translation>
     <message>
         <source>Not enough file descriptors available.</source>
         <translation>Недостаточно доступных дескрипторов файлов.</translation>
-    </message>
-    <message>
-        <source>Obfuscation options:</source>
-        <translation>Варианты обфускации:</translation>
     </message>
     <message>
         <source>Obfuscation request complete:</source>

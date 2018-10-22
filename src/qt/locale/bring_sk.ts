@@ -62,12 +62,12 @@
         <translation>Prijímacia adresa</translation>
     </message>
     <message>
-        <source>These are your Bring addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Toto sú vaše Bring adresy na odosielanie platieb. Pred odoslaním vždy skontrolujte výšku a adresu prijemcu.</translation>
+        <source>These are your Bringaddresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Toto sú vaše Bringadresy na odosielanie platieb. Pred odoslaním vždy skontrolujte výšku a adresu prijemcu.</translation>
     </message>
     <message>
-        <source>These are your Bring addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Toto sú vaše Bring adresy na prijímanie platieb. Pre každú transakciu sa odporúča použiť novú prijímaciu adresu.</translation>
+        <source>These are your Bringaddresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Toto sú vaše Bringadresy na prijímanie platieb. Pre každú transakciu sa odporúča použiť novú prijímaciu adresu.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -176,16 +176,16 @@
         <translation>Potvrďte šifrovanie peňaženky</translation>
     </message>
     <message>
-        <source>Bring will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your LPCs from being stolen by malware infecting your computer.</source>
-        <translation>Bring sa teraz ukončí, aby dokončil proces šifrovania. Nezabudnite, že šifrovanie peňaženky nemôže úplne ochrániť vaše BRG pred odcudzením škodlivým softvérom, ktorý infikuje váš počítač.</translation>
+        <source>Bringwill close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Brings from being stolen by malware infecting your computer.</source>
+        <translation>Bringsa teraz ukončí, aby dokončil proces šifrovania. Nezabudnite, že šifrovanie peňaženky nemôže úplne ochrániť vaše Bringpred odcudzením škodlivým softvérom, ktorý infikuje váš počítač.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Naozaj chcete zašifrovať svoju peňaženku?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BRG&lt;/b&gt;!</source>
-        <translation>Upozornenie: Ak zašifrujete svoju peňaženku a stratíte svoju prístupovú frázu, &lt;b&gt; PRÍDETE O VŠETKY BRG &lt;/ b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR Bring&lt;/b&gt;!</source>
+        <translation>Upozornenie: Ak zašifrujete svoju peňaženku a stratíte svoju prístupovú frázu, &lt;b&gt; PRÍDETE O VŠETKY Bring&lt;/ b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -239,7 +239,7 @@
         <translation>BIP 38 Šifrovanie</translation>
     </message>
     <message>
-        <source>Enter a Bring Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <source>Enter a BringAddress that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
         <translation>Zadajte adresu Bring, ktorú chcete zašifrovať pomocou BIP 38. Zadajte prístupovú frázu do stredného poľa. Stlačte šifrovanie na výpočet šifrovaného privátneho kľúča.</translation>
     </message>
     <message>
@@ -247,7 +247,7 @@
         <translation>Adresa:</translation>
     </message>
     <message>
-        <source>The Bring address to sign the message with</source>
+        <source>The Bringaddress to sign the message with</source>
         <translation>Adresa Bring, ktorou chcete správu podpísať</translation>
     </message>
     <message>
@@ -279,8 +279,8 @@
         <translation>Skopírujte aktuálny podpis do schránky</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Bring address</source>
-        <translation>Podpíšte správu, aby ste preukázali, že ste vlastníkom tejto Bring adresy</translation>
+        <source>Sign the message to prove you own this Bringaddress</source>
+        <translation>Podpíšte správu, aby ste preukázali, že ste vlastníkom tejto Bringadresy</translation>
     </message>
     <message>
         <source>Encrypt &amp;Key</source>
@@ -303,12 +303,12 @@
         <translation>Zadajte súkromný kľúč zašifrovaný BIP 38. Zadajte prístupovú frázu do stredného poľa. Kliknite na Dešifrovať kľúč, ak chcete vypočítať privátny kľúč. Po dešifrovaní kľúča pridáte do peňaženky tento súkromný kľúč kliknutím na položku 'Importovať adresu'.</translation>
     </message>
     <message>
-        <source>The Bring address the message was signed with</source>
-        <translation>Bring adresa, ktorou bola správa podpísaná</translation>
+        <source>The Bringaddress the message was signed with</source>
+        <translation>Bringadresa, ktorou bola správa podpísaná</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Bring address</source>
-        <translation>Skontrolujte správu, aby ste sa uistili, že bola podpísaná zadanou Bring adresou</translation>
+        <source>Verify the message to ensure it was signed with the specified Bringaddress</source>
+        <translation>Skontrolujte správu, aby ste sa uistili, že bola podpísaná zadanou Bringadresou</translation>
     </message>
     <message>
         <source>Decrypt &amp;Key</source>
@@ -598,11 +598,11 @@
         <translation>Panel nástrojov Záložky</translation>
     </message>
     <message>
-        <source>Bring Core</source>
-        <translation>Bring Core</translation>
+        <source>Bring</source>
+        <translation>Bring</translation>
     </message>
     <message>
-        <source>Send coins to a Bring address</source>
+        <source>Send coins to a Bringaddress</source>
         <translation>Odoslať mince na adresu Bring</translation>
     </message>
     <message>
@@ -618,24 +618,24 @@
         <translation>Prezrieť masternody</translation>
     </message>
     <message>
-        <source>&amp;About Bring Core</source>
-        <translation>O Bring Core</translation>
+        <source>&amp;About Bring</source>
+        <translation>O Bring</translation>
     </message>
     <message>
-        <source>Show information about Bring Core</source>
-        <translation>Zobraziť informácie o Bring Core</translation>
+        <source>Show information about Bring</source>
+        <translation>Zobraziť informácie o Bring</translation>
     </message>
     <message>
         <source>Modify configuration options for Bring</source>
         <translation>Zmeňte možnosti konfigurácie pre Bring</translation>
     </message>
     <message>
-        <source>Sign messages with your Bring addresses to prove you own them</source>
+        <source>Sign messages with your Bringaddresses to prove you own them</source>
         <translation>Podpíšte správy pomocou adresy Bring, aby ste preukázali, že ich vlastníte</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Bring addresses</source>
-        <translation>Overte správy, aby sa zabezpečilo, že boli podpísané zadanými Bring adresami</translation>
+        <source>Verify messages to ensure they were signed with specified Bringaddresses</source>
+        <translation>Overte správy, aby sa zabezpečilo, že boli podpísané zadanými Bringadresami</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -678,12 +678,12 @@
         <translation>Okno blockchain prehliadača</translation>
     </message>
     <message>
-        <source>Show the Bring Core help message to get a list with possible Bring command-line options</source>
-        <translation>Zobraziť pomocnú správu programu Bring Core a získajte zoznam možností príkazového riadka Bring</translation>
+        <source>Show the Bring help message to get a list with possible Bringcommand-line options</source>
+        <translation>Zobraziť pomocnú správu programu Bring a získajte zoznam možností príkazového riadka Bring</translation>
     </message>
     <message>
-        <source>Bring Core client</source>
-        <translation>Bring Core klient</translation>
+        <source>Bring client</source>
+        <translation>Bring klient</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -820,10 +820,6 @@ MultiSend: %1</translation>
 <context>
     <name>ClientModel</name>
     <message>
-        <source>Total: %1 (OBF compatible: %2 / Enabled: %3)</source>
-        <translation>Sumár: %1 (OBF kompatibilné: %2 / Zapnuté: %3)</translation>
-    </message>
-    <message>
         <source>Network Alert</source>
         <translation>Upozornenie siete </translation>
     </message>
@@ -908,15 +904,15 @@ MultiSend: %1</translation>
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bring Core</source>
-        <translation>Bring Core</translation>
+        <source>Bring</source>
+        <translation>Bring</translation>
     </message>
     </context>
 <context>
     <name>Intro</name>
     <message>
-        <source>Bring Core</source>
-        <translation>Bring Core</translation>
+        <source>Bring</source>
+        <translation>Bring</translation>
     </message>
     <message>
         <source>Error</source>
@@ -962,6 +958,53 @@ MultiSend: %1</translation>
     </context>
 <context>
     <name>PeerTableModel</name>
+    </context>
+<context>
+    <name>PrivacyDialog</name>
+    <message>
+        <source>Quantity:</source>
+        <translation>Množstvo:</translation>
+    </message>
+    <message>
+        <source>Amount:</source>
+        <translation>Suma:</translation>
+    </message>
+    <message>
+        <source>Choose previously used address</source>
+        <translation>Vyberte predtým použitú adresu</translation>
+    </message>
+    <message>
+        <source>Alt+A</source>
+        <translation>Alt+A</translation>
+    </message>
+    <message>
+        <source>Paste address from clipboard</source>
+        <translation>Vložte adresu zo schránky</translation>
+    </message>
+    <message>
+        <source>Alt+P</source>
+        <translation>Alt+P</translation>
+    </message>
+    <message>
+        <source>Priority:</source>
+        <translation>Priorita:</translation>
+    </message>
+    <message>
+        <source>Fee:</source>
+        <translation>Poplatok:</translation>
+    </message>
+    <message>
+        <source>Bytes:</source>
+        <translation>Bytov:</translation>
+    </message>
+    <message>
+        <source>Change:</source>
+        <translation>Zmena:</translation>
+    </message>
+    <message>
+        <source>Copy amount</source>
+        <translation>Skopírovať sumu</translation>
+    </message>
     </context>
 <context>
     <name>QObject</name>
@@ -1093,7 +1136,7 @@ MultiSend: %1</translation>
 <context>
     <name>SignVerifyMessageDialog</name>
     <message>
-        <source>The Bring address to sign the message with</source>
+        <source>The Bringaddress to sign the message with</source>
         <translation>Adresa Bring, ktorou chcete správu podpísať</translation>
     </message>
     <message>
@@ -1117,16 +1160,16 @@ MultiSend: %1</translation>
         <translation>Skopírujte aktuálny podpis do schránky</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Bring address</source>
-        <translation>Podpíšte správu, aby ste preukázali, že ste vlastníkom tejto Bring adresy</translation>
+        <source>Sign the message to prove you own this Bringaddress</source>
+        <translation>Podpíšte správu, aby ste preukázali, že ste vlastníkom tejto Bringadresy</translation>
     </message>
     <message>
-        <source>The Bring address the message was signed with</source>
-        <translation>Bring adresa, ktorou bola správa podpísaná</translation>
+        <source>The Bringaddress the message was signed with</source>
+        <translation>Bringadresa, ktorou bola správa podpísaná</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Bring address</source>
-        <translation>Skontrolujte správu, aby ste sa uistili, že bola podpísaná zadanou Bring adresou</translation>
+        <source>Verify the message to ensure it was signed with the specified Bringaddress</source>
+        <translation>Skontrolujte správu, aby ste sa uistili, že bola podpísaná zadanou Bringadresou</translation>
     </message>
     <message>
         <source>Reset all sign message fields</source>
@@ -1164,8 +1207,8 @@ MultiSend: %1</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bring Core</source>
-        <translation>Bring Core</translation>
+        <source>Bring</source>
+        <translation>Bring</translation>
     </message>
     </context>
 <context>
@@ -1258,6 +1301,9 @@ MultiSend: %1</translation>
         <source>Export the data in the current tab to a file</source>
         <translation>Exportovať údaje na aktuálnej karte do súboru</translation>
     </message>
+    </context>
+<context>
+    <name>ZPhrControlDialog</name>
     </context>
 <context>
     <name>bring-core</name>

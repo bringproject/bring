@@ -13,7 +13,7 @@
  * for both bringd and bring-qt, to make it harder for attackers to
  * target servers or GUI users specifically.
  */
-const std::string CLIENT_NAME("Bring Core");
+const std::string CLIENT_NAME("Bring");
 
 /**
  * Client version number
@@ -43,10 +43,10 @@ const std::string CLIENT_NAME("Bring Core");
 #endif
 
 //! git will put "#define GIT_ARCHIVE 1" on the next line inside archives.
-#define GIT_ARCHIVE 1
+#define GIT_ARCHIVE
 #ifdef GIT_ARCHIVE
-#define GIT_COMMIT_ID "cbcb549"
-#define GIT_COMMIT_DATE "Tue, 9 Feb 2016 16:54:57 -0500"
+#define GIT_COMMIT_ID "20180626"
+#define GIT_COMMIT_DATE "Sat, 26 June 2018 16:15:00 -0400"
 #endif
 
 #define BUILD_DESC_WITH_SUFFIX(maj, min, rev, build, suffix) \

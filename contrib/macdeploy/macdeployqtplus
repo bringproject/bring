@@ -1,9 +1,7 @@
 #!/usr/bin/env python
 from __future__ import division, print_function, unicode_literals
-
-
+#
 # Copyright (C) 2011  Patrick "p2k" Schneider <me@p2k-network.org>
-# Copyright (C) 2018 The Bring developers
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
@@ -354,7 +352,7 @@ def deployFrameworks(frameworks, bundlePath, binaryPath, strip, verbose, deploym
         # install_name_tool it a new id.
         changeIdentification(framework.deployedInstallName, deployedBinaryPath, verbose)
         # Check for framework dependencies
-        dependencies = getFrameworks(deployedBinaryPath, verbose)
+        dependencies = getFrameworks(framework.sourceFilePath, verbose)
 
         for dependency in dependencies:
             changeInstallName(dependency.installName, dependency.deployedInstallName, deployedBinaryPath, verbose)
